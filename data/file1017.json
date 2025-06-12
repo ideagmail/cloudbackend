@@ -1,0 +1,30 @@
+{
+  "recommendedtracks": {
+    "track": [
+      {
+        "name": "Vocalo",
+        "artist": {
+          "name": "NPR"
+        },
+        "url": "https://stream.wbez.org/vocalolinear",
+        "streamtype": 2
+      },
+      {
+        "name": "FM Music",
+        "artist": {
+          "name": "BBC"
+        },
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8",
+        "streamtype": 2
+      },
+      {
+        "name": "FM Relax",
+        "artist": {
+          "name": "BBC"
+        },
+        "url": "http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8",
+        "streamtype": 2
+      }
+    ]
+  }
+}

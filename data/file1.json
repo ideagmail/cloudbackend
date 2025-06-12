@@ -1,0 +1,66 @@
+{
+  "recommendedtracks": {
+    "track": [
+      {
+        "name": "APT.",
+        "artist": {
+          "name": "ROSÉ & Bruno Mars"
+        }
+      },
+      {
+        "name": "Die With A Smile",
+        "artist": {
+          "name": "Lady Gaga & Bruno Mars"
+        }
+      },
+      {
+        "name": "Aaj Ki Raat",
+        "artist": {
+          "name": "Madhubanti Bagchi"
+        }
+      },
+      {
+        "name": "Tunak Tunak Sun Bhouji Ki Bain",
+        "artist": {
+          "name": "Roshan Mahoba"
+        }
+      },
+      {
+        "name": "DtMF",
+        "artist": {
+          "name": "Bad Bunny"
+        }
+      },
+      {
+        "name": "Birds Of A Feather",
+        "artist": {
+          "name": "Billie Eilish"
+        }
+      },
+      {
+        "name": "Si Antes Te Hubiera Conocido",
+        "artist": {
+          "name": "KAROL G"
+        }
+      },
+      {
+        "name": "Dreamers",
+        "artist": {
+          "name": "Jung Kook (of BTS) featuring Fahad Al Kubaisi"
+        }
+      },
+      {
+        "name": "Love Hangover",
+        "artist": {
+          "name": "JENNIE & Dominic Fike"
+        }
+      },
+      {
+        "name": "Peelings",
+        "artist": {
+          "name": "Kandukuri Shankar Babu & Laxmi"
+        }
+      }
+    ]
+  }
+}

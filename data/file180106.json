@@ -1,0 +1,66 @@
+{
+  "recommendedtracks": {
+    "track": [
+      {
+        "name": "ORDINARY",
+        "artist": {
+          "name": "ALEX WARREN"
+        }
+      },
+      {
+        "name": "LOVE ME NOT",
+        "artist": {
+          "name": "RAVYN LENAE"
+        }
+      },
+      {
+        "name": "PINK PONY CLUB",
+        "artist": {
+          "name": "CHAPPELL ROAN"
+        }
+      },
+      {
+        "name": "UNDRESSED",
+        "artist": {
+          "name": "SOMBR"
+        }
+      },
+      {
+        "name": "FAMILY MATTERS",
+        "artist": {
+          "name": "SKYE NEWMAN"
+        }
+      },
+      {
+        "name": "JUST KEEP WATCHING",
+        "artist": {
+          "name": "TATE MCRAE"
+        }
+      },
+      {
+        "name": "BLESSINGS",
+        "artist": {
+          "name": "CALVIN HARRIS/DOUGLAS"
+        }
+      },
+      {
+        "name": "AZIZAM",
+        "artist": {
+          "name": "ED SHEERAN"
+        }
+      },
+      {
+        "name": "BACK TO FRIENDS",
+        "artist": {
+          "name": "SOMBR"
+        }
+      },
+      {
+        "name": "BLOODLINE",
+        "artist": {
+          "name": "ALEX WARREN FT JELLY ROLL"
+        }
+      }
+    ]
+  }
+}

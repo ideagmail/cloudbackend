@@ -1,0 +1,66 @@
+{
+  "recommendedtracks": {
+    "track": [
+      {
+        "name": "encore",
+        "artist": {
+          "name": "Hey! Say! JUMP"
+        }
+      },
+      {
+        "name": "GRIT",
+        "artist": {
+          "name": "BE:FIRST"
+        }
+      },
+      {
+        "name": "ROSE",
+        "artist": {
+          "name": "HANA"
+        }
+      },
+      {
+        "name": "また夏に帰ろう",
+        "artist": {
+          "name": "OCTPATH"
+        }
+      },
+      {
+        "name": "クスシキ",
+        "artist": {
+          "name": "Mrs. GREEN APPLE"
+        }
+      },
+      {
+        "name": "ライラック",
+        "artist": {
+          "name": "Mrs. GREEN APPLE"
+        }
+      },
+      {
+        "name": "青と夏",
+        "artist": {
+          "name": "Mrs. GREEN APPLE"
+        }
+      },
+      {
+        "name": "Love yourself!",
+        "artist": {
+          "name": "日向坂46"
+        }
+      },
+      {
+        "name": "天国",
+        "artist": {
+          "name": "Mrs. GREEN APPLE"
+        }
+      },
+      {
+        "name": "Soranji",
+        "artist": {
+          "name": "Mrs. GREEN APPLE"
+        }
+      }
+    ]
+  }
+}
