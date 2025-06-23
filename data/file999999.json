@@ -2,15 +2,27 @@
   "recommendedtracks": {
     "track": [
       {
-        "name": "Grit",
+        "name": "Plazma",
         "artist": {
-          "name": "BE:FIRST"
+          "name": "Kenshi Yonezu"
         }
       },
       {
-        "name": "encore",
+        "name": "Burning Flower",
         "artist": {
-          "name": "Hey! Say! JUMP"
+          "name": "HANA"
+        }
+      },
+      {
+        "name": "Breakfast",
+        "artist": {
+          "name": "Mrs. GREEN APPLE"
+        }
+      },
+      {
+        "name": "Blue Hawaii Lemon",
+        "artist": {
+          "name": "Nearly Equal Joy"
         }
       },
       {
@@ -20,9 +32,9 @@
         }
       },
       {
-        "name": "Let's go back to summer",
+        "name": "The Blue Sun",
         "artist": {
-          "name": "OCTPATH"
+          "name": "aoen"
         }
       },
       {
@@ -32,21 +44,9 @@
         }
       },
       {
-        "name": "Heaven",
-        "artist": {
-          "name": "Mrs. GREEN APPLE"
-        }
-      },
-      {
         "name": "Kaiju",
         "artist": {
           "name": "sakanaction"
-        }
-      },
-      {
-        "name": "Muchu",
-        "artist": {
-          "name": "BE:FIRST"
         }
       },
       {
@@ -62,15 +62,27 @@
         }
       },
       {
-        "name": "SAD SONG",
+        "name": "Lilac",
         "artist": {
-          "name": "Chanmina"
+          "name": "Mrs. GREEN APPLE"
         }
       },
       {
-        "name": "Thunder",
+        "name": "Heaven",
         "artist": {
-          "name": "SEVENTEEN"
+          "name": "Mrs. GREEN APPLE"
+        }
+      },
+      {
+        "name": "Muchu",
+        "artist": {
+          "name": "BE:FIRST"
+        }
+      },
+      {
+        "name": "BOYZ",
+        "artist": {
+          "name": "SixTONES"
         }
       },
       {
@@ -80,33 +92,15 @@
         }
       },
       {
-        "name": "Lilac",
+        "name": "Drop",
         "artist": {
-          "name": "Mrs. GREEN APPLE"
+          "name": "HANA"
         }
       },
       {
-        "name": "Love Yourself!",
+        "name": "SAD SONG",
         "artist": {
-          "name": "Hinatazaka "
-        }
-      },
-      {
-        "name": "TWILIGHT!!!",
-        "artist": {
-          "name": "King Gnu"
-        }
-      },
-      {
-        "name": "Plazma",
-        "artist": {
-          "name": "Kenshi Yonezu"
-        }
-      },
-      {
-        "name": "Toretate Romantic",
-        "artist": {
-          "name": "2BiC"
+          "name": "Chanmina"
         }
       },
       {
@@ -116,21 +110,21 @@
         }
       },
       {
-        "name": "Watch Me!",
+        "name": "Grit",
         "artist": {
-          "name": "YOASOBI"
+          "name": "BE:FIRST"
         }
       },
       {
-        "name": "Chu Strike",
+        "name": "Different",
         "artist": {
-          "name": "NMB48"
+          "name": "LE SSERAFIM"
         }
       },
       {
-        "name": "APT.",
+        "name": "TWILIGHT!!!",
         "artist": {
-          "name": "ROSE & Bruno Mars"
+          "name": "King Gnu"
         }
       },
       {
@@ -140,15 +134,21 @@
         }
       },
       {
-        "name": "Bitter Vacances",
+        "name": "Tiger",
         "artist": {
-          "name": "Mrs. GREEN APPLE"
+          "name": "HANA"
         }
       },
       {
-        "name": "Kaiga",
+        "name": "Make or Break",
         "artist": {
-          "name": "Motoki Ohmori"
+          "name": "Sakurazaka "
+        }
+      },
+      {
+        "name": "Bow And Arrow",
+        "artist": {
+          "name": "Kenshi Yonezu"
         }
       }
     ]
