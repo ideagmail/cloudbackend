@@ -2,64 +2,44 @@
   "recommendedtracks": {
     "track": [
       {
-        "name": "encore",
-        "artist": {
-          "name": "Hey! Say! JUMP"
-        }
+        "name": "Chameleon",
+        "artist": { "name": "Aぇ! Group" }
       },
       {
-        "name": "GRIT",
-        "artist": {
-          "name": "BE:FIRST"
-        }
+        "name": "BLAST",
+        "artist": { "name": "ONE N’ ONLY" }
+      },
+      {
+        "name": "僕らの口笛",
+        "artist": { "name": "SHOW-WA & MATSURI" }
       },
       {
         "name": "ROSE",
-        "artist": {
-          "name": "HANA"
-        }
+        "artist": { "name": "HANA" }
       },
       {
-        "name": "また夏に帰ろう",
-        "artist": {
-          "name": "OCTPATH"
-        }
+        "name": "GRIT",
+        "artist": { "name": "BE:FIRST" }
       },
       {
         "name": "クスシキ",
-        "artist": {
-          "name": "Mrs. GREEN APPLE"
-        }
+        "artist": { "name": "Mrs. GREEN APPLE" }
       },
       {
         "name": "ライラック",
-        "artist": {
-          "name": "Mrs. GREEN APPLE"
-        }
+        "artist": { "name": "Mrs. GREEN APPLE" }
       },
       {
-        "name": "青と夏",
-        "artist": {
-          "name": "Mrs. GREEN APPLE"
-        }
+        "name": "青と夏 (点描の唄 (feat. 井上苑子))",
+        "artist": { "name": "Mrs. GREEN APPLE" }
       },
       {
-        "name": "Love yourself!",
-        "artist": {
-          "name": "日向坂46"
-        }
+        "name": "Plazma / BOW AND ARROW",
+        "artist": { "name": "米津玄師" }
       },
       {
-        "name": "天国",
-        "artist": {
-          "name": "Mrs. GREEN APPLE"
-        }
-      },
-      {
-        "name": "Soranji",
-        "artist": {
-          "name": "Mrs. GREEN APPLE"
-        }
+        "name": "breakfast",
+        "artist": { "name": "Mrs. GREEN APPLE" }
       }
     ]
   }
