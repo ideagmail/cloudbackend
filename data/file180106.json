@@ -2,64 +2,44 @@
   "recommendedtracks": {
     "track": [
       {
-        "name": "ORDINARY",
-        "artist": {
-          "name": "ALEX WARREN"
-        }
+        "name": "Survive",
+        "artist": { "name": "Lewis Capaldi" }
       },
       {
-        "name": "LOVE ME NOT",
-        "artist": {
-          "name": "RAVYN LENAE"
-        }
+        "name": "Dior",
+        "artist": { "name": "MK ft Chrystal" }
       },
       {
-        "name": "PINK PONY CLUB",
-        "artist": {
-          "name": "CHAPPELL ROAN"
-        }
+        "name": "Manchild",
+        "artist": { "name": "Sabrina Carpenter" }
       },
       {
-        "name": "UNDRESSED",
-        "artist": {
-          "name": "SOMBR"
-        }
+        "name": "Love Me Not",
+        "artist": { "name": "Ravyn Lenae" }
       },
       {
-        "name": "FAMILY MATTERS",
-        "artist": {
-          "name": "SKYE NEWMAN"
-        }
+        "name": "Pink Pony Club",
+        "artist": { "name": "Chappell Roan" }
       },
       {
-        "name": "JUST KEEP WATCHING",
-        "artist": {
-          "name": "TATE MCRAE"
-        }
+        "name": "Victory Lap",
+        "artist": { "name": "Fred Again/Skepta/Plaqueboymax" }
       },
       {
-        "name": "BLESSINGS",
-        "artist": {
-          "name": "CALVIN HARRIS/DOUGLAS"
-        }
+        "name": "Blessings",
+        "artist": { "name": "Calvin Harris/Douglas" }
       },
       {
-        "name": "AZIZAM",
-        "artist": {
-          "name": "ED SHEERAN"
-        }
+        "name": "Ordinary",
+        "artist": { "name": "Alex Warren" }
       },
       {
-        "name": "BACK TO FRIENDS",
-        "artist": {
-          "name": "SOMBR"
-        }
+        "name": "Sapphire",
+        "artist": { "name": "Ed Sheeran" }
       },
       {
-        "name": "BLOODLINE",
-        "artist": {
-          "name": "ALEX WARREN FT JELLY ROLL"
-        }
+        "name": "Family Matters",
+        "artist": { "name": "Skye Newman" }
       }
     ]
   }

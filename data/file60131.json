@@ -2,16 +2,12 @@
   "recommendedtracks": {
     "track": [
       {
-        "name": "Chameleon",
-        "artist": { "name": "Aぇ! Group" }
+        "name": "Make or Break",
+        "artist": { "name": "櫻坂46" }
       },
       {
-        "name": "BLAST",
-        "artist": { "name": "ONE N’ ONLY" }
-      },
-      {
-        "name": "僕らの口笛",
-        "artist": { "name": "SHOW-WA & MATSURI" }
+        "name": "DIFFERENT",
+        "artist": { "name": "LE SSERAFIM" }
       },
       {
         "name": "ROSE",
@@ -22,24 +18,28 @@
         "artist": { "name": "BE:FIRST" }
       },
       {
-        "name": "クスシキ",
-        "artist": { "name": "Mrs. GREEN APPLE" }
+        "name": "Plazma / BOW AND ARROW",
+        "artist": { "name": "米津玄師" }
       },
       {
         "name": "ライラック",
         "artist": { "name": "Mrs. GREEN APPLE" }
       },
       {
-        "name": "青と夏 (点描の唄 (feat. 井上苑子))",
+        "name": "青と夏 (点描の唄 feat. 井上苑子)",
         "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "Plazma / BOW AND ARROW",
-        "artist": { "name": "米津玄師" }
       },
       {
         "name": "breakfast",
         "artist": { "name": "Mrs. GREEN APPLE" }
+      },
+      {
+        "name": "クスシキ",
+        "artist": { "name": "Mrs. GREEN APPLE" }
+      },
+      {
+        "name": "チューストライク",
+        "artist": { "name": "NMB48" }
       }
     ]
   }
