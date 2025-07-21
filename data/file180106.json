@@ -2,44 +2,44 @@
   "recommendedtracks": {
     "track": [
       {
-        "name": "Survive",
-        "artist": { "name": "Lewis Capaldi" }
-      },
-      {
-        "name": "Dior",
+        "name": "DIOR",
         "artist": { "name": "MK ft Chrystal" }
       },
       {
-        "name": "Manchild",
+        "name": "MANCHILD",
         "artist": { "name": "Sabrina Carpenter" }
       },
       {
-        "name": "Love Me Not",
-        "artist": { "name": "Ravyn Lenae" }
-      },
-      {
-        "name": "Pink Pony Club",
-        "artist": { "name": "Chappell Roan" }
-      },
-      {
-        "name": "Victory Lap",
-        "artist": { "name": "Fred Again/Skepta/Plaqueboymax" }
-      },
-      {
-        "name": "Blessings",
+        "name": "BLESSINGS",
         "artist": { "name": "Calvin Harris/Douglas" }
       },
       {
-        "name": "Ordinary",
-        "artist": { "name": "Alex Warren" }
+        "name": "DAISIES",
+        "artist": { "name": "Justin Bieber" }
       },
       {
-        "name": "Sapphire",
+        "name": "SAPPHIRE",
         "artist": { "name": "Ed Sheeran" }
       },
       {
-        "name": "Family Matters",
-        "artist": { "name": "Skye Newman" }
+        "name": "VICTORY LAP",
+        "artist": { "name": "Fred Again/Skepta/Plaqueboymax" }
+      },
+      {
+        "name": "ORDINARY",
+        "artist": { "name": "Alex Warren" }
+      },
+      {
+        "name": "SURVIVE",
+        "artist": { "name": "Lewis Capaldi" }
+      },
+      {
+        "name": "GOLDEN",
+        "artist": { "name": "HUNTR/X/EJAE/Audrey Nuna/REI" }
+      },
+      {
+        "name": "NICE TO EACH OTHER",
+        "artist": { "name": "Olivia Dean" }
       }
     ]
   }
