@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Sponsor",
+    "subtitle": "We are accepting sponsor podcasts and in-store apps or games now.",
+    "navigatetitle": "Contact for info",
+    "badgetitle": "SPONSOR",
+    "icon": "\uF61F", //&#xF61F;
+    "link": "mailto:jimmyrespawn@hotmail.com?subject=Podcasted%20Sponsor%20Request&body=Hello%2C%0A%0AI'd%20love%20to%20sponsor%20Podcasted%20app%20and%20get%20featured%20in%20the%20banner.%20%0APlease%20provide%20more%20information%20to%20me.",
+    "thumbnail": "",
+    "primarycolorhex": "#D13646",
+    "secondarycolorhex": "#9A50C5",
+    "imageURL": null,
+    "adsType": 3,
+    "isEnable": true,
+    "expireTime": 1750000000000,
+    "supportAppVersion": 1744,
+    "regionCode": "GLOBAL"
+  },
+  {
+    "title": "FREE MUSIC",
+    "subtitle": "Click here to access free music app.",
+    "navigatetitle": "Download Now",
+    "badgetitle": "APP",
+    "icon": "\uEC4F",
+    "link": "ms-windows-store://pdp/?ProductId=9P6V0D62D4BQ&amp;cid=podcastedbanner",
+    "thumbnail": "",
+    "primarycolorhex": "#D13646",
+    "secondarycolorhex": "#9A50C5",
+    "imageURL": null,
+    "adsType": 2,
+    "isEnable": true,
+    "expireTime": 1750000000000,
+    "supportAppVersion": 1744,
+    "regionCode": "EN"
+  },
+  {
+    "title": "故事FM",
+    "subtitle": "一档「由亲历者口述真实故事」的播客节目",
+    "navigatetitle": "现在聆听",
+    "badgetitle": "编辑精选",
+    "icon": null,
+    "link": "https://feeds.storyfm.cn/storyfm.xml",
+    "thumbnail": "https://miaobi-lite.bj.bcebos.com/miaobi/5mao/b%276K6y5pWF5LqL55Soc3BlYWvov5jmmK9fMTczNDk5MjA2Mi4xMjMzOTAy%27/0.png",
+    "primarycolorhex": "#FF0000",
+    "secondarycolorhex": "#9A50C5",
+    "imageURL": "",
+    "adsType": 0,
+    "isEnable": true,
+    "expireTime": 1750000000000,
+    "supportAppVersion": 1744,
+    "regionCode": "ZH"
+  }
+]
