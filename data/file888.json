@@ -1,7 +1,7 @@
 [
-  {
+    {
     "title": "Sponsor",
-    "subtitle": "We are accepting sponsor podcasts and in-store apps or games now.",
+    "subtitle": "We are now accepting sponsorships for podcasts, in-store apps, and games.",
     "navigatetitle": "Contact for info",
     "badgetitle": "SPONSOR",
     "icon": "\uF61F", //&#xF61F;
@@ -9,12 +9,13 @@
     "thumbnail": "",
     "primarycolorhex": "#D13646",
     "secondarycolorhex": "#9A50C5",
-    "imageURL": null,
+    "imageURL": " ",
     "adsType": 3,
     "isEnable": true,
     "expireTime": 1750000000000,
     "supportAppVersion": 1744,
-    "regionCode": "GLOBAL"
+    "regionCode": "GLOBAL",
+    "platform": "DESKTOP"
   },
   {
     "title": "FREE MUSIC",
@@ -26,12 +27,13 @@
     "thumbnail": "",
     "primarycolorhex": "#D13646",
     "secondarycolorhex": "#9A50C5",
-    "imageURL": null,
+    "imageURL": " ",
     "adsType": 2,
     "isEnable": true,
     "expireTime": 1750000000000,
     "supportAppVersion": 1744,
-    "regionCode": "EN"
+    "regionCode": "EN",
+    "platform": "DESKTOP|XBOX"
   },
   {
     "title": "故事FM",
@@ -48,6 +50,7 @@
     "isEnable": true,
     "expireTime": 1750000000000,
     "supportAppVersion": 1744,
-    "regionCode": "ZH"
+    "regionCode": "ZH",
+    "platform": "DESKTOP|XBOX"
   }
 ]
