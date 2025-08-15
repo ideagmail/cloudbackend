@@ -32,7 +32,7 @@
     "isEnable": true,
     "expireTime": 1750000000000,
     "supportAppVersion": 1744,
-    "regionCode": "EN",
+    "regionCode": "GLOBAL",
     "platform": "DESKTOP|XBOX"
   },
   {
@@ -45,7 +45,7 @@
     "thumbnail": "https://miaobi-lite.bj.bcebos.com/miaobi/5mao/b%276K6y5pWF5LqL55Soc3BlYWvov5jmmK9fMTczNDk5MjA2Mi4xMjMzOTAy%27/0.png",
     "primarycolorhex": "#FF0000",
     "secondarycolorhex": "#9A50C5",
-    "imageURL": "",
+    "imageURL": " ",
     "adsType": 0,
     "isEnable": true,
     "expireTime": 1750000000000,
