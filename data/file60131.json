@@ -2,44 +2,44 @@
   "recommendedtracks": {
     "track": [
       {
-        "name": "Make or Break",
-        "artist": { "name": "櫻坂46" }
+        "name": "What We Got ~奇跡はきみと~ / I Know",
+        "artist": { "name": "King & Prince" }
       },
       {
-        "name": "DIFFERENT",
-        "artist": { "name": "LE SSERAFIM" }
+        "name": "視線のラブレター",
+        "artist": { "name": "僕が見たかった青空" }
+      },
+      {
+        "name": "Blue Jeans",
+        "artist": { "name": "HANA" }
       },
       {
         "name": "ROSE",
         "artist": { "name": "HANA" }
       },
       {
-        "name": "GRIT",
-        "artist": { "name": "BE:FIRST" }
-      },
-      {
-        "name": "Plazma / BOW AND ARROW",
-        "artist": { "name": "米津玄師" }
-      },
-      {
-        "name": "ライラック",
-        "artist": { "name": "Mrs. GREEN APPLE" }
+        "name": "TORICO",
+        "artist": { "name": "岩田剛典" }
       },
       {
         "name": "青と夏 (点描の唄 feat. 井上苑子)",
         "artist": { "name": "Mrs. GREEN APPLE" }
       },
       {
-        "name": "breakfast",
+        "name": "ライラック",
+        "artist": { "name": "Mrs. GREEN APPLE" }
+      },
+      {
+        "name": "宵 -YOI- (Shine On Me)",
+        "artist": { "name": "ENHYPEN" }
+      },
+      {
+        "name": "Soranji (私は最強)",
         "artist": { "name": "Mrs. GREEN APPLE" }
       },
       {
         "name": "クスシキ",
         "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "チューストライク",
-        "artist": { "name": "NMB48" }
       }
     ]
   }

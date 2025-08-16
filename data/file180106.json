@@ -2,44 +2,44 @@
   "recommendedtracks": {
     "track": [
       {
+        "name": "GOLDEN",
+        "artist": { "name": "HUNTR/X/EJAE/AUDREY NUNA/REI" }
+      },
+      {
+        "name": "THE SUBWAY",
+        "artist": { "name": "CHAPPELL ROAN" }
+      },
+      {
+        "name": "NO BROKE BOYS",
+        "artist": { "name": "DISCO LINES & TINASHE" }
+      },
+      {
         "name": "DIOR",
-        "artist": { "name": "MK ft Chrystal" }
-      },
-      {
-        "name": "MANCHILD",
-        "artist": { "name": "Sabrina Carpenter" }
-      },
-      {
-        "name": "BLESSINGS",
-        "artist": { "name": "Calvin Harris/Douglas" }
+        "artist": { "name": "MK FT CHRYSTAL" }
       },
       {
         "name": "DAISIES",
-        "artist": { "name": "Justin Bieber" }
+        "artist": { "name": "JUSTIN BIEBER" }
       },
       {
-        "name": "SAPPHIRE",
-        "artist": { "name": "Ed Sheeran" }
+        "name": "SODA POP",
+        "artist": { "name": "SAJA BOYS/ANDREW CHOI/NECKWAV" }
       },
       {
-        "name": "VICTORY LAP",
-        "artist": { "name": "Fred Again/Skepta/Plaqueboymax" }
+        "name": "YOUR IDOL",
+        "artist": { "name": "SAJA BOYS/ANDREW CHOI/NECKWAV" }
       },
       {
         "name": "ORDINARY",
-        "artist": { "name": "Alex Warren" }
+        "artist": { "name": "ALEX WARREN" }
       },
       {
-        "name": "SURVIVE",
-        "artist": { "name": "Lewis Capaldi" }
+        "name": "SAPPHIRE",
+        "artist": { "name": "ED SHEERAN" }
       },
       {
-        "name": "GOLDEN",
-        "artist": { "name": "HUNTR/X/EJAE/Audrey Nuna/REI" }
-      },
-      {
-        "name": "NICE TO EACH OTHER",
-        "artist": { "name": "Olivia Dean" }
+        "name": "BEAUTIFUL THINGS",
+        "artist": { "name": "BENSON BOONE" }
       }
     ]
   }
