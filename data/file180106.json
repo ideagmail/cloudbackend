@@ -6,12 +6,28 @@
         "artist": { "name": "HUNTR/X/EJAE/AUDREY NUNA/REI" }
       },
       {
-        "name": "THE SUBWAY",
-        "artist": { "name": "CHAPPELL ROAN" }
+        "name": "MAN I NEED",
+        "artist": { "name": "OLIVIA DEAN" }
       },
       {
         "name": "NO BROKE BOYS",
         "artist": { "name": "DISCO LINES & TINASHE" }
+      },
+      {
+        "name": "SODA POP",
+        "artist": { "name": "SAJA BOYS/ANDREW CHOI/NECKWAV" }
+      },
+      {
+        "name": "THE SUBWAY",
+        "artist": { "name": "CHAPPELL ROAN" }
+      },
+      {
+        "name": "YOUR IDOL",
+        "artist": { "name": "SAJA BOYS/ANDREW CHOI/NECKWAV" }
+      },
+      {
+        "name": "NICE TO EACH OTHER",
+        "artist": { "name": "OLIVIA DEAN" }
       },
       {
         "name": "DIOR",
@@ -22,24 +38,8 @@
         "artist": { "name": "JUSTIN BIEBER" }
       },
       {
-        "name": "SODA POP",
-        "artist": { "name": "SAJA BOYS/ANDREW CHOI/NECKWAV" }
-      },
-      {
-        "name": "YOUR IDOL",
-        "artist": { "name": "SAJA BOYS/ANDREW CHOI/NECKWAV" }
-      },
-      {
-        "name": "ORDINARY",
-        "artist": { "name": "ALEX WARREN" }
-      },
-      {
-        "name": "SAPPHIRE",
-        "artist": { "name": "ED SHEERAN" }
-      },
-      {
-        "name": "BEAUTIFUL THINGS",
-        "artist": { "name": "BENSON BOONE" }
+        "name": "REIN ME IN",
+        "artist": { "name": "SAM FENDER & OLIVIA DEAN" }
       }
     ]
   }

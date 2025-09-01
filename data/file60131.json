@@ -2,27 +2,31 @@
   "recommendedtracks": {
     "track": [
       {
-        "name": "What We Got ~奇跡はきみと~ / I Know",
-        "artist": { "name": "King & Prince" }
-      },
-      {
-        "name": "視線のラブレター",
-        "artist": { "name": "僕が見たかった青空" }
+        "name": "BOYLIFE",
+        "artist": { "name": "BOYNEXTDOOR" }
       },
       {
         "name": "Blue Jeans",
         "artist": { "name": "HANA" }
       },
       {
+        "name": "YAKIMOCHI",
+        "artist": { "name": "SWEET STEADY" }
+      },
+      {
+        "name": "Sparkle Summer",
+        "artist": { "name": "KID PHENOMENON from EXILE TRIBE" }
+      },
+      {
         "name": "ROSE",
         "artist": { "name": "HANA" }
       },
       {
-        "name": "TORICO",
-        "artist": { "name": "岩田剛典" }
+        "name": "超絶SUMMERでバカになれ",
+        "artist": { "name": "Lienel" }
       },
       {
-        "name": "青と夏 (点描の唄 feat. 井上苑子)",
+        "name": "青と夏",
         "artist": { "name": "Mrs. GREEN APPLE" }
       },
       {
@@ -30,16 +34,12 @@
         "artist": { "name": "Mrs. GREEN APPLE" }
       },
       {
-        "name": "宵 -YOI- (Shine On Me)",
-        "artist": { "name": "ENHYPEN" }
-      },
-      {
-        "name": "Soranji (私は最強)",
+        "name": "夏の影",
         "artist": { "name": "Mrs. GREEN APPLE" }
       },
       {
-        "name": "クスシキ",
-        "artist": { "name": "Mrs. GREEN APPLE" }
+        "name": "革命道中 - On The Way",
+        "artist": { "name": "アイナ・ジ・エンド" }
       }
     ]
   }
