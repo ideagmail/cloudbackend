@@ -2,6 +2,11 @@
   "recommendedtracks": {
     "track": [
       {
+        "name": "Color Your Night",
+        "artist": {
+          "name": "Lotus Juice"
+        }
+      },{
         "name": "Never Know",
         "artist": {
           "name": "Jack Johnson"
