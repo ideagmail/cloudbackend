@@ -3,43 +3,63 @@
     "track": [
       {
         "name": "GOLDEN",
-        "artist": { "name": "HUNTR/X/EJAE/AUDREY NUNA/REI" }
+        "artist": {
+          "name": "HUNTR/X/EJAE/AUDREY NUNA/REI"
+        }
       },
       {
         "name": "MAN I NEED",
-        "artist": { "name": "OLIVIA DEAN" }
+        "artist": {
+          "name": "OLIVIA DEAN"
+        }
       },
       {
-        "name": "NO BROKE BOYS",
-        "artist": { "name": "DISCO LINES & TINASHE" }
+        "name": "TEARS",
+        "artist": {
+          "name": "SABRINA CARPENTER"
+        }
+      },
+      {
+        "name": "MANCHILD",
+        "artist": {
+          "name": "SABRINA CARPENTER"
+        }
       },
       {
         "name": "SODA POP",
-        "artist": { "name": "SAJA BOYS/ANDREW CHOI/NECKWAV" }
+        "artist": {
+          "name": "SAJA BOYS/ANDREW CHOI/NECKWAV"
+        }
       },
       {
-        "name": "THE SUBWAY",
-        "artist": { "name": "CHAPPELL ROAN" }
+        "name": "NO BROKE BOYS",
+        "artist": {
+          "name": "DISCO LINES & TINASHE"
+        }
+      },
+      {
+        "name": "MY MAN ON WILLPOWER",
+        "artist": {
+          "name": "SABRINA CARPENTER"
+        }
       },
       {
         "name": "YOUR IDOL",
-        "artist": { "name": "SAJA BOYS/ANDREW CHOI/NECKWAV" }
+        "artist": {
+          "name": "SAJA BOYS/ANDREW CHOI/NECKWAV"
+        }
       },
       {
         "name": "NICE TO EACH OTHER",
-        "artist": { "name": "OLIVIA DEAN" }
+        "artist": {
+          "name": "OLIVIA DEAN"
+        }
       },
       {
-        "name": "DIOR",
-        "artist": { "name": "MK FT CHRYSTAL" }
-      },
-      {
-        "name": "DAISIES",
-        "artist": { "name": "JUSTIN BIEBER" }
-      },
-      {
-        "name": "REIN ME IN",
-        "artist": { "name": "SAM FENDER & OLIVIA DEAN" }
+        "name": "THE SUBWAY",
+        "artist": {
+          "name": "CHAPPELL ROAN"
+        }
       }
     ]
   }

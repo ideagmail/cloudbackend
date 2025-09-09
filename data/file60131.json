@@ -2,44 +2,64 @@
   "recommendedtracks": {
     "track": [
       {
-        "name": "BOYLIFE",
-        "artist": { "name": "BOYNEXTDOOR" }
+        "name": "傷つくことが青春だ",
+        "artist": {
+          "name": "STU48"
+        }
+      },
+      {
+        "name": "ハートな胸の内",
+        "artist": {
+          "name": "超ときめき■宣伝部"
+        }
+      },
+      {
+        "name": "女の愛想は武器じゃない",
+        "artist": {
+          "name": "OCHA NORMA"
+        }
+      },
+      {
+        "name": "カリスマックス",
+        "artist": {
+          "name": "Snow Man"
+        }
       },
       {
         "name": "Blue Jeans",
-        "artist": { "name": "HANA" }
+        "artist": {
+          "name": "HANA"
+        }
       },
       {
-        "name": "YAKIMOCHI",
-        "artist": { "name": "SWEET STEADY" }
-      },
-      {
-        "name": "Sparkle Summer",
-        "artist": { "name": "KID PHENOMENON from EXILE TRIBE" }
+        "name": "Secret Garden",
+        "artist": {
+          "name": "BE:FIRST"
+        }
       },
       {
         "name": "ROSE",
-        "artist": { "name": "HANA" }
+        "artist": {
+          "name": "HANA"
+        }
       },
       {
-        "name": "超絶SUMMERでバカになれ",
-        "artist": { "name": "Lienel" }
+        "name": "LIVE EMOTION 1st Anniversary CD",
+        "artist": {
+          "name": "Various Artists"
+        }
+      },
+      {
+        "name": "BOYLIFE",
+        "artist": {
+          "name": "BOYNEXTDOOR"
+        }
       },
       {
         "name": "青と夏",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "ライラック",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "夏の影",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "革命道中 - On The Way",
-        "artist": { "name": "アイナ・ジ・エンド" }
+        "artist": {
+          "name": "Mrs. GREEN APPLE"
+        }
       }
     ]
   }
