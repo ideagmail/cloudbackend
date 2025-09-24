@@ -1,66 +1,16 @@
 {
   "recommendedtracks": {
     "track": [
-      {
-        "name": "傷つくことが青春だ",
-        "artist": {
-          "name": "STU48"
-        }
-      },
-      {
-        "name": "ハートな胸の内",
-        "artist": {
-          "name": "超ときめき■宣伝部"
-        }
-      },
-      {
-        "name": "女の愛想は武器じゃない",
-        "artist": {
-          "name": "OCHA NORMA"
-        }
-      },
-      {
-        "name": "カリスマックス",
-        "artist": {
-          "name": "Snow Man"
-        }
-      },
-      {
-        "name": "Blue Jeans",
-        "artist": {
-          "name": "HANA"
-        }
-      },
-      {
-        "name": "Secret Garden",
-        "artist": {
-          "name": "BE:FIRST"
-        }
-      },
-      {
-        "name": "ROSE",
-        "artist": {
-          "name": "HANA"
-        }
-      },
-      {
-        "name": "LIVE EMOTION 1st Anniversary CD",
-        "artist": {
-          "name": "Various Artists"
-        }
-      },
-      {
-        "name": "BOYLIFE",
-        "artist": {
-          "name": "BOYNEXTDOOR"
-        }
-      },
-      {
-        "name": "青と夏",
-        "artist": {
-          "name": "Mrs. GREEN APPLE"
-        }
-      }
+      { "name": "Stargaze", "artist": { "name": "SixTONES" } },
+      { "name": "Blue Jeans", "artist": { "name": "HANA" } },
+      { "name": "ROSE (Drop)", "artist": { "name": "HANA" } },
+      { "name": "BAD LOVE", "artist": { "name": "HANA" } },
+      { "name": "Blue and Summer", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "Lilac", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "Fun! Fun! Fun!/Flame Kiss", "artist": { "name": "Niihama Leon" } },
+      { "name": "On the road of revolution", "artist": { "name": "Aina the End" } },
+      { "name": "Soranji", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "Time stops", "artist": { "name": "ILLIT" } }
     ]
   }
 }
