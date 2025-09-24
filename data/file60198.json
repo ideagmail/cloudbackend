@@ -1,106 +1,422 @@
 {
   "recommendedtracks": {
     "track": [
-      { "name": "Golden", "artist": { "name": "HUNTR/X" } },
-      { "name": "Ordinary", "artist": { "name": "Alex Warren" } },
-      { "name": "What I Want (feat. Tate McRae)", "artist": { "name": "Morgan Wallen" } },
-      { "name": "Your Idol", "artist": { "name": "Saja Boys" } },
-      { "name": "Soda Pop", "artist": { "name": "Saja Boys" } },
-      { "name": "Love Me Not", "artist": { "name": "Ravyn Lenae" } },
-      { "name": "Lose Control", "artist": { "name": "Teddy Swims" } },
-      { "name": "DAISIES", "artist": { "name": "Justin Bieber" } },
-      { "name": "Just In Case", "artist": { "name": "Morgan Wallen" } },
-      { "name": "How It’s Done", "artist": { "name": "HUNTR/X" } },
-      { "name": "Die With A Smile", "artist": { "name": "Lady Gaga" } },
-      { "name": "Good News", "artist": { "name": "Shaboozey" } },
-      { "name": "A Bar Song (Tipsy)", "artist": { "name": "Shaboozey" } },
-      { "name": "Manchild", "artist": { "name": "Sabrina Carpenter" } },
-      { "name": "MUTT", "artist": { "name": "Leon Thomas" } },
-      { "name": "I'm The Problem", "artist": { "name": "Morgan Wallen" } },
-      { "name": "Beautiful Things", "artist": { "name": "Benson Boone" } },
-      { "name": "Pink Pony Club", "artist": { "name": "Chappell Roan" } },
-      { "name": "I Got Better", "artist": { "name": "Morgan Wallen" } },
-      { "name": "What It Sounds Like", "artist": { "name": "HUNTR/X" } },
-      { "name": "luther (with sza)", "artist": { "name": "Kendrick Lamar" } },
-      { "name": "BIRDS OF A FEATHER", "artist": { "name": "Billie Eilish" } },
-      { "name": "Free", "artist": { "name": "Rumi" } },
-      { "name": "I Had Some Help (Feat. Morgan Wallen)", "artist": { "name": "Post Malone" } },
-      { "name": "Takedown", "artist": { "name": "HUNTR/X" } },
-      { "name": "Sorry I'm Here For Someone Else", "artist": { "name": "Benson Boone" } },
-      { "name": "undressed", "artist": { "name": "sombr" } },
-      { "name": "The Subway", "artist": { "name": "Chappell Roan" } },
-      { "name": "YUKON", "artist": { "name": "Justin Bieber" } },
-      { "name": "Mystical Magical", "artist": { "name": "Benson Boone" } },
-      { "name": "back to friends", "artist": { "name": "sombr" } },
-      { "name": "It Depends (feat. Bryson Tiller)", "artist": { "name": "Chris Brown" } },
-      { "name": "All The Way (feat. Bailey Zimmerman)", "artist": { "name": "BigXthaPlug" } },
-      { "name": "Backup Plan (feat. Luke Combs)", "artist": { "name": "Bailey Zimmerman" } },
-      { "name": "Folded", "artist": { "name": "Kehlani" } },
-      { "name": "Burning Blue", "artist": { "name": "Mariah the Scientist" } },
-      { "name": "Blue Strips", "artist": { "name": "Jessie Murph" } },
-      { "name": "30 For 30 (with Kendrick Lamar)", "artist": { "name": "SZA" } },
-      { "name": "After All The Bars Are Closed", "artist": { "name": "Thomas Rhett" } },
-      { "name": "Happen To Me", "artist": { "name": "Russell Dickerson" } },
-      { "name": "Worst Way", "artist": { "name": "Riley Green" } },
-      { "name": "APT.", "artist": { "name": "ROSÉ" } },
-      { "name": "Bar None", "artist": { "name": "Jordan Davis" } },
-      { "name": "Love Somebody", "artist": { "name": "Morgan Wallen" } },
-      { "name": "What Did I Miss?", "artist": { "name": "Drake" } },
-      { "name": "NOKIA", "artist": { "name": "Drake" } },
-      { "name": "Back in the Saddle", "artist": { "name": "Luke Combs" } },
-      { "name": "Bottle Rockets (feat. Hootie & The Blowfish)", "artist": { "name": "Scotty McCreery" } },
-      { "name": "Sugar On My Tongue", "artist": { "name": "Tyler, The Creator" } },
-      { "name": "No Broke Boys", "artist": { "name": "Disco Lines" } },
-      { "name": "6 Months Later", "artist": { "name": "Megan Moroney" } },
-      { "name": "Miami (feat. Lil Wayne & Rick Ross)", "artist": { "name": "Morgan Wallen" } },
-      { "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)", "artist": { "name": "TWICE" } },
-      { "name": "Somewhere Over Laredo", "artist": { "name": "Lainey Wilson" } },
-      { "name": "20 Cigarettes", "artist": { "name": "Morgan Wallen" } },
-      { "name": "House Again", "artist": { "name": "Hudson Westbrook" } },
-      { "name": "Strategy", "artist": { "name": "TWICE" } },
-      { "name": "Amen", "artist": { "name": "Shaboozey" } },
-      { "name": "WILDFLOWER", "artist": { "name": "Billie Eilish" } },
-      { "name": "Outside", "artist": { "name": "Cardi B" } },
-      { "name": "Hell At Night (feat. Ella Langley)", "artist": { "name": "BigXthaPlug" } },
-      { "name": "YOUR WAY'S BETTER", "artist": { "name": "Forrest Frank" } },
-      { "name": "Just Keep Watching (From F1® The Movie)", "artist": { "name": "Tate McRae" } },
-      { "name": "So Far So Fake", "artist": { "name": "Pierce The Veil" } },
-      { "name": "Shake It To The Max (FLY) - Remix", "artist": { "name": "MOLIY" } },
-      { "name": "Eternity", "artist": { "name": "Alex Warren" } },
-      { "name": "I Ain't Comin' Back (feat. Post Malone)", "artist": { "name": "Morgan Wallen" } },
-      { "name": "Better Me For You (Brown Eyes)", "artist": { "name": "Max McNown" } },
-      { "name": "Marlboro Rojo", "artist": { "name": "Fuerza Regida" } },
-      { "name": "Imaginary Playerz", "artist": { "name": "Cardi B" } },
-      { "name": "party 4 u", "artist": { "name": "Charli xcx" } },
-      { "name": "Gabriela", "artist": { "name": "KATSEYE" } },
-      { "name": "Which One (feat. Central Cee)", "artist": { "name": "Drake" } },
-      { "name": "JUMP", "artist": { "name": "BLACKPINK" } },
-      { "name": "Superman", "artist": { "name": "Morgan Wallen" } },
-      { "name": "RATHER LIE (with The Weeknd)", "artist": { "name": "Playboi Carti" } },
-      { "name": "Last One To Know", "artist": { "name": "Gavin Adcock" } },
-      { "name": "Don’t Mind If I Do (ft. Ella Langley)", "artist": { "name": "Riley Green" } },
-      { "name": "Revolving door", "artist": { "name": "Tate McRae" } },
-      { "name": "Nice To Meet You", "artist": { "name": "Myles Smith" } },
-      { "name": "Sparks", "artist": { "name": "Coldplay" } },
-      { "name": "Went Legit", "artist": { "name": "G Herbo" } },
-      { "name": "Frecuencia", "artist": { "name": "Los Dareyes De La Sierra" } },
-      { "name": "Hard Fought Hallelujah (with Jelly Roll)", "artist": { "name": "Brandon Lake" } },
-      { "name": "Ring Ring Ring", "artist": { "name": "Tyler, The Creator" } },
-      { "name": "Heart of Stone", "artist": { "name": "Jelly Roll" } },
-      { "name": "TN", "artist": { "name": "Morgan Wallen" } },
-      { "name": "Typa", "artist": { "name": "GloRilla" } },
-      { "name": "just say dat", "artist": { "name": "Gunna" } },
-      { "name": "cliché", "artist": { "name": "mgk" } },
-      { "name": "Let Down", "artist": { "name": "Radiohead" } },
-      { "name": "TU SANCHO", "artist": { "name": "Fuerza Regida" } },
-      { "name": "wgft (feat. Burna Boy)", "artist": { "name": "Gunna" } },
-      { "name": "Bloodline (with Jelly Roll)", "artist": { "name": "Alex Warren" } },
-      { "name": "Is It a Crime", "artist": { "name": "Mariah the Scientist" } },
-      { "name": "forever be mine (feat. Wizkid)", "artist": { "name": "Gunna" } },
-      { "name": "Somebody", "artist": { "name": "Latto" } },
-      { "name": "What Kinda Man", "artist": { "name": "Parker McCollum" } },
-      { "name": "Country Song Came On", "artist": { "name": "Luke Bryan" } },
-      { "name": "Napoleon", "artist": { "name": "$uicideboy$" } }
+      {
+        "name": "6 Months Later",
+        "artist": { "name": "Megan Moroney" }
+      },
+      {
+        "name": "Miami (feat. Lil Wayne & Rick Ross)",
+        "artist": { "name": "Morgan Wallen" }
+      },
+      {
+        "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+        "artist": { "name": "TWICE" }
+      },
+      {
+        "name": "Back in the Saddle",
+        "artist": { "name": "Luke Combs" }
+      },
+      {
+        "name": "Golden",
+        "artist": { "name": "HUNTR/X" }
+      },
+      {
+        "name": "Ordinary",
+        "artist": { "name": "Alex Warren" }
+      },
+      {
+        "name": "Manchild",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "Your Idol",
+        "artist": { "name": "Saja Boys" }
+      },
+      {
+        "name": "Soda Pop",
+        "artist": { "name": "Saja Boys" }
+      },
+      {
+        "name": "Tears",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "What I Want (feat. Tate McRae)",
+        "artist": { "name": "Morgan Wallen" }
+      },
+      {
+        "name": "How It’s Done",
+        "artist": { "name": "HUNTR/X" }
+      },
+      {
+        "name": "Love Me Not",
+        "artist": { "name": "Ravyn Lenae" }
+      },
+      {
+        "name": "DAISIES",
+        "artist": { "name": "Justin Bieber" }
+      },
+      {
+        "name": "Lose Control",
+        "artist": { "name": "Teddy Swims" }
+      },
+      {
+        "name": "Die With A Smile",
+        "artist": { "name": "Lady Gaga" }
+      },
+      {
+        "name": "I Got Better",
+        "artist": { "name": "Morgan Wallen" }
+      },
+      {
+        "name": "MUTT",
+        "artist": { "name": "Leon Thomas" }
+      },
+      {
+        "name": "What It Sounds Like",
+        "artist": { "name": "HUNTR/X" }
+      },
+      {
+        "name": "A Bar Song (Tipsy)",
+        "artist": { "name": "Shaboozey" }
+      },
+      {
+        "name": "Beautiful Things",
+        "artist": { "name": "Benson Boone" }
+      },
+      {
+        "name": "Just In Case",
+        "artist": { "name": "Morgan Wallen" }
+      },
+      {
+        "name": "Good News",
+        "artist": { "name": "Shaboozey" }
+      },
+      {
+        "name": "undressed",
+        "artist": { "name": "sombr" }
+      },
+      {
+        "name": "Takedown",
+        "artist": { "name": "HUNTR/X" }
+      },
+      {
+        "name": "I'm The Problem",
+        "artist": { "name": "Morgan Wallen" }
+      },
+      {
+        "name": "Pink Pony Club",
+        "artist": { "name": "Chappell Roan" }
+      },
+      {
+        "name": "Free",
+        "artist": { "name": "Rumi" }
+      },
+      {
+        "name": "back to friends",
+        "artist": { "name": "sombr" }
+      },
+      {
+        "name": "luther (with sza)",
+        "artist": { "name": "Kendrick Lamar" }
+      },
+      {
+        "name": "SOMEBODY LOVES ME PT. 2",
+        "artist": { "name": "PARTYNEXTDOOR" }
+      },
+      {
+        "name": "Nobody’s Son",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "Mystical Magical",
+        "artist": { "name": "Benson Boone" }
+      },
+      {
+        "name": "When Did You Get Hot?",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "Happen To Me",
+        "artist": { "name": "Russell Dickerson" }
+      },
+      {
+        "name": "All The Way (feat. Bailey Zimmerman)",
+        "artist": { "name": "BigXthaPlug" }
+      },
+      {
+        "name": "YUKON",
+        "artist": { "name": "Justin Bieber" }
+      },
+      {
+        "name": "Folded",
+        "artist": { "name": "Kehlani" }
+      },
+      {
+        "name": "Burning Blue",
+        "artist": { "name": "Mariah the Scientist" }
+      },
+      {
+        "name": "Sorry I'm Here For Someone Else",
+        "artist": { "name": "Benson Boone" }
+      },
+      {
+        "name": "Man I Need",
+        "artist": { "name": "Olivia Dean" }
+      },
+      {
+        "name": "It Depends (feat. Bryson Tiller)",
+        "artist": { "name": "Chris Brown" }
+      },
+      {
+        "name": "House Tour",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "The Dead Dance",
+        "artist": { "name": "Lady Gaga" }
+      },
+      {
+        "name": "Go Go Juice",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "My Man on Willpower",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "Bar None",
+        "artist": { "name": "Jordan Davis" }
+      },
+      {
+        "name": "Sugar Talking",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "Worst Way",
+        "artist": { "name": "Riley Green" }
+      },
+      {
+        "name": "Bottle Rockets (feat. Hootie & The Blowfish)",
+        "artist": { "name": "Scotty McCreery" }
+      },
+      {
+        "name": "Goodbye",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "No Broke Boys",
+        "artist": { "name": "Disco Lines" }
+      },
+      {
+        "name": "Blue Strips",
+        "artist": { "name": "Jessie Murph" }
+      },
+      {
+        "name": "Jealous Type",
+        "artist": { "name": "Doja Cat" }
+      },
+      {
+        "name": "Backup Plan (feat. Luke Combs)",
+        "artist": { "name": "Bailey Zimmerman" }
+      },
+      {
+        "name": "After All The Bars Are Closed",
+        "artist": { "name": "Thomas Rhett" }
+      },
+      {
+        "name": "12 to 12",
+        "artist": { "name": "sombr" }
+      },
+      {
+        "name": "Back in the Saddle",
+        "artist": { "name": "Luke Combs" }
+      },
+      {
+        "name": "Never Getting Laid",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "Sugar On My Tongue",
+        "artist": { "name": "Tyler, The Creator" }
+      },
+      {
+        "name": "Gabriela",
+        "artist": { "name": "KATSEYE" }
+      },
+      {
+        "name": "The Subway",
+        "artist": { "name": "Chappell Roan" }
+      },
+      {
+        "name": "Hell At Night (feat. Ella Langley)",
+        "artist": { "name": "BigXthaPlug" }
+      },
+      {
+        "name": "Revolving door",
+        "artist": { "name": "Tate McRae" }
+      },
+      {
+        "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
+        "artist": { "name": "TWICE" }
+      },
+      {
+        "name": "Strategy",
+        "artist": { "name": "TWICE" }
+      },
+      {
+        "name": "House Again",
+        "artist": { "name": "Hudson Westbrook" }
+      },
+      {
+        "name": "Somewhere Over Laredo",
+        "artist": { "name": "Lainey Wilson" }
+      },
+      {
+        "name": "We Almost Broke Up Again Last Night",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "SPEED DEMON",
+        "artist": { "name": "Justin Bieber" }
+      },
+      {
+        "name": "Just Keep Watching (From F1® The Movie)",
+        "artist": { "name": "Tate McRae" }
+      },
+      {
+        "name": "6 Months Later",
+        "artist": { "name": "Megan Moroney" }
+      },
+      {
+        "name": "wgft (feat. Burna Boy)",
+        "artist": { "name": "Gunna" }
+      },
+      {
+        "name": "WILDFLOWER",
+        "artist": { "name": "Billie Eilish" }
+      },
+      {
+        "name": "What Did I Miss?",
+        "artist": { "name": "Drake" }
+      },
+      {
+        "name": "Amen",
+        "artist": { "name": "Shaboozey" }
+      },
+      {
+        "name": "Don’t Worry I’ll Make You Worry",
+        "artist": { "name": "Sabrina Carpenter" }
+      },
+      {
+        "name": "Eternity",
+        "artist": { "name": "Alex Warren" }
+      },
+      {
+        "name": "Better Me For You (Brown Eyes)",
+        "artist": { "name": "Max McNown" }
+      },
+      {
+        "name": "YOUR WAY'S BETTER",
+        "artist": { "name": "Forrest Frank" }
+      },
+      {
+        "name": "Sienna",
+        "artist": { "name": "The Marías" }
+      },
+      {
+        "name": "Heart of Stone",
+        "artist": { "name": "Jelly Roll" }
+      },
+      {
+        "name": "Tiramisu",
+        "artist": { "name": "Don Toliver" }
+      },
+      {
+        "name": "Don’t Mind If I Do (ft. Ella Langley)",
+        "artist": { "name": "Riley Green" }
+      },
+      {
+        "name": "Nice To Meet You",
+        "artist": { "name": "Myles Smith" }
+      },
+      {
+        "name": "Last One To Know",
+        "artist": { "name": "Gavin Adcock" }
+      },
+      {
+        "name": "Sparks",
+        "artist": { "name": "Coldplay" }
+      },
+      {
+        "name": "Marlboro Rojo",
+        "artist": { "name": "Fuerza Regida" }
+      },
+      {
+        "name": "Is It a Crime",
+        "artist": { "name": "Mariah the Scientist" }
+      },
+      {
+        "name": "party 4 u",
+        "artist": { "name": "Charli xcx" }
+      },
+      {
+        "name": "20 Cigarettes",
+        "artist": { "name": "Morgan Wallen" }
+      },
+      {
+        "name": "LOVE SONG",
+        "artist": { "name": "Justin Bieber" }
+      },
+      {
+        "name": "Shake It To The Max (FLY) - Remix",
+        "artist": { "name": "MOLIY" }
+      },
+      {
+        "name": "Typa",
+        "artist": { "name": "GloRilla" }
+      },
+      {
+        "name": "She Ready",
+        "artist": { "name": "Key Glock" }
+      },
+      {
+        "name": "JUMP",
+        "artist": { "name": "BLACKPINK" }
+      },
+      {
+        "name": "Frecuencia",
+        "artist": { "name": "Los Dareyes De La Sierra" }
+      },
+      {
+        "name": "Good Times & Tan Lines",
+        "artist": { "name": "Zach Top" }
+      },
+      {
+        "name": "Let Down",
+        "artist": { "name": "Radiohead" }
+      },
+      {
+        "name": "Outside",
+        "artist": { "name": "Cardi B" }
+      },
+      {
+        "name": "I Ain't Comin' Back (feat. Post Malone)",
+        "artist": { "name": "Morgan Wallen" }
+      },
+      {
+        "name": "Miami (feat. Lil Wayne & Rick Ross)",
+        "artist": { "name": "Morgan Wallen" }
+      },
+      {
+        "name": "Which One (feat. Central Cee)",
+        "artist": { "name": "Drake" }
+      },
+      {
+        "name": "So Far So Fake",
+        "artist": { "name": "Pierce The Veil" }
+      }
     ]
   }
 }

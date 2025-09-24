@@ -1,394 +1,105 @@
 {
   "recommendedtracks": {
     "track": [
-      {
-        "name": "カリスマックス -CHARISMAX",
-        "artist": { "name": "Snow Man" }
-      },
-      {
-        "name": "Secret Garden",
-        "artist": { "name": "BE:FIRST" }
-      },
-      {
-        "name": "Blue Jeans",
-        "artist": { "name": "HANA" }
-      },
-      {
-        "name": "傷つくことが青春だ",
-        "artist": { "name": "STU48" }
-      },
-      {
-        "name": "ハートな胸の内♡",
-        "artist": { "name": "Cho Tokimeki Sendenbu" }
-      },
-      {
-        "name": "夏の影",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "革命道中 - On The Way",
-        "artist": { "name": "AiNA THE END" }
-      },
-      {
-        "name": "ROSE",
-        "artist": { "name": "HANA" }
-      },
-      {
-        "name": "クスシキ",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "残酷な夜に輝け - Shine in the Cruel Night",
-        "artist": { "name": "LiSA" }
-      },
-      {
-        "name": "ライラック",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "ダーリン",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "breakfast",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "怪獣",
-        "artist": { "name": "sakanaction" }
-      },
-      {
-        "name": "JUMP",
-        "artist": { "name": "BLACKPINK" }
-      },
-      {
-        "name": "Golden",
-        "artist": { "name": "HUNTR/X" }
-      },
-      {
-        "name": "Burning Flower",
-        "artist": { "name": "HANA" }
-      },
-      {
-        "name": "Tiger",
-        "artist": { "name": "HANA" }
-      },
-      {
-        "name": "Count To Love",
-        "artist": { "name": "BOYNEXTDOOR" }
-      },
-      {
-        "name": "Carrying Happiness - Tokyo Disney Resort Version",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "恋風",
-        "artist": { "name": "Lilas" }
-      },
-      {
-        "name": "イケナイ太陽",
-        "artist": { "name": "ORANGE RANGE" }
-      },
-      {
-        "name": "夢中",
-        "artist": { "name": "BE:FIRST" }
-      },
-      {
-        "name": "らしさ",
-        "artist": { "name": "OFFICIAL HIGE DANDISM" }
-      },
-      {
-        "name": "太陽が昇らない世界 - A World Where the Sun Never Rises",
-        "artist": { "name": "Aimer" }
-      },
-      {
-        "name": "倍倍FIGHT!",
-        "artist": { "name": "CANDY TUNE" }
-      },
-      {
-        "name": "CEREMONY",
-        "artist": { "name": "Stray Kids" }
-      },
-      {
-        "name": "ブルーアンバー",
-        "artist": { "name": "back number" }
-      },
-      {
-        "name": "PUZZLE",
-        "artist": { "name": "Shota Shimizu" }
-      },
-      {
-        "name": "XOXZ",
-        "artist": { "name": "IVE" }
-      },
-      {
-        "name": "Drop",
-        "artist": { "name": "HANA" }
-      },
-      {
-        "name": "超最強",
-        "artist": { "name": "Cho Tokimeki Sendenbu" }
-      },
-      {
-        "name": "未確認領域",
-        "artist": { "name": "Number_i" }
-      },
-      {
-        "name": "青と夏",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "Oh my pumpkin!",
-        "artist": { "name": "AKB48" }
-      },
-      {
-        "name": "ノンフィクションズ",
-        "artist": { "name": "Da-iCE" }
-      },
-      {
-        "name": "プロポーズ",
-        "artist": { "name": "natori" }
-      },
-      {
-        "name": "ケセラセラ",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "かわいいだけじゃだめですか？",
-        "artist": { "name": "CUTIE STREET" }
-      },
-      {
-        "name": "ビターバカンス",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "SAD SONG",
-        "artist": { "name": "CHANMINA" }
-      },
-      {
-        "name": "若者のすべて",
-        "artist": { "name": "Fujifabric" }
-      },
-      {
-        "name": "幕が上がる",
-        "artist": { "name": "back number" }
-      },
-      {
-        "name": "天国",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "Plazma",
-        "artist": { "name": "Kenshi Yonezu" }
-      },
-      {
-        "name": "お願いバッハ！",
-        "artist": { "name": "Hinatazaka46" }
-      },
-      {
-        "name": "THIS IS FOR",
-        "artist": { "name": "TWICE" }
-      },
-      {
-        "name": "怪獣の花唄",
-        "artist": { "name": "Vaundy" }
-      },
-      {
-        "name": "Don’t Say You Love Me",
-        "artist": { "name": "Jin" }
-      },
-      {
-        "name": "APT.",
-        "artist": { "name": "ROSÉ" }
-      },
-      {
-        "name": "Shine On Me",
-        "artist": { "name": "ENHYPEN" }
-      },
-      {
-        "name": "Soranji",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "再会",
-        "artist": { "name": "Vaundy" }
-      },
-      {
-        "name": "点描の唄",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "織姫とBABY",
-        "artist": { "name": "neguse." }
-      },
-      {
-        "name": "Love Like This",
-        "artist": { "name": "Fujii Kaze" }
-      },
-      {
-        "name": "Like 1",
-        "artist": { "name": "TWICE" }
-      },
-      {
-        "name": "とくべチュ、して",
-        "artist": { "name": "=LOVE" }
-      },
-      {
-        "name": "カーマイン",
-        "artist": { "name": "ELLEGARDEN" }
-      },
-      {
-        "name": "赤いワインに涙が・・・",
-        "artist": { "name": "Brandy Senki" }
-      },
-      {
-        "name": "secret base ～君がくれたもの～",
-        "artist": { "name": "ZONE" }
-      },
-      {
-        "name": "ハレンチ",
-        "artist": { "name": "CHANMINA" }
-      },
-      {
-        "name": "オトノケ - Otonoke",
-        "artist": { "name": "Creepy Nuts" }
-      },
-      {
-        "name": "SAD SONG - From THE FIRST TAKE",
-        "artist": { "name": "CHANMINA" }
-      },
-      {
-        "name": "修羅",
-        "artist": { "name": "ヨルシカ" }
-      },
-      {
-        "name": "StaRt",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "TSUNAMI",
-        "artist": { "name": "サザンオールスターズ" }
-      },
-      {
-        "name": "Whiplash",
-        "artist": { "name": "aespa" }
-      },
-      {
-        "name": "真夏の果実",
-        "artist": { "name": "サザンオールスターズ" }
-      },
-      {
-        "name": "マリーゴールド",
-        "artist": { "name": "Aimyon" }
-      },
-      {
-        "name": "SUMMER SONG",
-        "artist": { "name": "YUI" }
-      },
-      {
-        "name": "高嶺の花子さん",
-        "artist": { "name": "back number" }
-      },
-      {
-        "name": "小さな恋のうた",
-        "artist": { "name": "MONGOL800" }
-      },
-      {
-        "name": "Bunny Girl",
-        "artist": { "name": "AKASAKI" }
-      },
-      {
-        "name": "夢幻",
-        "artist": { "name": "MY FIRST STORY" }
-      },
-      {
-        "name": "花火",
-        "artist": { "name": "aiko" }
-      },
-      {
-        "name": "ダンスホール",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "サウダージ",
-        "artist": { "name": "PornoGraffitti" }
-      },
-      {
-        "name": "僕のこと",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "水平線",
-        "artist": { "name": "back number" }
-      },
-      {
-        "name": "空",
-        "artist": { "name": "BE:FIRST" }
-      },
-      {
-        "name": "ANTENNA",
-        "artist": { "name": "Mrs. GREEN APPLE" }
-      },
-      {
-        "name": "1000日間",
-        "artist": { "name": "乃紫" }
-      },
-      {
-        "name": "BOW AND ARROW",
-        "artist": { "name": "Kenshi Yonezu" }
-      },
-      {
-        "name": "ずっとラブソング",
-        "artist": { "name": "Vaundy" }
-      },
-      {
-        "name": "GOD_i",
-        "artist": { "name": "Number_i" }
-      },
-      {
-        "name": "BON",
-        "artist": { "name": "Number_i" }
-      },
-      {
-        "name": "旋律と結晶",
-        "artist": { "name": "TENBLANK" }
-      },
-      {
-        "name": "TWILIGHT!!!",
-        "artist": { "name": "King Gnu" }
-      },
-      {
-        "name": "わたがし",
-        "artist": { "name": "back number" }
-      },
-      {
-        "name": "幾億光年",
-        "artist": { "name": "Omoinotake" }
-      },
-      {
-        "name": "チャンカパーナ",
-        "artist": { "name": "NEWS" }
-      },
-      {
-        "name": "愛のかたまり",
-        "artist": { "name": "KinKi Kids" }
-      },
-      {
-        "name": "晩餐歌 - Bansanka",
-        "artist": { "name": "tuki." }
-      },
-      {
-        "name": "INZM",
-        "artist": { "name": "Number_i" }
-      },
-      {
-        "name": "DANGER",
-        "artist": { "name": "MAZZEL" }
-      },
-      {
-        "name": "波乗りジョニー",
-        "artist": { "name": "Keisuke Kuwata" }
-      }
+      { "name": "BAD LOVE", "artist": { "name": "HANA" } },
+      { "name": "Blue Jeans", "artist": { "name": "HANA" } },
+      { "name": "革命道中 - On The Way", "artist": { "name": "AiNA THE END" } },
+      { "name": "Prema", "artist": { "name": "Fujii Kaze" } },
+      { "name": "ROSE", "artist": { "name": "HANA" } },
+      { "name": "カリスマックス -CHARISMAX", "artist": { "name": "Snow Man" } },
+      { "name": "夏の影", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "クスシキ", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "PARADISE", "artist": { "name": "TREASURE" } },
+      { "name": "Golden", "artist": { "name": "HUNTR/X" } },
+      { "name": "ライラック", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "Secret Garden", "artist": { "name": "BE:FIRST" } },
+      { "name": "SO BAD", "artist": { "name": "King Gnu" } },
+      { "name": "らしさ", "artist": { "name": "OFFICIAL HIGE DANDISM" } },
+      { "name": "怪獣", "artist": { "name": "sakanaction" } },
+      { "name": "Tiger", "artist": { "name": "HANA" } },
+      { "name": "残酷な夜に輝け - Shine in the Cruel Night", "artist": { "name": "LiSA" } },
+      { "name": "ダーリン", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "Burning Flower", "artist": { "name": "HANA" } },
+      { "name": "モニタリング", "artist": { "name": "DECO*27" } },
+      { "name": "breakfast", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "恋風", "artist": { "name": "Lilas" } },
+      { "name": "Love Like This", "artist": { "name": "Fujii Kaze" } },
+      { "name": "JUMP", "artist": { "name": "BLACKPINK" } },
+      { "name": "織姫とBABY", "artist": { "name": "neguse." } },
+      { "name": "Rich Man", "artist": { "name": "aespa" } },
+      { "name": "ラブソングに襲われる", "artist": { "name": "=LOVE" } },
+      { "name": "Drop", "artist": { "name": "HANA" } },
+      { "name": "夢中", "artist": { "name": "BE:FIRST" } },
+      { "name": "ブルーアンバー", "artist": { "name": "back number" } },
+      { "name": "時よ止まれ", "artist": { "name": "ILLIT" } },
+      { "name": "プロポーズ", "artist": { "name": "natori" } },
+      { "name": "Hachikō", "artist": { "name": "Fujii Kaze" } },
+      { "name": "倍倍FIGHT!", "artist": { "name": "CANDY TUNE" } },
+      { "name": "太陽が昇らない世界 - A World Where the Sun Never Rises", "artist": { "name": "Aimer" } },
+      { "name": "Carrying Happiness - Tokyo Disney Resort Version", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "イケナイ太陽", "artist": { "name": "ORANGE RANGE" } },
+      { "name": "PUZZLE", "artist": { "name": "Shota Shimizu" } },
+      { "name": "Casket Girl", "artist": { "name": "Fujii Kaze" } },
+      { "name": "Plazma", "artist": { "name": "Kenshi Yonezu" } },
+      { "name": "SAD SONG", "artist": { "name": "CHANMINA" } },
+      { "name": "ケセラセラ", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "かわいいだけじゃだめですか？", "artist": { "name": "CUTIE STREET" } },
+      { "name": "Don’t Say You Love Me", "artist": { "name": "Jin" } },
+      { "name": "APT.", "artist": { "name": "ROSÉ" } },
+      { "name": "いつか何もない世界で", "artist": { "name": "Macaroni Empitsu" } },
+      { "name": "怪獣の花唄", "artist": { "name": "Vaundy" } },
+      { "name": "TSUNAMI", "artist": { "name": "サザンオールスターズ" } },
+      { "name": "青と夏", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "I Need U Back", "artist": { "name": "Fujii Kaze" } },
+      { "name": "1000日間", "artist": { "name": "乃紫" } },
+      { "name": "XOXZ", "artist": { "name": "IVE" } },
+      { "name": "未確認領域", "artist": { "name": "Number_i" } },
+      { "name": "Soranji", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "Fun! Fun! Fun!", "artist": { "name": "新浜レオン" } },
+      { "name": "ビターバカンス", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "空", "artist": { "name": "BE:FIRST" } },
+      { "name": "花", "artist": { "name": "Fujii Kaze" } },
+      { "name": "만약이라는 건 없어 (What if)", "artist": { "name": "NiziU" } },
+      { "name": "とくべチュ、して", "artist": { "name": "=LOVE" } },
+      { "name": "You", "artist": { "name": "Fujii Kaze" } },
+      { "name": "ハレンチ", "artist": { "name": "CHANMINA" } },
+      { "name": "天国", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "アシンメトリー", "artist": { "name": "なにわ男子" } },
+      { "name": "若者のすべて", "artist": { "name": "Fujifabric" } },
+      { "name": "点描の唄", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "SAD SONG - From THE FIRST TAKE", "artist": { "name": "CHANMINA" } },
+      { "name": "オトノケ - Otonoke", "artist": { "name": "Creepy Nuts" } },
+      { "name": "再会", "artist": { "name": "Vaundy" } },
+      { "name": "Okay, Goodbye", "artist": { "name": "Fujii Kaze" } },
+      { "name": "It Ain't Over", "artist": { "name": "Fujii Kaze" } },
+      { "name": "Whiplash", "artist": { "name": "aespa" } },
+      { "name": "超最強", "artist": { "name": "Cho Tokimeki Sendenbu" } },
+      { "name": "B級", "artist": { "name": "CHANMINA" } },
+      { "name": "One Week", "artist": { "name": "Leina" } },
+      { "name": "Tears", "artist": { "name": "Sabrina Carpenter" } },
+      { "name": "ノンフィクションズ", "artist": { "name": "Da-iCE" } },
+      { "name": "キャッチー☆ボール", "artist": { "name": "POCKET PANiC" } },
+      { "name": "StaRt", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "かわいいさがしてくれますか？", "artist": { "name": "CUTIE STREET" } },
+      { "name": "お願いバッハ！", "artist": { "name": "Hinatazaka46" } },
+      { "name": "拝啓、少年よ", "artist": { "name": "Hump Back" } },
+      { "name": "THIS IS FOR", "artist": { "name": "TWICE" } },
+      { "name": "幕が上がる", "artist": { "name": "back number" } },
+      { "name": "僕のこと", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "What You Want", "artist": { "name": "CORTIS" } },
+      { "name": "サウダージ", "artist": { "name": "PornoGraffitti" } },
+      { "name": "BOW AND ARROW", "artist": { "name": "Kenshi Yonezu" } },
+      { "name": "幻界", "artist": { "name": "Masaharu Fukuyama" } },
+      { "name": "高嶺の花子さん", "artist": { "name": "back number" } },
+      { "name": "Bunny Girl", "artist": { "name": "AKASAKI" } },
+      { "name": "Forever Young", "artist": { "name": "Fujii Kaze" } },
+      { "name": "ICONIK", "artist": { "name": "ZEROBASEONE" } },
+      { "name": "ガーデン", "artist": { "name": "Fujii Kaze" } },
+      { "name": "水平線", "artist": { "name": "back number" } },
+      { "name": "マリーゴールド", "artist": { "name": "Aimyon" } },
+      { "name": "愛のかたまり", "artist": { "name": "KinKi Kids" } },
+      { "name": "死ぬのがいいわ", "artist": { "name": "Fujii Kaze" } },
+      { "name": "Blue Jeans - From THE FIRST TAKE", "artist": { "name": "HANA" } }
     ]
   }
 }

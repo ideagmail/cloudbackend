@@ -1,66 +1,46 @@
 {
   "recommendedtracks": {
     "track": [
-      {
-        "name": "GOLDEN",
-        "artist": {
-          "name": "HUNTR/X/EJAE/AUDREY NUNA/REI"
-        }
-      },
-      {
-        "name": "MAN I NEED",
-        "artist": {
-          "name": "OLIVIA DEAN"
-        }
-      },
-      {
-        "name": "TEARS",
-        "artist": {
-          "name": "SABRINA CARPENTER"
-        }
-      },
-      {
-        "name": "MANCHILD",
-        "artist": {
-          "name": "SABRINA CARPENTER"
-        }
-      },
-      {
-        "name": "SODA POP",
-        "artist": {
-          "name": "SAJA BOYS/ANDREW CHOI/NECKWAV"
-        }
-      },
-      {
-        "name": "NO BROKE BOYS",
-        "artist": {
-          "name": "DISCO LINES & TINASHE"
-        }
-      },
-      {
-        "name": "MY MAN ON WILLPOWER",
-        "artist": {
-          "name": "SABRINA CARPENTER"
-        }
-      },
-      {
-        "name": "YOUR IDOL",
-        "artist": {
-          "name": "SAJA BOYS/ANDREW CHOI/NECKWAV"
-        }
-      },
-      {
-        "name": "NICE TO EACH OTHER",
-        "artist": {
-          "name": "OLIVIA DEAN"
-        }
-      },
-      {
-        "name": "THE SUBWAY",
-        "artist": {
-          "name": "CHAPPELL ROAN"
-        }
-      }
+      { "name": "Golden", "artist": { "name": "HUNTR/X" } },
+      { "name": "Man I Need", "artist": { "name": "Olivia Dean" } },
+      { "name": "Soda Pop", "artist": { "name": "Saja Boys" } },
+      { "name": "Tears", "artist": { "name": "Sabrina Carpenter" } },
+      { "name": "Your Idol", "artist": { "name": "Saja Boys" } },
+      { "name": "Nice To Each Other", "artist": { "name": "Olivia Dean" } },
+      { "name": "12 to 12", "artist": { "name": "sombr" } },
+      { "name": "Manchild", "artist": { "name": "Sabrina Carpenter" } },
+      { "name": "When Did You Get Hot?", "artist": { "name": "Sabrina Carpenter" } },
+      { "name": "Rein Me In (with Olivia Dean)", "artist": { "name": "Sam Fender" } },
+      { "name": "Ordinary", "artist": { "name": "Alex Warren" } },
+      { "name": "The Subway", "artist": { "name": "Chappell Roan" } },
+      { "name": "The Dead Dance", "artist": { "name": "Lady Gaga" } },
+      { "name": "No Broke Boys", "artist": { "name": "Disco Lines" } },
+      { "name": "Eternity", "artist": { "name": "Alex Warren" } },
+      { "name": "Camera", "artist": { "name": "Ed Sheeran" } },
+      { "name": "Dive", "artist": { "name": "Olivia Dean" } },
+      { "name": "back to friends", "artist": { "name": "sombr" } },
+      { "name": "Yellow", "artist": { "name": "Coldplay" } },
+      { "name": "Sparks", "artist": { "name": "Coldplay" } },
+      { "name": "Breakin' Dishes", "artist": { "name": "Rihanna" } },
+      { "name": "Feel Good Inc.", "artist": { "name": "Gorillaz" } },
+      { "name": "Which One (feat. Central Cee)", "artist": { "name": "Drake" } },
+      { "name": "Takedown", "artist": { "name": "HUNTR/X" } },
+      { "name": "wgft (feat. Burna Boy)", "artist": { "name": "Gunna" } },
+      { "name": "Viva La Vida", "artist": { "name": "Coldplay" } },
+      { "name": "Love Me Not", "artist": { "name": "Ravyn Lenae" } },
+      { "name": "Sapphire", "artist": { "name": "Ed Sheeran" } },
+      { "name": "DAISIES", "artist": { "name": "Justin Bieber" } },
+      { "name": "undressed", "artist": { "name": "sombr" } },
+      { "name": "Pink Pony Club", "artist": { "name": "Chappell Roan" } },
+      { "name": "A Little More", "artist": { "name": "Ed Sheeran" } },
+      { "name": "Folded", "artist": { "name": "Kehlani" } },
+      { "name": "Strategy", "artist": { "name": "TWICE" } },
+      { "name": "Dior (feat. Chrystal)", "artist": { "name": "MK" } },
+      { "name": "Jealous Type", "artist": { "name": "Doja Cat" } },
+      { "name": "Sugar On My Tongue", "artist": { "name": "Tyler, The Creator" } },
+      { "name": "Beautiful Things", "artist": { "name": "Benson Boone" } },
+      { "name": "Gabriela", "artist": { "name": "KATSEYE" } },
+      { "name": "Messy", "artist": { "name": "Lola Young" } }
     ]
   }
 }
