@@ -1,16 +1,16 @@
 {
   "recommendedtracks": {
     "track": [
-      { "name": "Stargaze", "artist": { "name": "SixTONES" } },
-      { "name": "Blue Jeans", "artist": { "name": "HANA" } },
+      { "name": "JANE DOE", "artist": { "name": "米津玄師" } },
+      { "name": "NINE LIVES", "artist": { "name": "優里" } },
+      { "name": "Karma", "artist": { "name": "SKE48" } },
+      { "name": "両片想い", "artist": { "name": "DXTEEN" } },
       { "name": "ROSE (Drop)", "artist": { "name": "HANA" } },
-      { "name": "BAD LOVE", "artist": { "name": "HANA" } },
-      { "name": "Blue and Summer", "artist": { "name": "Mrs. GREEN APPLE" } },
-      { "name": "Lilac", "artist": { "name": "Mrs. GREEN APPLE" } },
-      { "name": "Fun! Fun! Fun!/Flame Kiss", "artist": { "name": "Niihama Leon" } },
-      { "name": "On the road of revolution", "artist": { "name": "Aina the End" } },
-      { "name": "Soranji", "artist": { "name": "Mrs. GREEN APPLE" } },
-      { "name": "Time stops", "artist": { "name": "ILLIT" } }
+      { "name": "Blue Jeans", "artist": { "name": "HANA" } },
+      { "name": "空", "artist": { "name": "BE:FIRST" } },
+      { "name": "Sweet Fancy Chu-n", "artist": { "name": "ランナップ" } },
+      { "name": "青と夏", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "ライラック", "artist": { "name": "Mrs. GREEN APPLE" } }
     ]
   }
 }
