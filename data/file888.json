@@ -33,25 +33,7 @@
     "expireTime": 1750000000000,
     "supportAppVersion": 1744,
     "regionCode": "GLOBAL",
-    "platform": "DESKTOP"
-  },
-  {
-    "title": "FREE DOWNLOAD MANAGER",
-    "subtitle": "Click here to access free download manager app.",
-    "navigatetitle": "Download Now",
-    "badgetitle": "AD",
-    "icon": "\uEC4F",
-    "link": "ms-windows-store://pdp/?ProductId=9mx6kd8wgwgp&amp;cid=podcastedbanner",
-    "thumbnail": "",
-    "primarycolorhex": "#D13646",
-    "secondarycolorhex": "#9A50C5",
-    "imageURL": " ",
-    "adsType": 2,
-    "isEnable": true,
-    "expireTime": 1750000000000,
-    "supportAppVersion": 1744,
-    "regionCode": "GLOBAL",
-    "platform": "XBOX"
+    "platform": "DESKTOP|XBOX"
   },
   {
     "title": "Sponsor",
@@ -109,5 +91,6 @@
   }
 
 ]
+
 
 
