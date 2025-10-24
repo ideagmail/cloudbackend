@@ -1,16 +1,16 @@
 {
   "recommendedtracks": {
     "track": [
-      { "name": "JANE DOE", "artist": { "name": "米津玄師" } },
-      { "name": "BLACK CROWN", "artist": { "name": "OWV" } },
-      { "name": "ROSE", "artist": { "name": "HANA" } },
+      { "name": "はちゃめちゃわちゃライブ! / JAM", "artist": { "name": "FRUITS ZIPPER" } },
+      { "name": "パラノイドランデブー", "artist": { "name": "原因は自分にある。" } },
+      { "name": "IRIS OUT / JANE DOE", "artist": { "name": "米津玄師" } },
+      { "name": "ROSE (Drop)", "artist": { "name": "HANA" } },
+      { "name": "1991", "artist": { "name": "米津玄師" } },
+      { "name": "自分への大脱走 ~Running Running Running~ feat. 湘南乃風", "artist": { "name": "THE RAMPAGE from EXILE TRIBE" } },
       { "name": "Blue Jeans", "artist": { "name": "HANA" } },
-      { "name": "GOOD DAY", "artist": { "name": "Mrs. GREEN APPLE" } },
-      { "name": "青と夏", "artist": { "name": "Mrs. GREEN APPLE" } },
-      { "name": "ライラック", "artist": { "name": "Mrs. GREEN APPLE" } },
-      { "name": "革命道中", "artist": { "name": "アイナ・ジ・エンド" } },
-      { "name": "NINE LIVES", "artist": { "name": "優里" } },
-      { "name": "空", "artist": { "name": "BE:FIRST" } }
+      { "name": "My Body", "artist": { "name": "HANA" } },
+      { "name": "青と夏 (点描の唄 feat. 井上苑子)", "artist": { "name": "Mrs. GREEN APPLE" } },
+      { "name": "ライラック", "artist": { "name": "Mrs. GREEN APPLE" } }
     ]
   }
 }

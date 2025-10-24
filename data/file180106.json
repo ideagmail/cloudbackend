@@ -8,18 +8,6 @@
         }
       },
       {
-        "name": "Opalite",
-        "artist": {
-          "name": "Taylor Swift"
-        }
-      },
-      {
-        "name": "Elizabeth Taylor",
-        "artist": {
-          "name": "Taylor Swift"
-        }
-      },
-      {
         "name": "Man I Need",
         "artist": {
           "name": "Olivia Dean"
@@ -32,15 +20,21 @@
         }
       },
       {
+        "name": "Opalite",
+        "artist": {
+          "name": "Taylor Swift"
+        }
+      },
+      {
         "name": "WHERE IS MY HUSBAND!",
         "artist": {
           "name": "RAYE"
         }
       },
       {
-        "name": "Soda Pop",
+        "name": "Elizabeth Taylor",
         "artist": {
-          "name": "Saja Boys"
+          "name": "Taylor Swift"
         }
       },
       {
@@ -50,9 +44,9 @@
         }
       },
       {
-        "name": "Your Idol",
+        "name": "So Easy (To Fall In Love)",
         "artist": {
-          "name": "Saja Boys"
+          "name": "Olivia Dean"
         }
       },
       {
@@ -62,15 +56,9 @@
         }
       },
       {
-        "name": "TIT FOR TAT",
+        "name": "Your Idol",
         "artist": {
-          "name": "Tate McRae"
-        }
-      },
-      {
-        "name": "So Easy (To Fall In Love)",
-        "artist": {
-          "name": "Olivia Dean"
+          "name": "Saja Boys"
         }
       },
       {
@@ -80,15 +68,27 @@
         }
       },
       {
-        "name": "Ordinary",
+        "name": "How It\"s Done",
         "artist": {
-          "name": "Alex Warren"
+          "name": "HUNTR/X"
         }
       },
       {
         "name": "Rein Me In (with Olivia Dean)",
         "artist": {
           "name": "Sam Fender"
+        }
+      },
+      {
+        "name": "TIT FOR TAT",
+        "artist": {
+          "name": "Tate McRae"
+        }
+      },
+      {
+        "name": "Ordinary",
+        "artist": {
+          "name": "Alex Warren"
         }
       },
       {
@@ -104,21 +104,15 @@
         }
       },
       {
-        "name": "Eternity",
-        "artist": {
-          "name": "Alex Warren"
-        }
-      },
-      {
-        "name": "House Tour",
-        "artist": {
-          "name": "Sabrina Carpenter"
-        }
-      },
-      {
         "name": "No Broke Boys",
         "artist": {
           "name": "Disco Lines"
+        }
+      },
+      {
+        "name": "Eternity",
+        "artist": {
+          "name": "Alex Warren"
         }
       },
       {
@@ -128,39 +122,9 @@
         }
       },
       {
-        "name": "The Dead Dance",
+        "name": "House Tour",
         "artist": {
-          "name": "Lady Gaga"
-        }
-      },
-      {
-        "name": "Feel Good Inc.",
-        "artist": {
-          "name": "Gorillaz"
-        }
-      },
-      {
-        "name": "back to friends",
-        "artist": {
-          "name": "sombr"
-        }
-      },
-      {
-        "name": "Folded",
-        "artist": {
-          "name": "Kehlani"
-        }
-      },
-      {
-        "name": "Breakin' Dishes",
-        "artist": {
-          "name": "Rihanna"
-        }
-      },
-      {
-        "name": "Escapism.",
-        "artist": {
-          "name": "RAYE"
+          "name": "Sabrina Carpenter"
         }
       },
       {
@@ -170,9 +134,33 @@
         }
       },
       {
-        "name": "Make Me Feel",
+        "name": "Feel Good Inc.",
         "artist": {
-          "name": "oskar med k"
+          "name": "Gorillaz"
+        }
+      },
+      {
+        "name": "The Dead Dance",
+        "artist": {
+          "name": "Lady Gaga"
+        }
+      },
+      {
+        "name": "Folded",
+        "artist": {
+          "name": "Kehlani"
+        }
+      },
+      {
+        "name": "Die On This Hill",
+        "artist": {
+          "name": "SIENNA SPIRO"
+        }
+      },
+      {
+        "name": "back to friends",
+        "artist": {
+          "name": "sombr"
         }
       },
       {
@@ -182,27 +170,21 @@
         }
       },
       {
-        "name": "Love Me Not",
+        "name": "Phantom",
         "artist": {
-          "name": "Ravyn Lenae"
+          "name": "EsDeeKid"
         }
       },
       {
-        "name": "Sugar On My Tongue",
+        "name": "Breakin' Dishes",
         "artist": {
-          "name": "Tyler, The Creator"
+          "name": "Rihanna"
         }
       },
       {
-        "name": "Camera",
+        "name": "Make Me Feel",
         "artist": {
-          "name": "Ed Sheeran"
-        }
-      },
-      {
-        "name": "undressed",
-        "artist": {
-          "name": "sombr"
+          "name": "oskar med k"
         }
       },
       {
@@ -212,9 +194,21 @@
         }
       },
       {
-        "name": "Phantom",
+        "name": "Love Me Not",
         "artist": {
-          "name": "EsDeeKid"
+          "name": "Ravyn Lenae"
+        }
+      },
+      {
+        "name": "undressed",
+        "artist": {
+          "name": "sombr"
+        }
+      },
+      {
+        "name": "Sugar On My Tongue",
+        "artist": {
+          "name": "Tyler, The Creator"
         }
       },
       {
@@ -224,9 +218,9 @@
         }
       },
       {
-        "name": "Jealous Type",
+        "name": "EYES CLOSED (with ZAYN)",
         "artist": {
-          "name": "Doja Cat"
+          "name": "JISOO"
         }
       },
       {
@@ -239,6 +233,12 @@
         "name": "Dracula",
         "artist": {
           "name": "Tame Impala"
+        }
+      },
+      {
+        "name": "Lose Control",
+        "artist": {
+          "name": "Teddy Swims"
         }
       }
     ]
