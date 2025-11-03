@@ -1,16 +1,16 @@
 {
   "recommendedtracks": {
     "track": [
-      { "name": "はちゃめちゃわちゃライブ! / JAM", "artist": { "name": "FRUITS ZIPPER" } },
-      { "name": "パラノイドランデブー", "artist": { "name": "原因は自分にある。" } },
+      { "name": "Hands In My Pocket", "artist": { "name": "JO1" } },
       { "name": "IRIS OUT / JANE DOE", "artist": { "name": "米津玄師" } },
       { "name": "ROSE (Drop)", "artist": { "name": "HANA" } },
-      { "name": "1991", "artist": { "name": "米津玄師" } },
-      { "name": "自分への大脱走 ~Running Running Running~ feat. 湘南乃風", "artist": { "name": "THE RAMPAGE from EXILE TRIBE" } },
       { "name": "Blue Jeans", "artist": { "name": "HANA" } },
+      { "name": "キューピットラブでまざまざめいくるっぷ達", "artist": { "name": "CUTIE STREET" } },
+      { "name": "1991", "artist": { "name": "米津玄師" } },
       { "name": "My Body", "artist": { "name": "HANA" } },
       { "name": "青と夏 (点描の唄 feat. 井上苑子)", "artist": { "name": "Mrs. GREEN APPLE" } },
-      { "name": "ライラック", "artist": { "name": "Mrs. GREEN APPLE" } }
+      { "name": "Unhappy birthday壊文", "artist": { "name": "瑛人" } },
+      { "name": "パラノイドシンドラー", "artist": { "name": "夜の本気ダンス" } }
     ]
   }
 }
