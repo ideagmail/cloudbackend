@@ -12,12 +12,6 @@
     "url": "1762138932"
   },
   {
-    "name": "日本Oricon",
-    "thumbnail": "https://od.lk/s/197217989_FP7o5/150px-oricon2.webp",
-    "mbid": "https://raw.githubusercontent.com/ideagmail/cloudbackend/refs/heads/main/data/file60131.json",
-    "url": "1762138932"
-  },
-  {
     "name": "Clouds Favorites",
     "thumbnail": "https://od.lk/s/212857371_E2WjK/225px-forvorites2.webp",
     "mbid": "https://raw.githubusercontent.com/ideagmail/cloudbackend/refs/heads/main/data/file0.json",
@@ -34,6 +28,12 @@
     "thumbnail": "https://od.lk/s/212861582_UHM16/200x200_lofi_thumbnail.webp",
     "mbid": "https://raw.githubusercontent.com/ideagmail/cloudbackend/refs/heads/main/data/file2579101404.json",
     "url": "1718803228"
+  },
+  {
+    "name": "日本Oricon",
+    "thumbnail": "https://od.lk/s/197217989_FP7o5/150px-oricon2.webp",
+    "mbid": "https://raw.githubusercontent.com/ideagmail/cloudbackend/refs/heads/main/data/file60131.json",
+    "url": "1762138932"
   },
   {
     "name": "Billboard Japan",
