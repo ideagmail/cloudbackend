@@ -18,6 +18,24 @@
     "platform": "DESKTOP|XBOX"
   },
   {
+    "title": "音楽ストリーミング",
+    "subtitle": "音楽アプリにアクセスするにはここをクリックしてください。",
+    "navigatetitle": "ダウンロード",
+    "badgetitle": "AD",
+    "icon": "\uEC4F",
+    "link": "ms-windows-store://pdp/?ProductId=9P6V0D62D4BQ&amp;cid=podcastedbanner",
+    "thumbnail": "",
+    "primarycolorhex": "#D13646",
+    "secondarycolorhex": "#9A50C5",
+    "imageURL": " ",
+    "adsType": 3,
+    "isEnable": true,
+    "expireTime": 1750000000000,
+    "supportAppVersion": 1744,
+    "regionCode": "JP",
+    "platform": "DESKTOP|XBOX"
+  },
+  {
     "title": "FREE MUSIC",
     "subtitle": "Click here to access free music app.",
     "navigatetitle": "Download Now",
@@ -34,24 +52,6 @@
     "supportAppVersion": 1744,
     "regionCode": "GLOBAL",
     "platform": "DESKTOP|XBOX"
-  },
-  {
-    "title": "Sponsor",
-    "subtitle": "We are now accepting sponsorships for podcasts, in-store apps, and games.",
-    "navigatetitle": "Contact for info",
-    "badgetitle": "SPONSOR",
-    "icon": "\uF61F",
-    "link": "mailto:jimmylinidea@gmail.com?subject=Podcasted%20Sponsor%20Request&body=Hello%2C%0A%0AI'd%20love%20to%20sponsor%20Podcasted%20app%20and%20get%20featured%20in%20the%20banner.%20%0APlease%20provide%20more%20information%20to%20me.",
-    "thumbnail": "",
-    "primarycolorhex": "#D13646",
-    "secondarycolorhex": "#9A50C5",
-    "imageURL": " ",
-    "adsType": 3,
-    "isEnable": true,
-    "expireTime": 1750000000000,
-    "supportAppVersion": 1744,
-    "regionCode": "GLOBAL",
-    "platform": "DESKTOP"
   },
   {
     "title": "Get Played",
