@@ -21,7 +21,7 @@
     "title": "音楽ストリーミング",
     "subtitle": "音楽アプリにアクセスするにはここをクリックしてください。",
     "navigatetitle": "ダウンロード",
-    "badgetitle": "AD",
+    "badgetitle": "広告",
     "icon": "\uEC4F",
     "link": "ms-windows-store://pdp/?ProductId=9P6V0D62D4BQ&amp;cid=podcastedbanner",
     "thumbnail": "",
@@ -32,7 +32,7 @@
     "isEnable": true,
     "expireTime": 1750000000000,
     "supportAppVersion": 1744,
-    "regionCode": "JP",
+    "regionCode": "JA",
     "platform": "DESKTOP|XBOX"
   },
   {
