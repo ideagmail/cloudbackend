@@ -8,9 +8,27 @@
         }
       },
       {
+        "name": "Cry",
+        "artist": {
+          "name": "Cigarettes After Sex"
+        }
+      },
+      {
+        "name": "Man I Need",
+        "artist": {
+          "name": "Olivia Dean"
+        }
+      },
+      {
         "name": "Golden",
         "artist": {
           "name": "HUNTR/X"
+        }
+      },
+      {
+        "name": "The Fate of Ophelia",
+        "artist": {
+          "name": "Taylor Swift"
         }
       },
       {
@@ -23,18 +41,6 @@
         "name": "Die With A Smile",
         "artist": {
           "name": "Lady Gaga"
-        }
-      },
-      {
-        "name": "Love Me Not",
-        "artist": {
-          "name": "Ravyn Lenae"
-        }
-      },
-      {
-        "name": "Don\"t Say You Love Me",
-        "artist": {
-          "name": "Jin"
         }
       },
       {
@@ -74,21 +80,15 @@
         }
       },
       {
-        "name": "The Fate of Ophelia",
-        "artist": {
-          "name": "Taylor Swift"
-        }
-      },
-      {
-        "name": "Man I Need",
-        "artist": {
-          "name": "Olivia Dean"
-        }
-      },
-      {
         "name": "Iris",
         "artist": {
           "name": "The Goo Goo Dolls"
+        }
+      },
+      {
+        "name": "Lush Life",
+        "artist": {
+          "name": "Zara Larsson"
         }
       },
       {
@@ -104,6 +104,12 @@
         }
       },
       {
+        "name": "Love Me Not",
+        "artist": {
+          "name": "Ravyn Lenae"
+        }
+      },
+      {
         "name": "Show Me Love",
         "artist": {
           "name": "WizTheMc"
@@ -116,7 +122,7 @@
         }
       },
       {
-        "name": "That’s So True",
+        "name": "That\"s So True",
         "artist": {
           "name": "Gracie Abrams"
         }
@@ -254,9 +260,21 @@
         }
       },
       {
-        "name": "Midnight City",
+        "name": "I Run",
         "artist": {
-          "name": "DE SOFFER"
+          "name": "HAVEN."
+        }
+      },
+      {
+        "name": "Waiting Alone",
+        "artist": {
+          "name": "Braaheim"
+        }
+      },
+      {
+        "name": "Don’t Say You Love Me",
+        "artist": {
+          "name": "Jin"
         }
       },
       {
@@ -284,15 +302,15 @@
         }
       },
       {
-        "name": "BEEP",
-        "artist": {
-          "name": "izna"
-        }
-      },
-      {
         "name": "No One Noticed",
         "artist": {
           "name": "The Marías"
+        }
+      },
+      {
+        "name": "Then Life Happened",
+        "artist": {
+          "name": "Chloé Caroline"
         }
       },
       {
@@ -410,27 +428,21 @@
         }
       },
       {
-        "name": "Mangu",
-        "artist": {
-          "name": "Fourtwnty"
-        }
-      },
-      {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "artist": {
           "name": "Sevdaliza"
         }
       },
       {
-        "name": "La Plena - W Sound 05",
-        "artist": {
-          "name": "W Sound"
-        }
-      },
-      {
         "name": "we can't be friends (wait for your love)",
         "artist": {
           "name": "Ariana Grande"
+        }
+      },
+      {
+        "name": "Appetite",
+        "artist": {
+          "name": "Elijah Connor"
         }
       },
       {
@@ -443,6 +455,12 @@
         "name": "Please Please Please",
         "artist": {
           "name": "Sabrina Carpenter"
+        }
+      },
+      {
+        "name": "Midnight City",
+        "artist": {
+          "name": "DE SOFFER"
         }
       },
       {
@@ -482,9 +500,15 @@
         }
       },
       {
-        "name": "Yabadabadooda",
+        "name": "Mangu",
         "artist": {
-          "name": "Taylor Lally"
+          "name": "Fourtwnty"
+        }
+      },
+      {
+        "name": "La Plena - W Sound 05",
+        "artist": {
+          "name": "W Sound"
         }
       },
       {
@@ -548,24 +572,6 @@
         }
       },
       {
-        "name": "Lose Control",
-        "artist": {
-          "name": "Teddy Swims"
-        }
-      },
-      {
-        "name": "fukumean",
-        "artist": {
-          "name": "Gunna"
-        }
-      },
-      {
-        "name": "Guess featuring billie eilish",
-        "artist": {
-          "name": "Charli xcx"
-        }
-      },
-      {
         "name": "Tell Me Why",
         "artist": {
           "name": "Braaheim"
@@ -614,9 +620,9 @@
         }
       },
       {
-        "name": "Don't Faze Me",
+        "name": "INFINITE SUMMER",
         "artist": {
-          "name": "Rosamira"
+          "name": "KOV"
         }
       },
       {
@@ -662,12 +668,6 @@
         }
       },
       {
-        "name": "Feels Like You",
-        "artist": {
-          "name": "Iaco"
-        }
-      },
-      {
         "name": "Die For You (with Ariana Grande) - Remix",
         "artist": {
           "name": "The Weeknd"
@@ -686,12 +686,6 @@
         }
       },
       {
-        "name": "Way Back",
-        "artist": {
-          "name": "Max Wassen"
-        }
-      },
-      {
         "name": "Paint The Town Red",
         "artist": {
           "name": "Doja Cat"
@@ -704,9 +698,9 @@
         }
       },
       {
-        "name": "Have a Heart",
+        "name": "Kinda Like",
         "artist": {
-          "name": "Cameron Sage From"
+          "name": "Bruklin"
         }
       },
       {
@@ -722,21 +716,15 @@
         }
       },
       {
-        "name": "Marriage Story",
-        "artist": {
-          "name": "Max Wassen"
-        }
-      },
-      {
         "name": "Seven (feat. Latto)",
         "artist": {
           "name": "Jung Kook"
         }
       },
       {
-        "name": "Growing Old",
+        "name": "She's Heavenly",
         "artist": {
-          "name": "Max Wassen"
+          "name": "Samuel Miller"
         }
       },
       {
@@ -746,9 +734,9 @@
         }
       },
       {
-        "name": "I am Growing",
+        "name": "Nothing occurred - Remix",
         "artist": {
-          "name": "Taphani"
+          "name": "Sharon Eitan"
         }
       },
       {
@@ -836,9 +824,9 @@
         }
       },
       {
-        "name": "I'm Caught Up",
+        "name": "Chroma Drift",
         "artist": {
-          "name": "Ainae"
+          "name": "PLAVE"
         }
       },
       {
@@ -884,27 +872,15 @@
         }
       },
       {
-        "name": "fool's gold - jaded",
-        "artist": {
-          "name": "Savannah Hail"
-        }
-      },
-      {
-        "name": "When I Wake",
-        "artist": {
-          "name": "SYNTETIK"
-        }
-      },
-      {
         "name": "I Had Some Help (Feat. Morgan Wallen)",
         "artist": {
           "name": "Post Malone"
         }
       },
       {
-        "name": "Screen",
+        "name": "Y Knot",
         "artist": {
-          "name": "Odelia"
+          "name": "Rip Gerber"
         }
       },
       {
@@ -914,9 +890,9 @@
         }
       },
       {
-        "name": "Legendary",
+        "name": "ATTACHMENT ISSUES",
         "artist": {
-          "name": "Decimus Ray"
+          "name": "KOV"
         }
       },
       {
@@ -926,9 +902,33 @@
         }
       },
       {
-        "name": "Backwards In My Head",
+        "name": "Gotta Let Go",
         "artist": {
-          "name": "Snapdibz"
+          "name": "Amber Smoke"
+        }
+      },
+      {
+        "name": "Lose Control",
+        "artist": {
+          "name": "Teddy Swims"
+        }
+      },
+      {
+        "name": "Under Your Skin",
+        "artist": {
+          "name": "Bruklin"
+        }
+      },
+      {
+        "name": "fukumean",
+        "artist": {
+          "name": "Gunna"
+        }
+      },
+      {
+        "name": "Flex",
+        "artist": {
+          "name": "ZARIITHEDON"
         }
       },
       {
@@ -974,21 +974,9 @@
         }
       },
       {
-        "name": "Deep End",
-        "artist": {
-          "name": "Sabrina Nejmah"
-        }
-      },
-      {
         "name": "I Love You So",
         "artist": {
           "name": "The Walters"
-        }
-      },
-      {
-        "name": "Waiting",
-        "artist": {
-          "name": "DANIELA"
         }
       },
       {
@@ -998,15 +986,21 @@
         }
       },
       {
+        "name": "Sing You a Song",
+        "artist": {
+          "name": "Chris Heron Alois"
+        }
+      },
+      {
         "name": "lovely (with Khalid)",
         "artist": {
           "name": "Billie Eilish"
         }
       },
       {
-        "name": "CLOSE TO YOU",
+        "name": "SAY GOODBYE",
         "artist": {
-          "name": "OFF WE GO"
+          "name": "Mackenley Ria"
         }
       },
       {
@@ -1070,12 +1064,6 @@
         }
       },
       {
-        "name": "Life Of Despair",
-        "artist": {
-          "name": "Cole Decker"
-        }
-      },
-      {
         "name": "Shut up My Moms Calling",
         "artist": {
           "name": "Hotel Ugly"
@@ -1091,6 +1079,12 @@
         "name": "Freaks",
         "artist": {
           "name": "Surf Curse"
+        }
+      },
+      {
+        "name": "Son of A Gun",
+        "artist": {
+          "name": "The Strand"
         }
       },
       {
@@ -1112,6 +1106,12 @@
         }
       },
       {
+        "name": "Flicker and Glow",
+        "artist": {
+          "name": "Rubik Angelo Barar"
+        }
+      },
+      {
         "name": "Anti-Hero",
         "artist": {
           "name": "Taylor Swift"
@@ -1124,15 +1124,15 @@
         }
       },
       {
-        "name": "Daddy Issues",
+        "name": "Where You Are",
         "artist": {
-          "name": "The Neighbourhood"
+          "name": "TR Moshia"
         }
       },
       {
-        "name": "Mile High",
+        "name": "Daddy Issues",
         "artist": {
-          "name": "Waking April"
+          "name": "The Neighbourhood"
         }
       },
       {
@@ -1178,15 +1178,15 @@
         }
       },
       {
-        "name": "Catch My Breath",
-        "artist": {
-          "name": "Christine Sako"
-        }
-      },
-      {
         "name": "DEIXA PHONK",
         "artist": {
           "name": "J.beatsfr"
+        }
+      },
+      {
+        "name": "Rockin' Around The Christmas Tree",
+        "artist": {
+          "name": "Brenda Lee"
         }
       },
       {
