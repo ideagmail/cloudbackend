@@ -278,9 +278,9 @@
         }
       },
       {
-        "name": "gigolo",
+        "name": "Good Grief",
         "artist": {
-          "name": "bbno$"
+          "name": "Mathilde Widding"
         }
       },
       {
@@ -308,9 +308,9 @@
         }
       },
       {
-        "name": "Then Life Happened",
+        "name": "Summer Haze",
         "artist": {
-          "name": "Chloé Caroline"
+          "name": "BETHY"
         }
       },
       {
@@ -476,21 +476,27 @@
         }
       },
       {
+        "name": "Flex",
+        "artist": {
+          "name": "ZARIITHEDON"
+        }
+      },
+      {
         "name": "blue",
         "artist": {
           "name": "yung kai"
         }
       },
       {
-        "name": "A Bar Song (Tipsy)",
+        "name": "Candlelight",
         "artist": {
-          "name": "Shaboozey"
+          "name": "Anastasia Solay"
         }
       },
       {
-        "name": "Summer's Done",
+        "name": "A Bar Song (Tipsy)",
         "artist": {
-          "name": "Tom Penny"
+          "name": "Shaboozey"
         }
       },
       {
@@ -518,9 +524,9 @@
         }
       },
       {
-        "name": "Nice Jokes",
+        "name": "Risette (Redux)",
         "artist": {
-          "name": "Lemka"
+          "name": "Lefistos!"
         }
       },
       {
@@ -566,6 +572,12 @@
         }
       },
       {
+        "name": "Nice Jokes",
+        "artist": {
+          "name": "Lemka"
+        }
+      },
+      {
         "name": "Strangers",
         "artist": {
           "name": "Kenya Grace"
@@ -596,6 +608,12 @@
         }
       },
       {
+        "name": "Echo",
+        "artist": {
+          "name": "Bruklin"
+        }
+      },
+      {
         "name": "Gata Only",
         "artist": {
           "name": "FloyyMenor"
@@ -617,12 +635,6 @@
         "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
         "artist": {
           "name": "The Weeknd"
-        }
-      },
-      {
-        "name": "INFINITE SUMMER",
-        "artist": {
-          "name": "KOV"
         }
       },
       {
@@ -656,12 +668,6 @@
         }
       },
       {
-        "name": "Light Plays",
-        "artist": {
-          "name": "Ed Gumbrecht"
-        }
-      },
-      {
         "name": "As It Was",
         "artist": {
           "name": "Harry Styles"
@@ -674,9 +680,9 @@
         }
       },
       {
-        "name": "Fucked",
+        "name": "Yabadabadooda",
         "artist": {
-          "name": "Patrick Duff"
+          "name": "Taylor Lally"
         }
       },
       {
@@ -731,12 +737,6 @@
         "name": "Daylight",
         "artist": {
           "name": "David Kushner"
-        }
-      },
-      {
-        "name": "Nothing occurred - Remix",
-        "artist": {
-          "name": "Sharon Eitan"
         }
       },
       {
@@ -812,12 +812,6 @@
         }
       },
       {
-        "name": "BAD SURPRISE",
-        "artist": {
-          "name": "DAISY WORLD"
-        }
-      },
-      {
         "name": "Cold Heart - PNAU Remix",
         "artist": {
           "name": "Elton John"
@@ -860,15 +854,21 @@
         }
       },
       {
-        "name": "Am I Fuked",
+        "name": "Get Out",
         "artist": {
-          "name": "FNTSY"
+          "name": "Nathalia"
         }
       },
       {
         "name": "Fortnight (feat. Post Malone)",
         "artist": {
           "name": "Taylor Swift"
+        }
+      },
+      {
+        "name": "How Could You, My Love",
+        "artist": {
+          "name": "Lovely Trees"
         }
       },
       {
@@ -887,12 +887,6 @@
         "name": "Mockingbird",
         "artist": {
           "name": "Eminem"
-        }
-      },
-      {
-        "name": "ATTACHMENT ISSUES",
-        "artist": {
-          "name": "KOV"
         }
       },
       {
@@ -926,12 +920,6 @@
         }
       },
       {
-        "name": "Flex",
-        "artist": {
-          "name": "ZARIITHEDON"
-        }
-      },
-      {
         "name": "Mr. Brightside",
         "artist": {
           "name": "The Killers"
@@ -956,6 +944,12 @@
         }
       },
       {
+        "name": "Leave The Light On For Me",
+        "artist": {
+          "name": "Benni Frank"
+        }
+      },
+      {
         "name": "Sweater Weather",
         "artist": {
           "name": "The Neighbourhood"
@@ -974,6 +968,12 @@
         }
       },
       {
+        "name": "Deep End",
+        "artist": {
+          "name": "Sabrina Nejmah"
+        }
+      },
+      {
         "name": "I Love You So",
         "artist": {
           "name": "The Walters"
@@ -986,9 +986,9 @@
         }
       },
       {
-        "name": "Sing You a Song",
+        "name": "What the mirror image said - Remix",
         "artist": {
-          "name": "Chris Heron Alois"
+          "name": "Sharon Eitan"
         }
       },
       {
@@ -1022,15 +1022,15 @@
         }
       },
       {
-        "name": "drivers license",
+        "name": "I've been asked - Remix",
         "artist": {
-          "name": "Olivia Rodrigo"
+          "name": "Sharon Eitan"
         }
       },
       {
-        "name": "douceur du miel",
+        "name": "drivers license",
         "artist": {
-          "name": "Bleu Electrique"
+          "name": "Olivia Rodrigo"
         }
       },
       {
@@ -1094,9 +1094,9 @@
         }
       },
       {
-        "name": "Hemlock",
+        "name": "Cold In Your Town",
         "artist": {
-          "name": "Otis Shanty"
+          "name": "Julie Paschke"
         }
       },
       {
@@ -1106,9 +1106,9 @@
         }
       },
       {
-        "name": "Flicker and Glow",
+        "name": "Miss M",
         "artist": {
-          "name": "Rubik Angelo Barar"
+          "name": "TeeOhMy"
         }
       },
       {
@@ -1124,9 +1124,9 @@
         }
       },
       {
-        "name": "Where You Are",
+        "name": "R&B~Witch",
         "artist": {
-          "name": "TR Moshia"
+          "name": "Lefistos!"
         }
       },
       {
@@ -1136,15 +1136,21 @@
         }
       },
       {
+        "name": "Flicker and Glow",
+        "artist": {
+          "name": "Rubik Angelo Barar"
+        }
+      },
+      {
         "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
         "artist": {
           "name": "Stephen Sanchez"
         }
       },
       {
-        "name": "Suits Me",
+        "name": "Life Of Despair",
         "artist": {
-          "name": "Noa Sabi"
+          "name": "Cole Decker"
         }
       },
       {
@@ -1178,15 +1184,9 @@
         }
       },
       {
-        "name": "DEIXA PHONK",
+        "name": "Winter Wonderland",
         "artist": {
-          "name": "J.beatsfr"
-        }
-      },
-      {
-        "name": "Rockin' Around The Christmas Tree",
-        "artist": {
-          "name": "Brenda Lee"
+          "name": "Made Of Marble"
         }
       },
       {
