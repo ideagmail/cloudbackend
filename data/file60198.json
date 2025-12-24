@@ -188,6 +188,12 @@
         }
       },
       {
+        "name": "Don\"t Mind If I Do (ft. Ella Langley)",
+        "artist": {
+          "name": "Riley Green"
+        }
+      },
+      {
         "name": "Tears",
         "artist": {
           "name": "Sabrina Carpenter"
@@ -302,7 +308,7 @@
         }
       },
       {
-        "name": "How It\"s Done",
+        "name": "How It’s Done",
         "artist": {
           "name": "HUNTR/X"
         }
@@ -395,6 +401,204 @@
         "name": "Dracula",
         "artist": {
           "name": "Tame Impala"
+        }
+      },
+      {
+        "name": "Do It",
+        "artist": {
+          "name": "Stray Kids"
+        }
+      },
+      {
+        "name": "Father Figure",
+        "artist": {
+          "name": "Taylor Swift"
+        }
+      },
+      {
+        "name": "Take Me Thru Dere",
+        "artist": {
+          "name": "Metro Boomin"
+        }
+      },
+      {
+        "name": "Wi$h Li$t",
+        "artist": {
+          "name": "Taylor Swift"
+        }
+      },
+      {
+        "name": "Last One To Know",
+        "artist": {
+          "name": "Gavin Adcock"
+        }
+      },
+      {
+        "name": "The Fall",
+        "artist": {
+          "name": "Cody Johnson"
+        }
+      },
+      {
+        "name": "Back in the Saddle",
+        "artist": {
+          "name": "Luke Combs"
+        }
+      },
+      {
+        "name": "Darlin'",
+        "artist": {
+          "name": "Chase Matthew"
+        }
+      },
+      {
+        "name": "Sugar On My Tongue",
+        "artist": {
+          "name": "Tyler, The Creator"
+        }
+      },
+      {
+        "name": "FEAR",
+        "artist": {
+          "name": "NF"
+        }
+      },
+      {
+        "name": "Nice To Each Other",
+        "artist": {
+          "name": "Olivia Dean"
+        }
+      },
+      {
+        "name": "ErrTime",
+        "artist": {
+          "name": "Cardi B"
+        }
+      },
+      {
+        "name": "The Life of a Showgirl (feat. Sabrina Carpenter)",
+        "artist": {
+          "name": "Taylor Swift"
+        }
+      },
+      {
+        "name": "12 to 12",
+        "artist": {
+          "name": "sombr"
+        }
+      },
+      {
+        "name": "Cold (feat. Post Malone)",
+        "artist": {
+          "name": "BigXthaPlug"
+        }
+      },
+      {
+        "name": "Jealous Type",
+        "artist": {
+          "name": "Doja Cat"
+        }
+      },
+      {
+        "name": "HORSESHOE",
+        "artist": {
+          "name": "Tate McRae"
+        }
+      },
+      {
+        "name": "Amen",
+        "artist": {
+          "name": "Shaboozey"
+        }
+      },
+      {
+        "name": "Favorite Country Song",
+        "artist": {
+          "name": "HARDY"
+        }
+      },
+      {
+        "name": "3,2,1",
+        "artist": {
+          "name": "Tucker Wetmore"
+        }
+      },
+      {
+        "name": "Days Like These",
+        "artist": {
+          "name": "Luke Combs"
+        }
+      },
+      {
+        "name": "Went Legit",
+        "artist": {
+          "name": "G Herbo"
+        }
+      },
+      {
+        "name": "Camera",
+        "artist": {
+          "name": "Ed Sheeran"
+        }
+      },
+      {
+        "name": "As Long As You’re Mine",
+        "artist": {
+          "name": "Cynthia Erivo"
+        }
+      },
+      {
+        "name": "How Far Does A Goodbye Go",
+        "artist": {
+          "name": "Jason Aldean"
+        }
+      },
+      {
+        "name": "Safe (feat. Kehlani)",
+        "artist": {
+          "name": "Cardi B"
+        }
+      },
+      {
+        "name": "The Dead Dance",
+        "artist": {
+          "name": "Lady Gaga"
+        }
+      },
+      {
+        "name": "Let Alone The One You Love",
+        "artist": {
+          "name": "Olivia Dean"
+        }
+      },
+      {
+        "name": "When Did You Get Hot?",
+        "artist": {
+          "name": "Sabrina Carpenter"
+        }
+      },
+      {
+        "name": "Sparks",
+        "artist": {
+          "name": "Coldplay"
+        }
+      },
+      {
+        "name": "Ruin The Friendship",
+        "artist": {
+          "name": "Taylor Swift"
+        }
+      },
+      {
+        "name": "What You Is",
+        "artist": {
+          "name": "YoungBoy Never Broke Again"
+        }
+      },
+      {
+        "name": "The Girl in the Bubble",
+        "artist": {
+          "name": "Ariana Grande"
         }
       }
     ]
