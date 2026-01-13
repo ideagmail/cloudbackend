@@ -69,7 +69,7 @@
     "expireTime": 1750000000000,
     "supportAppVersion": 1744,
     "regionCode": "EN",
-    "platform": "XBOX"
+    "platform": "DESKTOP|XBOX"
   },
   {
     "title": "故事FM",
