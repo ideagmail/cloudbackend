@@ -72,6 +72,24 @@
     "platform": "DESKTOP|XBOX"
   },
   {
+    "title": "日本語 With あこ",
+    "subtitle": "Japanese with Ako",
+    "navigatetitle": "今すぐ聴く",
+    "badgetitle": "編集者の選択",
+    "icon": null,
+    "link": "https://anchor.fm/s/2e08a010/podcast/rss",
+    "thumbnail": "",
+    "primarycolorhex": "#82BCE8",
+    "secondarycolorhex": "#EE5C92",
+    "imageURL": " ",
+    "adsType": 0,
+    "isEnable": true,
+    "expireTime": 1750000000000,
+    "supportAppVersion": 1744,
+    "regionCode": "JA",
+    "platform": "DESKTOP|XBOX"
+  },
+  {
     "title": "Get Played",
     "subtitle": "Comedians and Video Game enthusiasts discuss all things gaming.",
     "navigatetitle": "LISTEN NOW",
@@ -87,24 +105,6 @@
     "expireTime": 1750000000000,
     "supportAppVersion": 1744,
     "regionCode": "GLOBAL",
-    "platform": "DESKTOP|XBOX"
-  },
-  {
-    "title": "日本語 With あこ",
-    "subtitle": "Japanese with Ako",
-    "navigatetitle": "今すぐ聴く",
-    "badgetitle": "編集者の選択",
-    "icon": "null",
-    "link": "https://anchor.fm/s/2e08a010/podcast/rss",
-    "thumbnail": "",
-    "primarycolorhex": "#82BCE8",
-    "secondarycolorhex": "#EE5C92",
-    "imageURL": " ",
-    "adsType": 0,
-    "isEnable": true,
-    "expireTime": 1750000000000,
-    "supportAppVersion": 1744,
-    "regionCode": "JA",
     "platform": "DESKTOP|XBOX"
   }
 ]
