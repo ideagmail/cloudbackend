@@ -54,24 +54,6 @@
     "platform": "DESKTOP|XBOX"
   },
   {
-    "title": "Get Played",
-    "subtitle": "Comedians and Video Game enthusiasts discuss all things gaming.",
-    "navigatetitle": "LISTEN NOW",
-    "badgetitle": "EDITOR CHOICE",
-    "icon": null,
-    "link": "https://rss.art19.com/get-played",
-    "thumbnail": "https://img.headgum.com/?dpr=2&metadata=none&width=300&i=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F03%2F54%2F72%2F2d%2F0354722d-2cbb-4f45-83a7-c482da712c91%2F0eaf72e1880816470b405ebaab13b6d25e7bf1b3a4fc66f7ccfbda583c2fa001f44daff44e3ec4f65feb46158751025c91c29763f25e5bb82e194cc3f5a3e944.jpeg",
-    "primarycolorhex": "#82BCE8",
-    "secondarycolorhex": "#EE5C92",
-    "imageURL": " ",
-    "adsType": 0,
-    "isEnable": true,
-    "expireTime": 1750000000000,
-    "supportAppVersion": 1744,
-    "regionCode": "EN",
-    "platform": "DESKTOP|XBOX"
-  },
-  {
     "title": "故事FM",
     "subtitle": "一档「由亲历者口述真实故事」的播客节目",
     "navigatetitle": "现在聆听",
@@ -88,9 +70,23 @@
     "supportAppVersion": 1744,
     "regionCode": "ZH",
     "platform": "DESKTOP|XBOX"
+  },
+  {
+    "title": "Get Played",
+    "subtitle": "Comedians and Video Game enthusiasts discuss all things gaming.",
+    "navigatetitle": "LISTEN NOW",
+    "badgetitle": "EDITOR CHOICE",
+    "icon": null,
+    "link": "https://rss.art19.com/get-played",
+    "thumbnail": "https://img.headgum.com/?dpr=2&metadata=none&width=300&i=https%3A%2F%2Fcontent.production.cdn.art19.com%2Fimages%2F03%2F54%2F72%2F2d%2F0354722d-2cbb-4f45-83a7-c482da712c91%2F0eaf72e1880816470b405ebaab13b6d25e7bf1b3a4fc66f7ccfbda583c2fa001f44daff44e3ec4f65feb46158751025c91c29763f25e5bb82e194cc3f5a3e944.jpeg",
+    "primarycolorhex": "#82BCE8",
+    "secondarycolorhex": "#EE5C92",
+    "imageURL": " ",
+    "adsType": 0,
+    "isEnable": true,
+    "expireTime": 1750000000000,
+    "supportAppVersion": 1744,
+    "regionCode": "GLOBAL",
+    "platform": "DESKTOP|XBOX"
   }
-
 ]
-
-
-
