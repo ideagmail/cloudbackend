@@ -36,12 +36,12 @@
     "platform": "DESKTOP|XBOX"
   },
   {
-    "title": "Download Manager",
-    "subtitle": "Click here to access free download manager app.",
+    "title": "FREE MUSIC",
+    "subtitle": "Click here to access free music app.",
     "navigatetitle": "Download Now",
     "badgetitle": "AD",
     "icon": "\uEC4F",
-    "link": "ms-windows-store://pdp/?ProductId=9mx6kd8wgwgp&amp;cid=podcastedbanner",
+    "link": "ms-windows-store://pdp/?ProductId=9P6V0D62D4BQ&amp;cid=podcastedbanner",
     "thumbnail": "",
     "primarycolorhex": "#D13646",
     "secondarycolorhex": "#9A50C5",
