@@ -8,15 +8,21 @@
         }
       },
       {
+        "name": "WHERE IS MY HUSBAND!",
+        "artist": {
+          "name": "RAYE"
+        }
+      },
+      {
         "name": "End of Beginning",
         "artist": {
           "name": "Djo"
         }
       },
       {
-        "name": "WHERE IS MY HUSBAND!",
+        "name": "Aperture",
         "artist": {
-          "name": "RAYE"
+          "name": "Harry Styles"
         }
       },
       {
@@ -26,21 +32,9 @@
         }
       },
       {
-        "name": "I Just Might",
-        "artist": {
-          "name": "Bruno Mars"
-        }
-      },
-      {
         "name": "So Easy (To Fall In Love)",
         "artist": {
           "name": "Olivia Dean"
-        }
-      },
-      {
-        "name": "Lush Life",
-        "artist": {
-          "name": "Zara Larsson"
         }
       },
       {
@@ -50,9 +44,21 @@
         }
       },
       {
-        "name": "Die On This Hill",
+        "name": "I Just Might",
         "artist": {
-          "name": "SIENNA SPIRO"
+          "name": "Bruno Mars"
+        }
+      },
+      {
+        "name": "Lush Life",
+        "artist": {
+          "name": "Zara Larsson"
+        }
+      },
+      {
+        "name": "The Great Divide",
+        "artist": {
+          "name": "Noah Kahan"
         }
       },
       {
@@ -62,9 +68,9 @@
         }
       },
       {
-        "name": "I Run",
+        "name": "Die On This Hill",
         "artist": {
-          "name": "HAVEN."
+          "name": "SIENNA SPIRO"
         }
       },
       {
@@ -74,9 +80,9 @@
         }
       },
       {
-        "name": "Golden",
+        "name": "I Run",
         "artist": {
-          "name": "HUNTR/X"
+          "name": "HAVEN."
         }
       },
       {
@@ -86,9 +92,9 @@
         }
       },
       {
-        "name": "Purple Rain",
+        "name": "A Couple Minutes",
         "artist": {
-          "name": "Prince"
+          "name": "Olivia Dean"
         }
       },
       {
@@ -98,9 +104,9 @@
         }
       },
       {
-        "name": "A Couple Minutes",
+        "name": "Golden",
         "artist": {
-          "name": "Olivia Dean"
+          "name": "HUNTR/X"
         }
       },
       {
@@ -110,27 +116,21 @@
         }
       },
       {
-        "name": "Every Breath You Take",
+        "name": "Midnight Sun",
         "artist": {
-          "name": "The Police"
+          "name": "Zara Larsson"
         }
       },
       {
-        "name": "4 Raws",
+        "name": "Purple Rain",
         "artist": {
-          "name": "EsDeeKid"
+          "name": "Prince"
         }
       },
       {
-        "name": "Phantom",
+        "name": "Boys Don't Cry",
         "artist": {
-          "name": "EsDeeKid"
-        }
-      },
-      {
-        "name": "Running Up That Hill (A Deal With God)",
-        "artist": {
-          "name": "Kate Bush"
+          "name": "The Cure"
         }
       },
       {
@@ -146,13 +146,19 @@
         }
       },
       {
-        "name": "CHANEL",
+        "name": "Phantom",
         "artist": {
-          "name": "Tyla"
+          "name": "EsDeeKid"
         }
       },
       {
-        "name": "Century",
+        "name": "12 to 12",
+        "artist": {
+          "name": "sombr"
+        }
+      },
+      {
+        "name": "4 Raws",
         "artist": {
           "name": "EsDeeKid"
         }
@@ -164,37 +170,13 @@
         }
       },
       {
-        "name": "Locked out of Heaven",
+        "name": "What You Saying",
         "artist": {
-          "name": "Bruno Mars"
-        }
-      },
-      {
-        "name": "Midnight Sun",
-        "artist": {
-          "name": "Zara Larsson"
-        }
-      },
-      {
-        "name": "wgft (feat. Burna Boy)",
-        "artist": {
-          "name": "Gunna"
+          "name": "Lil Uzi Vert"
         }
       },
       {
         "name": "What It Sounds Like",
-        "artist": {
-          "name": "HUNTR/X"
-        }
-      },
-      {
-        "name": "12 to 12",
-        "artist": {
-          "name": "sombr"
-        }
-      },
-      {
-        "name": "How It\"s Done",
         "artist": {
           "name": "HUNTR/X"
         }
@@ -206,15 +188,21 @@
         }
       },
       {
-        "name": "No Broke Boys",
+        "name": "WILDFLOWER",
         "artist": {
-          "name": "Disco Lines"
+          "name": "Billie Eilish"
         }
       },
       {
-        "name": "Plastic Cigarette",
+        "name": "Century",
         "artist": {
-          "name": "Zach Bryan"
+          "name": "EsDeeKid"
+        }
+      },
+      {
+        "name": "wgft (feat. Burna Boy)",
+        "artist": {
+          "name": "Gunna"
         }
       },
       {
@@ -224,21 +212,33 @@
         }
       },
       {
-        "name": "Talk of the Town",
+        "name": "Just the Way You Are",
         "artist": {
-          "name": "Fred again.."
+          "name": "Milky"
         }
       },
       {
-        "name": "Boys Don't Cry",
+        "name": "No Broke Boys",
         "artist": {
-          "name": "The Cure"
+          "name": "Disco Lines"
+        }
+      },
+      {
+        "name": "Choosin' Texas",
+        "artist": {
+          "name": "Ella Langley"
         }
       },
       {
         "name": "TIT FOR TAT",
         "artist": {
           "name": "Tate McRae"
+        }
+      },
+      {
+        "name": "Talk of the TownGustaf Grefberg - Winged Hope",
+        "artist": {
+          "name": "Fred again.."
         }
       }
     ]
