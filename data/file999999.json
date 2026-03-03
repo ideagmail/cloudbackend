@@ -170,33 +170,21 @@
         }
       },
       {
+        "name": "DtMF",
+        "artist": {
+          "name": "Wouji"
+        }
+      },
+      {
         "name": "Love Me Not",
         "artist": {
           "name": "Ravyn Lenae"
         }
       },
       {
-        "name": "Die With A Smile",
-        "artist": {
-          "name": "Lady Gaga"
-        }
-      },
-      {
-        "name": "That\"s So True",
-        "artist": {
-          "name": "Gracie Abrams"
-        }
-      },
-      {
         "name": "Opalite",
         "artist": {
           "name": "Taylor Swift"
-        }
-      },
-      {
-        "name": "FREAK ALARM",
-        "artist": {
-          "name": "ALPHA DRIVE ONE"
         }
       },
       {
@@ -215,18 +203,6 @@
         "name": "Not Like Us",
         "artist": {
           "name": "Kendrick Lamar"
-        }
-      },
-      {
-        "name": "Make Me Feel",
-        "artist": {
-          "name": "oskar med k"
-        }
-      },
-      {
-        "name": "Outgrown",
-        "artist": {
-          "name": "Samuel Miller"
         }
       },
       {
@@ -266,9 +242,27 @@
         }
       },
       {
+        "name": "That\"s So True",
+        "artist": {
+          "name": "Gracie Abrams"
+        }
+      },
+      {
+        "name": "Now that You Know",
+        "artist": {
+          "name": "Cabela and Schmitt"
+        }
+      },
+      {
         "name": "Pink Pony Club",
         "artist": {
           "name": "Chappell Roan"
+        }
+      },
+      {
+        "name": "Outgrown",
+        "artist": {
+          "name": "Samuel Miller"
         }
       },
       {
@@ -281,6 +275,12 @@
         "name": "How Could You, My Love",
         "artist": {
           "name": "Lovely Trees"
+        }
+      },
+      {
+        "name": "Die With A Smile",
+        "artist": {
+          "name": "Lady Gaga"
         }
       },
       {
@@ -368,6 +368,12 @@
         }
       },
       {
+        "name": "Heatwave",
+        "artist": {
+          "name": "BETHY"
+        }
+      },
+      {
         "name": "Taste",
         "artist": {
           "name": "Sabrina Carpenter"
@@ -386,9 +392,9 @@
         }
       },
       {
-        "name": "Way Too Long",
+        "name": "Serial Forsaker",
         "artist": {
-          "name": "Jordon Frank"
+          "name": "Graham Elson"
         }
       },
       {
@@ -527,12 +533,6 @@
         "name": "A Bar Song (Tipsy)",
         "artist": {
           "name": "Shaboozey"
-        }
-      },
-      {
-        "name": "Bedford",
-        "artist": {
-          "name": "Fuzco"
         }
       },
       {
@@ -782,6 +782,12 @@
         }
       },
       {
+        "name": "Collide",
+        "artist": {
+          "name": "Nashville Exile"
+        }
+      },
+      {
         "name": "Seven (feat. Latto)",
         "artist": {
           "name": "Jung Kook"
@@ -794,9 +800,9 @@
         }
       },
       {
-        "name": "Natalie",
+        "name": "Postcard From A Quiet Day",
         "artist": {
-          "name": "Sounds Kinda Good"
+          "name": "Northern Sky"
         }
       },
       {
@@ -908,9 +914,9 @@
         }
       },
       {
-        "name": "I Can Feel It in My Heart",
+        "name": "Nothing Hurts",
         "artist": {
-          "name": "Papyhouse"
+          "name": "Christoffer Friend"
         }
       },
       {
@@ -926,9 +932,9 @@
         }
       },
       {
-        "name": "Stolen Kisses",
+        "name": "Right On",
         "artist": {
-          "name": "Northern Sky"
+          "name": "Jon Dacks"
         }
       },
       {
@@ -947,12 +953,6 @@
         "name": "Lose Control",
         "artist": {
           "name": "Teddy Swims"
-        }
-      },
-      {
-        "name": "Just Sayin'",
-        "artist": {
-          "name": "Ty Wood"
         }
       },
       {
@@ -1028,15 +1028,21 @@
         }
       },
       {
-        "name": "Desert Rain",
+        "name": "Danielle",
         "artist": {
-          "name": "BEET"
+          "name": "The Kyle Jordan Project"
         }
       },
       {
         "name": "I Love You, I'm Sorry",
         "artist": {
           "name": "Gracie Abrams"
+        }
+      },
+      {
+        "name": "Last Second of the Cosmic Year",
+        "artist": {
+          "name": "Lake Monsters United"
         }
       },
       {
@@ -1073,12 +1079,6 @@
         "name": "Sunflower - Spider-Man: Into the Spider-Verse",
         "artist": {
           "name": "Post Malone"
-        }
-      },
-      {
-        "name": "Everywhere's Found",
-        "artist": {
-          "name": "BEET"
         }
       },
       {
