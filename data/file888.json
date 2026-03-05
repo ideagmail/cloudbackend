@@ -1,5 +1,23 @@
 [
   {
+    "title": "联想 ThinkPad AI笔记本",
+    "subtitle": "32G+1T大存储,国补立减 1000 元,不超 6000 元！",
+    "navigatetitle": "点击了解",
+    "badgetitle": "广告",
+    "icon": "\uE7F8",
+    "link": "https://u.jd.com/N1q4Ylu",
+    "thumbnail": "",
+    "primarycolorhex": "#D13646",
+    "secondarycolorhex": "#9A50C5",
+    "imageURL": " ",
+    "adsType": 3,
+    "isEnable": true,
+    "expireTime": 1750000000000,
+    "supportAppVersion": 1744,
+    "regionCode": "ZH",
+    "platform": "DESKTOP"
+  },
+  {
     "title": "下载管理器",
     "subtitle": "轻型 http/https/ftp 协议下载管理器",
     "navigatetitle": "立即下载",
