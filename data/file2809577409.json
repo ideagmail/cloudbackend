@@ -1,0 +1,606 @@
+{
+  "recommendedtracks": {
+    "track": [
+      {
+        "name": "Risk It All",
+        "artist": {
+          "name": "Bruno Mars"
+        }
+      },
+      {
+        "name": "A Thousand Years",
+        "artist": {
+          "name": "John Michael Howell / JVKE / ZVC"
+        }
+      },
+      {
+        "name": "I Just Might",
+        "artist": {
+          "name": "Bruno Mars"
+        }
+      },
+      {
+        "name": "moonboy",
+        "artist": {
+          "name": "JVKE / JEON SOMI"
+        }
+      },
+      {
+        "name": "Fire in These Hills",
+        "artist": {
+          "name": "Imagine Dragons"
+        }
+      },
+      {
+        "name": "Dance With Me",
+        "artist": {
+          "name": "Bruno Mars"
+        }
+      },
+      {
+        "name": "Inside Outside",
+        "artist": {
+          "name": "Connor Price"
+        }
+      },
+      {
+        "name": "Cha Cha Cha",
+        "artist": {
+          "name": "Bruno Mars"
+        }
+      },
+      {
+        "name": "Kuyush Kirek",
+        "artist": {
+          "name": "Eldar Emin"
+        }
+      },
+      {
+        "name": "fake it",
+        "artist": {
+          "name": "Lauv"
+        }
+      },
+      {
+        "name": "MONTAGEM HIKARI JUMPSTYLE",
+        "artist": {
+          "name": "TWXNY / Bellyjay / INNXCENCE"
+        }
+      },
+      {
+        "name": "Why You Wanna Fight?",
+        "artist": {
+          "name": "Bruno Mars"
+        }
+      },
+      {
+        "name": "like JENNIE (Extended Remix)",
+        "artist": {
+          "name": "JENNIE"
+        }
+      },
+      {
+        "name": "Something Serious",
+        "artist": {
+          "name": "Bruno Mars"
+        }
+      },
+      {
+        "name": "Ready, Steady, Go!",
+        "artist": {
+          "name": "Harry Styles"
+        }
+      },
+      {
+        "name": "why am i like this",
+        "artist": {
+          "name": "bbno$"
+        }
+      },
+      {
+        "name": "Dracula (JENNIE Remix)",
+        "artist": {
+          "name": "Tame Impala / JENNIE"
+        }
+      },
+      {
+        "name": "Hotel California",
+        "artist": {
+          "name": "Joji"
+        }
+      },
+      {
+        "name": "We Don\"t Get Along",
+        "artist": {
+          "name": "Juice WRLD / Marshmello"
+        }
+      },
+      {
+        "name": "Through the Darkness",
+        "artist": {
+          "name": "佐藤奈央 / Colin & Caroline"
+        }
+      },
+      {
+        "name": "Keychain (FROM THE FILM K-POPS!)",
+        "artist": {
+          "name": "aespa / Anderson .Paak"
+        }
+      },
+      {
+        "name": "American Girls",
+        "artist": {
+          "name": "Harry Styles"
+        }
+      },
+      {
+        "name": "Save My Love",
+        "artist": {
+          "name": "Kygo / Khalid / Gryffin"
+        }
+      },
+      {
+        "name": "Mention Me",
+        "artist": {
+          "name": "CORTIS"
+        }
+      },
+      {
+        "name": "Coming Up Roses",
+        "artist": {
+          "name": "Harry Styles"
+        }
+      },
+      {
+        "name": "Bones",
+        "artist": {
+          "name": "Keenan Te"
+        }
+      },
+      {
+        "name": "i have no friends",
+        "artist": {
+          "name": "s0rrow"
+        }
+      },
+      {
+        "name": "Homewrecker",
+        "artist": {
+          "name": "sombr"
+        }
+      },
+      {
+        "name": "BAILA MEJOR",
+        "artist": {
+          "name": "bxkq"
+        }
+      },
+      {
+        "name": "Damn Right (JENNIE Only Audio)",
+        "artist": {
+          "name": "JENNIE"
+        }
+      },
+      {
+        "name": "5АМ",
+        "artist": {
+          "name": "АДЛИН"
+        }
+      },
+      {
+        "name": "How I Get",
+        "artist": {
+          "name": "Laufey"
+        }
+      },
+      {
+        "name": "Carla's Song",
+        "artist": {
+          "name": "Harry Styles"
+        }
+      },
+      {
+        "name": "SOMEWHERE ELSE",
+        "artist": {
+          "name": "TOMORA / AURORA / Tom Rowlands"
+        }
+      },
+      {
+        "name": "Intro : JANE with FKJ",
+        "artist": {
+          "name": "JENNIE / FKJ"
+        }
+      },
+      {
+        "name": "Taste Back",
+        "artist": {
+          "name": "Harry Styles"
+        }
+      },
+      {
+        "name": "Good Flirts",
+        "artist": {
+          "name": "Baby Keem / Kendrick Lamar / Momo Boyd"
+        }
+      },
+      {
+        "name": "Aperture",
+        "artist": {
+          "name": "Harry Styles"
+        }
+      },
+      {
+        "name": "Handlebars",
+        "artist": {
+          "name": "JENNIE / Dua Lipa"
+        }
+      },
+      {
+        "name": "Cry",
+        "artist": {
+          "name": "Charlie Puth / Kenny G"
+        }
+      },
+      {
+        "name": "Nightingale Lane.",
+        "artist": {
+          "name": "RAYE"
+        }
+      },
+      {
+        "name": "Charlie Kirky Funk",
+        "artist": {
+          "name": "Shremn"
+        }
+      },
+      {
+        "name": "klepto",
+        "artist": {
+          "name": "Sophie Powers / 刘柏辛Lexie"
+        }
+      },
+      {
+        "name": "White Feather Hawk Tail Deer Hunter",
+        "artist": {
+          "name": "Lana Del Rey"
+        }
+      },
+      {
+        "name": "fall in love again",
+        "artist": {
+          "name": "W&W / BLAIR"
+        }
+      },
+      {
+        "name": "Save The Day (From \"Hoppers\"/Soundtrack Version)",
+        "artist": {
+          "name": "SZA"
+        }
+      },
+      {
+        "name": "Loco Loco",
+        "artist": {
+          "name": "Gordo / Reinier Zonneveld"
+        }
+      },
+      {
+        "name": "like JENNIE (EDM Remix)",
+        "artist": {
+          "name": "JENNIE"
+        }
+      },
+      {
+        "name": "I Only Miss You",
+        "artist": {
+          "name": "Megan Moroney / Ed Sheeran"
+        }
+      },
+      {
+        "name": "Wrong Side Out",
+        "artist": {
+          "name": "CG5"
+        }
+      },
+      {
+        "name": "I Love Her Again",
+        "artist": {
+          "name": "J. Cole"
+        }
+      },
+      {
+        "name": "Dying for You",
+        "artist": {
+          "name": "Charli xcx"
+        }
+      },
+      {
+        "name": "I Only Miss You",
+        "artist": {
+          "name": "Megan Moroney / Ed Sheeran"
+        }
+      },
+      {
+        "name": "Only You",
+        "artist": {
+          "name": "J. Cole"
+        }
+      },
+      {
+        "name": "Luvn On U",
+        "artist": {
+          "name": "Jeff Bernat"
+        }
+      },
+      {
+        "name": "Piece of You",
+        "artist": {
+          "name": "Joji / GIVĒON"
+        }
+      },
+      {
+        "name": "Still Loving You",
+        "artist": {
+          "name": "Aliza"
+        }
+      },
+      {
+        "name": "ExtraL (JENNIE Only Audio)",
+        "artist": {
+          "name": "JENNIE"
+        }
+      },
+      {
+        "name": "A COLORS SHOW - Bren Joy / COLORS",
+        "artist": {
+          "name": "WANDERING"
+        }
+      },
+      {
+        "name": "Opalite (BUNT. Remix)",
+        "artist": {
+          "name": "Taylor Swift / BUNT."
+        }
+      },
+      {
+        "name": "Die For Me",
+        "artist": {
+          "name": "ZAYN"
+        }
+      },
+      {
+        "name": "Scoop",
+        "artist": {
+          "name": "Connor Price / Nic D"
+        }
+      },
+      {
+        "name": "My Place",
+        "artist": {
+          "name": "藤井風"
+        }
+      },
+      {
+        "name": "only human",
+        "artist": {
+          "name": "Dion Dugas / Demxntia"
+        }
+      },
+      {
+        "name": "ICEMAN FREESTYLE",
+        "artist": {
+          "name": "Central Cee"
+        }
+      },
+      {
+        "name": "Acquiesce (Live from Wembley Stadium, 28 September ’25)",
+        "artist": {
+          "name": "Oasis / War Child Records"
+        }
+      },
+      {
+        "name": "Этажи",
+        "artist": {
+          "name": "Килджо"
+        }
+      },
+      {
+        "name": "Холодный взгляд",
+        "artist": {
+          "name": "АДЛИН"
+        }
+      },
+      {
+        "name": "Pomada",
+        "artist": {
+          "name": "Yulduz Usmonova / Malik"
+        }
+      },
+      {
+        "name": "Take Me to the Beach",
+        "artist": {
+          "name": "Imagine Dragons"
+        }
+      },
+      {
+        "name": "Wake Up",
+        "artist": {
+          "name": "Imagine Dragons"
+        }
+      },
+      {
+        "name": "Bombs in the Ville/Hit the Gas",
+        "artist": {
+          "name": "J. Cole"
+        }
+      },
+      {
+        "name": "Take Our Time (From \"ด้วงกับเธอ\")",
+        "artist": {
+          "name": "JINWOOK OF BUS / PHUTATCHAI OF BUS"
+        }
+      },
+      {
+        "name": "Two Six",
+        "artist": {
+          "name": "J. Cole"
+        }
+      },
+      {
+        "name": "Come",
+        "artist": {
+          "name": "Skylar Grey"
+        }
+      },
+      {
+        "name": "Cut Loose",
+        "artist": {
+          "name": "William Singe"
+        }
+      },
+      {
+        "name": "Brain Fog",
+        "artist": {
+          "name": "slayr"
+        }
+      },
+      {
+        "name": "monty (＾ᴥ＾) (acoustic)",
+        "artist": {
+          "name": "Novo Amor / yvette young"
+        }
+      },
+      {
+        "name": "My Regards",
+        "artist": {
+          "name": "Maisie Peters"
+        }
+      },
+      {
+        "name": "Hiraeth",
+        "artist": {
+          "name": "Sub Urban"
+        }
+      },
+      {
+        "name": "I Went Back To Ibiza",
+        "artist": {
+          "name": "Mike Posner"
+        }
+      },
+      {
+        "name": "To Your Bones",
+        "artist": {
+          "name": "Ollie"
+        }
+      },
+      {
+        "name": "The Book of Love",
+        "artist": {
+          "name": "Olivia Rodrigo / War Child Records"
+        }
+      },
+      {
+        "name": "Save Me Tonight",
+        "artist": {
+          "name": "Jennifer Lopez / David Guetta"
+        }
+      },
+      {
+        "name": "SAFETY",
+        "artist": {
+          "name": "J. Cole"
+        }
+      },
+      {
+        "name": "FADE",
+        "artist": {
+          "name": "Alesso / Pendulum"
+        }
+      },
+      {
+        "name": "im not alright",
+        "artist": {
+          "name": "s0rrow"
+        }
+      },
+      {
+        "name": "Legacy",
+        "artist": {
+          "name": "J. Cole"
+        }
+      },
+      {
+        "name": "Save The Day (From \"Hoppers\"/Soundtrack Version)",
+        "artist": {
+          "name": "SZA"
+        }
+      },
+      {
+        "name": "Nightfall",
+        "artist": {
+          "name": "Lazer Boomerang"
+        }
+      },
+      {
+        "name": "miss u 2 (with Leon Thomas)",
+        "artist": {
+          "name": "Ty Dolla $ign / Leon Thomas"
+        }
+      },
+      {
+        "name": "Seven Seas Of Rhye (2026 Mix)",
+        "artist": {
+          "name": "Queen"
+        }
+      },
+      {
+        "name": "START OVER",
+        "artist": {
+          "name": "Tiffany Day"
+        }
+      },
+      {
+        "name": "Ego Renegade Boy",
+        "artist": {
+          "name": "FLAVOR FOLEY"
+        }
+      },
+      {
+        "name": "Made It On Our Own",
+        "artist": {
+          "name": "Yeat / EsDeeKid"
+        }
+      },
+      {
+        "name": "DISNEY PRINCESS",
+        "artist": {
+          "name": "Melanie Martinez"
+        }
+      },
+      {
+        "name": "I Loved You Past Goodbye",
+        "artist": {
+          "name": "Aliza"
+        }
+      },
+      {
+        "name": "One Question Away from Us",
+        "artist": {
+          "name": "SoloWalk"
+        }
+      },
+      {
+        "name": "flex fm (freddit)",
+        "artist": {
+          "name": "Joy Orbison / Lil Yachty / Future / Playboi Carti"
+        }
+      },
+      {
+        "name": "you ready?",
+        "artist": {
+          "name": "Nettspend"
+        }
+      }
+    ]
+  }
+}
