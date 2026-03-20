@@ -54,6 +54,24 @@
     "platform": "DESKTOP|XBOX"
   },
   {
+    "title": "Tube Downloader",
+    "subtitle": "Download YouTube videos with ease.",
+    "navigatetitle": "Download Now",
+    "badgetitle": "AD",
+    "icon": "\uF5B0",
+    "link": "ms-windows-store://pdp/?ProductId=9N2LZXM0QDSK&amp;cid=podcastedbanner",
+    "thumbnail": "",
+    "primarycolorhex": "#D13646",
+    "secondarycolorhex": "#9A50C5",
+    "imageURL": " ",
+    "adsType": 2,
+    "isEnable": true,
+    "expireTime": 1750000000000,
+    "supportAppVersion": 1744,
+    "regionCode": "GLOBAL",
+    "platform": "DESKTOP"
+  },
+  {
     "title": "FREE MUSIC",
     "subtitle": "Click here to access free music app.",
     "navigatetitle": "Download Now",
@@ -69,7 +87,7 @@
     "expireTime": 1750000000000,
     "supportAppVersion": 1744,
     "regionCode": "GLOBAL",
-    "platform": "DESKTOP|XBOX"
+    "platform": "XBOX"
   },
   {
     "title": "故事FM",
