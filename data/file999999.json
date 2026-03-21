@@ -68,6 +68,12 @@
         }
       },
       {
+        "name": "Bazooka",
+        "artist": {
+          "name": "Miami XO"
+        }
+      },
+      {
         "name": "Sorry",
         "artist": {
           "name": "Justin Bieber"
@@ -284,6 +290,12 @@
         }
       },
       {
+        "name": "Good Grief",
+        "artist": {
+          "name": "Mathilde Widding"
+        }
+      },
+      {
         "name": "Manchild",
         "artist": {
           "name": "Sabrina Carpenter"
@@ -302,9 +314,9 @@
         }
       },
       {
-        "name": "The End",
+        "name": "Imagination In A Ray Of Light",
         "artist": {
-          "name": "Sabreen"
+          "name": "Sejel Bodereau"
         }
       },
       {
@@ -323,12 +335,6 @@
         "name": "Good Luck, Babe!",
         "artist": {
           "name": "Chappell Roan"
-        }
-      },
-      {
-        "name": "Talking Body",
-        "artist": {
-          "name": "Braaheim"
         }
       },
       {
@@ -422,12 +428,6 @@
         }
       },
       {
-        "name": "Would I Lie To You?",
-        "artist": {
-          "name": "Crystal Rock"
-        }
-      },
-      {
         "name": "i like the way you kiss me",
         "artist": {
           "name": "Artemas"
@@ -476,12 +476,6 @@
         }
       },
       {
-        "name": "Tied to the Pole of Life",
-        "artist": {
-          "name": "Luc Letourneau"
-        }
-      },
-      {
         "name": "Alibi (with Pabllo Vittar & Yseult)",
         "artist": {
           "name": "Sevdaliza"
@@ -500,9 +494,9 @@
         }
       },
       {
-        "name": "Soul Tied",
+        "name": "FAKE FRIENDS",
         "artist": {
-          "name": "Laci Kay Somers"
+          "name": "Chloe Sarah"
         }
       },
       {
@@ -533,6 +527,12 @@
         "name": "A Bar Song (Tipsy)",
         "artist": {
           "name": "Shaboozey"
+        }
+      },
+      {
+        "name": "Time After Time",
+        "artist": {
+          "name": "Boston Aires"
         }
       },
       {
@@ -668,12 +668,6 @@
         }
       },
       {
-        "name": "Love Fast Cry Young",
-        "artist": {
-          "name": "Bruklin"
-        }
-      },
-      {
         "name": "greedy",
         "artist": {
           "name": "Tate McRae"
@@ -695,6 +689,12 @@
         "name": "Here With Me",
         "artist": {
           "name": "d4vd"
+        }
+      },
+      {
+        "name": "Stolen Kisses",
+        "artist": {
+          "name": "Northern Sky"
         }
       },
       {
@@ -728,9 +728,9 @@
         }
       },
       {
-        "name": "Y Knot",
+        "name": "Dance With the Wind",
         "artist": {
-          "name": "Rip Gerber"
+          "name": "Cole Indigo"
         }
       },
       {
@@ -770,9 +770,9 @@
         }
       },
       {
-        "name": "Sharing the Night Together",
+        "name": "Triptych+1+1",
         "artist": {
-          "name": "Boston Aires"
+          "name": "Garbage Garden"
         }
       },
       {
@@ -791,6 +791,12 @@
         "name": "Seven (feat. Latto)",
         "artist": {
           "name": "Jung Kook"
+        }
+      },
+      {
+        "name": "Can't Wait",
+        "artist": {
+          "name": "Mandu Soul"
         }
       },
       {
@@ -914,9 +920,9 @@
         }
       },
       {
-        "name": "Nothing Hurts",
+        "name": "haunt me",
         "artist": {
-          "name": "Christoffer Friend"
+          "name": "admired"
         }
       },
       {
@@ -950,6 +956,12 @@
         }
       },
       {
+        "name": "dumb",
+        "artist": {
+          "name": "tadashi"
+        }
+      },
+      {
         "name": "Lose Control",
         "artist": {
           "name": "Teddy Swims"
@@ -962,21 +974,9 @@
         }
       },
       {
-        "name": "I Don't Wanna Talk",
-        "artist": {
-          "name": "Fabz"
-        }
-      },
-      {
         "name": "Find Your People",
         "artist": {
           "name": "Drew Holcomb & The Neighbors"
-        }
-      },
-      {
-        "name": "Distance",
-        "artist": {
-          "name": "CLSTL"
         }
       },
       {
@@ -986,9 +986,9 @@
         }
       },
       {
-        "name": "Breathe Down",
+        "name": "Garlic - Remix",
         "artist": {
-          "name": "Kira Rizavi"
+          "name": "Sharon Eitan"
         }
       },
       {
@@ -1004,15 +1004,15 @@
         }
       },
       {
-        "name": "Leave The Light On For Me",
-        "artist": {
-          "name": "Benni Frank"
-        }
-      },
-      {
         "name": "Sweater Weather",
         "artist": {
           "name": "The Neighbourhood"
+        }
+      },
+      {
+        "name": "Distance",
+        "artist": {
+          "name": "CLSTL"
         }
       },
       {
@@ -1025,12 +1025,6 @@
         "name": "I Love You So",
         "artist": {
           "name": "The Walters"
-        }
-      },
-      {
-        "name": "Danielle",
-        "artist": {
-          "name": "The Kyle Jordan Project"
         }
       },
       {
@@ -1052,6 +1046,12 @@
         }
       },
       {
+        "name": "Means Nothing",
+        "artist": {
+          "name": "Christoffer Friend"
+        }
+      },
+      {
         "name": "golden hour",
         "artist": {
           "name": "JVKE"
@@ -1070,9 +1070,9 @@
         }
       },
       {
-        "name": "Lost In Yesterday",
+        "name": "Where Do You Go",
         "artist": {
-          "name": "Eric Wink"
+          "name": "Jordan Taillefer"
         }
       },
       {
@@ -1130,12 +1130,6 @@
         }
       },
       {
-        "name": "Nice to E-Meet You",
-        "artist": {
-          "name": "Total Maximum"
-        }
-      },
-      {
         "name": "The Night We Met",
         "artist": {
           "name": "Lord Huron"
@@ -1160,15 +1154,21 @@
         }
       },
       {
+        "name": "Love For You",
+        "artist": {
+          "name": "One Love Music"
+        }
+      },
+      {
         "name": "Daddy Issues",
         "artist": {
           "name": "The Neighbourhood"
         }
       },
       {
-        "name": "Stand Inside (The Wave)",
+        "name": "take your time",
         "artist": {
-          "name": "axe.shay"
+          "name": "IKB79"
         }
       },
       {
@@ -1178,9 +1178,9 @@
         }
       },
       {
-        "name": "Clear Enough",
+        "name": "Department Store",
         "artist": {
-          "name": "Ele Suarez"
+          "name": "Boston Aires"
         }
       },
       {
@@ -1190,9 +1190,9 @@
         }
       },
       {
-        "name": "Danz U Up",
+        "name": "Smoke Signals",
         "artist": {
-          "name": "Michael Gilas"
+          "name": "James Dyer"
         }
       },
       {
