@@ -8,15 +8,33 @@
         }
       },
       {
+        "name": "X-COOL! (Edit Version)",
+        "artist": {
+          "name": "tienanh109 / HDN / hailong140"
+        }
+      },
+      {
+        "name": "Bad Angel",
+        "artist": {
+          "name": "Anyma / LISA"
+        }
+      },
+      {
+        "name": "Runway",
+        "artist": {
+          "name": "Lady Gaga / Doechii"
+        }
+      },
+      {
         "name": "THIS ONE HERE",
         "artist": {
           "name": "Kanye West / Ye"
         }
       },
       {
-        "name": "X-COOL! (Edit Version)",
+        "name": "Sideways (feat. Coco Jones)",
         "artist": {
-          "name": "tienanh109 / HDN / hailong140"
+          "name": "Charlie Puth / Coco Jones"
         }
       },
       {
@@ -26,285 +44,9 @@
         }
       },
       {
-        "name": "Home (feat. Hikaru Utada)",
+        "name": "Obvious",
         "artist": {
-          "name": "Charlie Puth / 宇多田ヒカル"
-        }
-      },
-      {
-        "name": "Reply To This",
-        "artist": {
-          "name": "Charlie Puth"
-        }
-      },
-      {
-        "name": "Found Me",
-        "artist": {
-          "name": "Westwood"
-        }
-      },
-      {
-        "name": "Sideways (feat. Coco Jones)",
-        "artist": {
-          "name": "Charlie Puth / Coco Jones"
-        }
-      },
-      {
-        "name": "KING",
-        "artist": {
-          "name": "Kanye West / Ye"
-        }
-      },
-      {
-        "name": "PREACHER MAN",
-        "artist": {
-          "name": "Kanye West / Ye"
-        }
-      },
-      {
-        "name": "BULLY (feat. CeeLo Green)",
-        "artist": {
-          "name": "Kanye West / Ye / CeeLo Green"
-        }
-      },
-      {
-        "name": "Waiting Room",
-        "artist": {
-          "name": "Jenevieve / Jordan Ward"
-        }
-      },
-      {
-        "name": "Get There (feat. pryme!)",
-        "artist": {
-          "name": "Westwood / pryme!"
-        }
-      },
-      {
-        "name": "Handlebars",
-        "artist": {
-          "name": "JENNIE / Dua Lipa"
-        }
-      },
-      {
-        "name": "Damn Right (JENNIE Only Audio)",
-        "artist": {
-          "name": "JENNIE"
-        }
-      },
-      {
-        "name": "Home (feat. Hikaru Utada)",
-        "artist": {
-          "name": "Charlie Puth / 宇多田ヒカル"
-        }
-      },
-      {
-        "name": "Need Your Love",
-        "artist": {
-          "name": "OneRepublic"
-        }
-      },
-      {
-        "name": "Ready, Steady, Go!",
-        "artist": {
-          "name": "Harry Styles"
-        }
-      },
-      {
-        "name": "Monster",
-        "artist": {
-          "name": "Alan Walker / Emyrson Flora"
-        }
-      },
-      {
-        "name": "SABE QUEBRAR",
-        "artist": {
-          "name": "bxkq / axeos"
-        }
-      },
-      {
-        "name": "Elizabeth Taylor (So Glamorous Cabaret Version)",
-        "artist": {
-          "name": "Taylor Swift"
-        }
-      },
-      {
-        "name": "I Will Overcome.",
-        "artist": {
-          "name": "RAYE"
-        }
-      },
-      {
-        "name": "Beautiful",
-        "artist": {
-          "name": "Anyma / Joji"
-        }
-      },
-      {
-        "name": "natus",
-        "artist": {
-          "name": "Versutus"
-        }
-      },
-      {
-        "name": "Never Ending Dance (feat. 重音テト)",
-        "artist": {
-          "name": "d0tc0mmie / 重音テト"
-        }
-      },
-      {
-        "name": "I Choose You",
-        "artist": {
-          "name": "keshi"
-        }
-      },
-      {
-        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-        "artist": {
-          "name": "RAYE / Hans Zimmer"
-        }
-      },
-      {
-        "name": "Leading Role",
-        "artist": {
-          "name": "Chris James"
-        }
-      },
-      {
-        "name": "I Went Back To Ibiza",
-        "artist": {
-          "name": "Mike Posner"
-        }
-      },
-      {
-        "name": "moonboy",
-        "artist": {
-          "name": "JVKE / JEON SOMI"
-        }
-      },
-      {
-        "name": "Emoji",
-        "artist": {
-          "name": "SB19 / 蔡依林"
-        }
-      },
-      {
-        "name": "WAGWAN",
-        "artist": {
-          "name": "Central Cee"
-        }
-      },
-      {
-        "name": "All I Did Was Dream of You",
-        "artist": {
-          "name": "beabadoobee / The Marías"
-        }
-      },
-      {
-        "name": "I Love You Out Loud",
-        "artist": {
-          "name": "Larissa Lambert"
-        }
-      },
-      {
-        "name": "Letter from Rosie",
-        "artist": {
-          "name": "Rustic Melodies"
-        }
-      },
-      {
-        "name": "What I Do",
-        "artist": {
-          "name": "Westwood"
-        }
-      },
-      {
-        "name": "Nothing Is Impossible (Orchestral Version)",
-        "artist": {
-          "name": "Mariah Carey"
-        }
-      },
-      {
-        "name": "Slowed / Reverb - Crrylx / Sarvanss",
-        "artist": {
-          "name": "Écoute Chérie"
-        }
-      },
-      {
-        "name": "like JENNIE (Extended Remix)",
-        "artist": {
-          "name": "JENNIE"
-        }
-      },
-      {
-        "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
-        "artist": {
-          "name": "Miley Cyrus"
-        }
-      },
-      {
-        "name": "Coming Up Roses",
-        "artist": {
-          "name": "Harry Styles"
-        }
-      },
-      {
-        "name": "When Did You Stop Loving Me?",
-        "artist": {
-          "name": "LANY"
-        }
-      },
-      {
-        "name": "The WhatsApp Shakespeare.",
-        "artist": {
-          "name": "RAYE"
-        }
-      },
-      {
-        "name": "Griddlë",
-        "artist": {
-          "name": "Yeat / Don Toliver"
-        }
-      },
-      {
-        "name": "Overtime",
-        "artist": {
-          "name": "Westwood"
-        }
-      },
-      {
-        "name": "TAKE MY HEART",
-        "artist": {
-          "name": "Swae Lee / Post Malone"
-        }
-      },
-      {
-        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
-        "artist": {
-          "name": "RAYE / Hans Zimmer"
-        }
-      },
-      {
-        "name": "I Used To Be Cringe",
-        "artist": {
-          "name": "Charlie Puth"
-        }
-      },
-      {
-        "name": "New Jersey (feat. Ravyn Lenae)",
-        "artist": {
-          "name": "Charlie Puth / Ravyn Lenae"
-        }
-      },
-      {
-        "name": "Pop off the Top",
-        "artist": {
-          "name": "NEFFEX"
-        }
-      },
-      {
-        "name": "The One Who's Running the Show",
-        "artist": {
-          "name": "Gooseworx"
+          "name": "Chris Brown"
         }
       },
       {
@@ -314,51 +56,33 @@
         }
       },
       {
-        "name": "5АМ",
+        "name": "Waiting Room",
         "artist": {
-          "name": "АДЛИН"
+          "name": "Jenevieve / Jordan Ward"
         }
       },
       {
-        "name": "Sideways (feat. Coco Jones)",
-        "artist": {
-          "name": "Charlie Puth / Coco Jones"
-        }
-      },
-      {
-        "name": "Winter Woman.",
-        "artist": {
-          "name": "RAYE"
-        }
-      },
-      {
-        "name": "ＤＯＥＳ ＳＨＥ ＬＯＶＥ ＭＥ",
-        "artist": {
-          "name": "Kkot / Shiloh Dynasty"
-        }
-      },
-      {
-        "name": "Life Boat.",
-        "artist": {
-          "name": "RAYE"
-        }
-      },
-      {
-        "name": "Turn The Light Off",
-        "artist": {
-          "name": "Audio Vibes Alliance"
-        }
-      },
-      {
-        "name": "Changes",
+        "name": "Reply To This",
         "artist": {
           "name": "Charlie Puth"
         }
       },
       {
-        "name": "Supersonic Funk",
+        "name": "PREACHER MAN",
         "artist": {
-          "name": "KHAOS / Jmilton / Mc Jaja"
+          "name": "Kanye West / Ye"
+        }
+      },
+      {
+        "name": "Home (feat. Hikaru Utada)",
+        "artist": {
+          "name": "Charlie Puth / 宇多田ヒカル"
+        }
+      },
+      {
+        "name": "Monster",
+        "artist": {
+          "name": "Alan Walker / Emyrson Flora"
         }
       },
       {
@@ -368,189 +92,45 @@
         }
       },
       {
-        "name": "Clarity (BUNT. Remix)",
+        "name": "Baby, Why Don't You Want Me?",
         "artist": {
-          "name": "Zedd / VALORANT / Foxes"
+          "name": "The Moonvelour"
         }
       },
       {
-        "name": "Wildfire",
+        "name": "WHITE LINES (feat. Andre Troutman)",
         "artist": {
-          "name": "Lekan"
+          "name": "Kanye West / Ye / Andre Troutman"
         }
       },
       {
-        "name": "Catharina",
+        "name": "KING",
         "artist": {
-          "name": "Martin Garrix"
+          "name": "Kanye West / Ye"
         }
       },
       {
-        "name": "American Girls",
+        "name": "Echo",
         "artist": {
-          "name": "Harry Styles"
+          "name": "The Chainsmokers / Oaks"
         }
       },
       {
-        "name": "Washed Up",
+        "name": "Awake Tonight",
         "artist": {
-          "name": "Charlie Puth"
+          "name": "Afrojack / Sia / David Guetta"
         }
       },
       {
-        "name": "Breathe",
+        "name": "Letter from Rosie",
         "artist": {
-          "name": "Malcolm Todd"
+          "name": "Rustic Melodies"
         }
       },
       {
-        "name": "Surrender (From Your Friends & Neighbors)",
+        "name": "Leading Role",
         "artist": {
-          "name": "Lindsey Stirling"
-        }
-      },
-      {
-        "name": "Addicted To Bass (Dom Dolla Relapse)",
-        "artist": {
-          "name": "Dom Dolla / Puretone"
-        }
-      },
-      {
-        "name": "The Best",
-        "artist": {
-          "name": "Conan Gray"
-        }
-      },
-      {
-        "name": "It Had To Be You (Ost.ด้วงกับเธอ Duang With You Series)",
-        "artist": {
-          "name": "COPPER OF BUS"
-        }
-      },
-      {
-        "name": "Life is Reason",
-        "artist": {
-          "name": "Daniel Pemberton"
-        }
-      },
-      {
-        "name": "Amaze Amaze Amaze (Life on Erid)",
-        "artist": {
-          "name": "Daniel Pemberton"
-        }
-      },
-      {
-        "name": "I Came Here for Love",
-        "artist": {
-          "name": "Cassette Nights"
-        }
-      },
-      {
-        "name": "why am i like this",
-        "artist": {
-          "name": "bbno$"
-        }
-      },
-      {
-        "name": "ICEMAN FREESTYLE",
-        "artist": {
-          "name": "Central Cee"
-        }
-      },
-      {
-        "name": "Time Go Fishing",
-        "artist": {
-          "name": "Daniel Pemberton"
-        }
-      },
-      {
-        "name": "Carla's Song",
-        "artist": {
-          "name": "Harry Styles"
-        }
-      },
-      {
-        "name": "Want Love",
-        "artist": {
-          "name": "Mary J. Blige"
-        }
-      },
-      {
-        "name": "Nervy Funk",
-        "artist": {
-          "name": "DJ KVNXD / Dj Zidzz / BRTS7"
-        }
-      },
-      {
-        "name": "Something to Hope For",
-        "artist": {
-          "name": "Phoebe Ryan"
-        }
-      },
-      {
-        "name": "SO TIRED JUMPSTYLE",
-        "artist": {
-          "name": "NUEKI / MVSTERIOUS"
-        }
-      },
-      {
-        "name": "Algae",
-        "artist": {
-          "name": "acloudyskye"
-        }
-      },
-      {
-        "name": "Falling Stars and Broken Promises",
-        "artist": {
-          "name": "S-COZY"
-        }
-      },
-      {
-        "name": "GARBAGE",
-        "artist": {
-          "name": "Melanie Martinez"
-        }
-      },
-      {
-        "name": "Stand In Your Power",
-        "artist": {
-          "name": "Alexia Evellyn"
-        }
-      },
-      {
-        "name": "Where Do We Go",
-        "artist": {
-          "name": "Ayra Starr"
-        }
-      },
-      {
-        "name": "Do You Miss Me ?",
-        "artist": {
-          "name": "Yo Trane"
-        }
-      },
-      {
-        "name": "Brain Fog",
-        "artist": {
-          "name": "slayr"
-        }
-      },
-      {
-        "name": "INTERLUDE OMEGA",
-        "artist": {
-          "name": "JON'S YOLO"
-        }
-      },
-      {
-        "name": "The Visitor",
-        "artist": {
-          "name": "SIENNA SPIRO"
-        }
-      },
-      {
-        "name": "Mi Chico",
-        "artist": {
-          "name": "Dj Goja"
+          "name": "Chris James"
         }
       },
       {
@@ -560,9 +140,375 @@
         }
       },
       {
+        "name": "Where We Go",
+        "artist": {
+          "name": "Marshmello / Thomas Rhett"
+        }
+      },
+      {
+        "name": "I Will Overcome.",
+        "artist": {
+          "name": "RAYE"
+        }
+      },
+      {
+        "name": "Supersonic Funk",
+        "artist": {
+          "name": "KHAOS / Jmilton / Mc Jaja"
+        }
+      },
+      {
+        "name": "Turn The Light Off",
+        "artist": {
+          "name": "Audio Vibes Alliance"
+        }
+      },
+      {
+        "name": "natus",
+        "artist": {
+          "name": "Versutus"
+        }
+      },
+      {
+        "name": "It\"s Okay Today",
+        "artist": {
+          "name": "Jigoooo Radio"
+        }
+      },
+      {
+        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+        "artist": {
+          "name": "RAYE / Hans Zimmer"
+        }
+      },
+      {
+        "name": "PINKY UP",
+        "artist": {
+          "name": "KATSEYE"
+        }
+      },
+      {
+        "name": "Madwoman",
+        "artist": {
+          "name": "Laufey"
+        }
+      },
+      {
+        "name": "Need Your Love",
+        "artist": {
+          "name": "OneRepublic"
+        }
+      },
+      {
+        "name": "WAGWAN",
+        "artist": {
+          "name": "Central Cee"
+        }
+      },
+      {
+        "name": "Slowed / Reverb - Crrylx / Sarvanss",
+        "artist": {
+          "name": "Écoute Chérie"
+        }
+      },
+      {
+        "name": "Nothing Is Impossible (Orchestral Version)",
+        "artist": {
+          "name": "Mariah Carey"
+        }
+      },
+      {
+        "name": "Falling Stars and Broken Promises",
+        "artist": {
+          "name": "S-COZY"
+        }
+      },
+      {
+        "name": "Amaze Amaze Amaze (Life on Erid)",
+        "artist": {
+          "name": "Daniel Pemberton"
+        }
+      },
+      {
+        "name": "TAKE MY HEART",
+        "artist": {
+          "name": "Swae Lee / Post Malone"
+        }
+      },
+      {
+        "name": "The One Who's Running the Show",
+        "artist": {
+          "name": "Gooseworx"
+        }
+      },
+      {
+        "name": "Life Boat.",
+        "artist": {
+          "name": "RAYE"
+        }
+      },
+      {
+        "name": "Life is Reason",
+        "artist": {
+          "name": "Daniel Pemberton"
+        }
+      },
+      {
+        "name": "2GOOD4U",
+        "artist": {
+          "name": "Denise Julia"
+        }
+      },
+      {
+        "name": "Emoji",
+        "artist": {
+          "name": "SB19 / 蔡依林"
+        }
+      },
+      {
+        "name": "When Did You Stop Loving Me?",
+        "artist": {
+          "name": "LANY"
+        }
+      },
+      {
+        "name": "The Best",
+        "artist": {
+          "name": "Conan Gray"
+        }
+      },
+      {
+        "name": "The WhatsApp Shakespeare.",
+        "artist": {
+          "name": "RAYE"
+        }
+      },
+      {
+        "name": "Elizabeth Taylor (So Glamorous Cabaret Version)",
+        "artist": {
+          "name": "Taylor Swift"
+        }
+      },
+      {
+        "name": "I Love You Out Loud",
+        "artist": {
+          "name": "Larissa Lambert"
+        }
+      },
+      {
+        "name": "I Came Here for Love",
+        "artist": {
+          "name": "Cassette Nights"
+        }
+      },
+      {
+        "name": "Mr. Know It All",
+        "artist": {
+          "name": "Teddy Swims"
+        }
+      },
+      {
+        "name": "Clarity (BUNT. Remix)",
+        "artist": {
+          "name": "Zedd / VALORANT / Foxes"
+        }
+      },
+      {
+        "name": "Back and Forth (feat. Missy Elliott)",
+        "artist": {
+          "name": "Kehlani / Missy Elliott"
+        }
+      },
+      {
+        "name": "Griddlë",
+        "artist": {
+          "name": "Yeat / Don Toliver"
+        }
+      },
+      {
+        "name": "Time Go Fishing",
+        "artist": {
+          "name": "Daniel Pemberton"
+        }
+      },
+      {
+        "name": "Something to Hope For",
+        "artist": {
+          "name": "Phoebe Ryan"
+        }
+      },
+      {
+        "name": "Nervy Funk",
+        "artist": {
+          "name": "DJ KVNXD / Dj Zidzz / BRTS7"
+        }
+      },
+      {
+        "name": "I Used To Be Cringe",
+        "artist": {
+          "name": "Charlie Puth"
+        }
+      },
+      {
+        "name": "stuck",
+        "artist": {
+          "name": "Saint Harison"
+        }
+      },
+      {
+        "name": "Surrender (From Your Friends & Neighbors)",
+        "artist": {
+          "name": "Lindsey Stirling"
+        }
+      },
+      {
+        "name": "Happier Times Ahead.",
+        "artist": {
+          "name": "RAYE"
+        }
+      },
+      {
+        "name": "Click Clack Symphony. (feat. Hans Zimmer)",
+        "artist": {
+          "name": "RAYE / Hans Zimmer"
+        }
+      },
+      {
+        "name": "New Jersey (feat. Ravyn Lenae)",
+        "artist": {
+          "name": "Charlie Puth / Ravyn Lenae"
+        }
+      },
+      {
+        "name": "Black n' Blue",
+        "artist": {
+          "name": "Skylar Grey"
+        }
+      },
+      {
+        "name": "One of Them",
+        "artist": {
+          "name": "DJ Khaled / Future / Lil Baby"
+        }
+      },
+      {
+        "name": "Monsters",
+        "artist": {
+          "name": "AViVA"
+        }
+      },
+      {
+        "name": "GARBAGE",
+        "artist": {
+          "name": "Melanie Martinez"
+        }
+      },
+      {
+        "name": "Love You Right",
+        "artist": {
+          "name": "Montell Fish / Clara La San"
+        }
+      },
+      {
+        "name": "That's When You Know",
+        "artist": {
+          "name": "Kygo / Carter Faith"
+        }
+      },
+      {
+        "name": "Beautiful",
+        "artist": {
+          "name": "Anyma / Joji"
+        }
+      },
+      {
+        "name": "Breathe",
+        "artist": {
+          "name": "Malcolm Todd"
+        }
+      },
+      {
+        "name": "Wildfire",
+        "artist": {
+          "name": "Lekan"
+        }
+      },
+      {
+        "name": "GTA 6",
+        "artist": {
+          "name": "Joyner Lucas"
+        }
+      },
+      {
+        "name": "How To Stay With You",
+        "artist": {
+          "name": "Troye Sivan"
+        }
+      },
+      {
+        "name": "Changes",
+        "artist": {
+          "name": "Charlie Puth"
+        }
+      },
+      {
+        "name": "Younger You (From the \"Hannah Montana 20th Anniversary Special\")",
+        "artist": {
+          "name": "Miley Cyrus"
+        }
+      },
+      {
+        "name": "RUNWAY",
+        "artist": {
+          "name": "Lady Gaga / Doechii"
+        }
+      },
+      {
+        "name": "Washed Up",
+        "artist": {
+          "name": "Charlie Puth"
+        }
+      },
+      {
+        "name": "Água de Beber (2026 Version)",
+        "artist": {
+          "name": "小野リサ"
+        }
+      },
+      {
+        "name": "first time",
+        "artist": {
+          "name": "NAYARA NEI P"
+        }
+      },
+      {
+        "name": "When I Wake Up",
+        "artist": {
+          "name": "The Pretty Reckless"
+        }
+      },
+      {
         "name": "Location Unknown (10 Years) feat. NIKI",
         "artist": {
           "name": "HONNE / NIKI"
+        }
+      },
+      {
+        "name": "idea 1",
+        "artist": {
+          "name": "Kelela"
+        }
+      },
+      {
+        "name": "Secret Crush",
+        "artist": {
+          "name": "Poe Raven"
+        }
+      },
+      {
+        "name": "The Visitor",
+        "artist": {
+          "name": "SIENNA SPIRO"
         }
       },
       {
@@ -572,21 +518,51 @@
         }
       },
       {
+        "name": "Drillo",
+        "artist": {
+          "name": "GENESI"
+        }
+      },
+      {
+        "name": "I Forget Who I Am",
+        "artist": {
+          "name": "amora"
+        }
+      },
+      {
+        "name": "Madwoman",
+        "artist": {
+          "name": "Laufey"
+        }
+      },
+      {
+        "name": "Astronomy Domine (Live)",
+        "artist": {
+          "name": "Pink Floyd"
+        }
+      },
+      {
+        "name": "Amaze Amaze Amaze (Fist My Bump)",
+        "artist": {
+          "name": "Daniel Pemberton"
+        }
+      },
+      {
+        "name": "ＤＯＥＳ ＳＨＥ ＬＯＶＥ ＭＥ",
+        "artist": {
+          "name": "Kkot / Shiloh Dynasty"
+        }
+      },
+      {
+        "name": "Night at the Opera",
+        "artist": {
+          "name": "Emei"
+        }
+      },
+      {
         "name": "Honour",
         "artist": {
           "name": "Elmiene"
-        }
-      },
-      {
-        "name": "Montagem Rugada",
-        "artist": {
-          "name": "cape / JXNDRO / Sayfalse"
-        }
-      },
-      {
-        "name": "Taste Back",
-        "artist": {
-          "name": "Harry Styles"
         }
       },
       {
@@ -596,9 +572,33 @@
         }
       },
       {
-        "name": "GTA 6",
+        "name": "God, Can You Hear Me?",
         "artist": {
-          "name": "Joyner Lucas"
+          "name": "Dax"
+        }
+      },
+      {
+        "name": "Kick The Curb",
+        "artist": {
+          "name": "NewDad"
+        }
+      },
+      {
+        "name": "Leak It",
+        "artist": {
+          "name": "FLO"
+        }
+      },
+      {
+        "name": "Adagio",
+        "artist": {
+          "name": "Alan Walker"
+        }
+      },
+      {
+        "name": "Still Shining (feat. 重音テト)",
+        "artist": {
+          "name": "Mayonazy / 重音テト"
         }
       }
     ]
