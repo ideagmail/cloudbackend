@@ -8,6 +8,12 @@
         }
       },
       {
+        "name": "Beauty And A Beat",
+        "artist": {
+          "name": "Justin Bieber"
+        }
+      },
+      {
         "name": "End of Beginning",
         "artist": {
           "name": "Djo"
@@ -29,6 +35,12 @@
         "name": "Golden",
         "artist": {
           "name": "HUNTR/X"
+        }
+      },
+      {
+        "name": "Baby",
+        "artist": {
+          "name": "Justin Bieber"
         }
       },
       {
@@ -83,6 +95,12 @@
         "name": "Sorry",
         "artist": {
           "name": "Justin Bieber"
+        }
+      },
+      {
+        "name": "Risk It All",
+        "artist": {
+          "name": "Bruno Mars"
         }
       },
       {
@@ -236,6 +254,12 @@
         }
       },
       {
+        "name": "You Make Me Stupid",
+        "artist": {
+          "name": "Bryce Xavier"
+        }
+      },
+      {
         "name": "Many Men (Wish Death)",
         "artist": {
           "name": "50 Cent"
@@ -278,12 +302,6 @@
         }
       },
       {
-        "name": "Now that You Know",
-        "artist": {
-          "name": "Cabela and Schmitt"
-        }
-      },
-      {
         "name": "Pink Pony Club",
         "artist": {
           "name": "Chappell Roan"
@@ -302,15 +320,15 @@
         }
       },
       {
-        "name": "Die With A Smile",
+        "name": "Kids at 45",
         "artist": {
-          "name": "Lady Gaga"
+          "name": "Isaac Jones"
         }
       },
       {
-        "name": "Good Grief",
+        "name": "Die With A Smile",
         "artist": {
-          "name": "Mathilde Widding"
+          "name": "Lady Gaga"
         }
       },
       {
@@ -386,9 +404,9 @@
         }
       },
       {
-        "name": "Heatwave",
+        "name": "picket fence",
         "artist": {
-          "name": "BETHY"
+          "name": "Pia Baris"
         }
       },
       {
@@ -398,15 +416,15 @@
         }
       },
       {
-        "name": "Too Sweet",
+        "name": "Bones",
         "artist": {
-          "name": "Hozier"
+          "name": "Catlea"
         }
       },
       {
-        "name": "Serial Forsaker",
+        "name": "Too Sweet",
         "artist": {
-          "name": "Graham Elson"
+          "name": "Hozier"
         }
       },
       {
@@ -710,12 +728,6 @@
         }
       },
       {
-        "name": "Nice to E-Meet You",
-        "artist": {
-          "name": "Total Maximum"
-        }
-      },
-      {
         "name": "Illegal",
         "artist": {
           "name": "PinkPantheress"
@@ -743,12 +755,6 @@
         "name": "Austin (Boots Stop Workin')",
         "artist": {
           "name": "Dasha"
-        }
-      },
-      {
-        "name": "Dance With the Wind",
-        "artist": {
-          "name": "Cole Indigo"
         }
       },
       {
@@ -908,6 +914,12 @@
         }
       },
       {
+        "name": "Open Skies",
+        "artist": {
+          "name": "Orrin Vale"
+        }
+      },
+      {
         "name": "You & Me - Rivo Remix",
         "artist": {
           "name": "Disclosure"
@@ -1049,6 +1061,12 @@
         "name": "lovely (with Khalid)",
         "artist": {
           "name": "Billie Eilish"
+        }
+      },
+      {
+        "name": "Ashes to Ashes",
+        "artist": {
+          "name": "Kim Edwards"
         }
       },
       {
