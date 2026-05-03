@@ -2,39 +2,9 @@
   "recommendedtracks": {
     "track": [
       {
-        "name": "Fire Is Dead",
-        "artist": {
-          "name": "SCARECROW"
-        }
-      },
-      {
         "name": "Bad Angel",
         "artist": {
           "name": "Anyma / LISA"
-        }
-      },
-      {
-        "name": "ALL THE LOVE (feat. Andre Troutman)",
-        "artist": {
-          "name": "Kanye West / Ye / Andre Troutman"
-        }
-      },
-      {
-        "name": "Runway",
-        "artist": {
-          "name": "Lady Gaga / Doechii"
-        }
-      },
-      {
-        "name": "drop dead",
-        "artist": {
-          "name": "Olivia Rodrigo"
-        }
-      },
-      {
-        "name": "THIS ONE HERE",
-        "artist": {
-          "name": "Kanye West / Ye"
         }
       },
       {
@@ -44,51 +14,33 @@
         }
       },
       {
-        "name": "They Love Me Now I Don\"t Need It",
+        "name": "Runway",
         "artist": {
-          "name": "VeasnaYeang"
+          "name": "Lady Gaga / Doechii"
         }
       },
       {
-        "name": "next2u",
+        "name": "Heroine",
         "artist": {
-          "name": "Demxntia / niko rain"
+          "name": "Maroon 5"
         }
       },
       {
-        "name": "Sideways (feat. Coco Jones)",
+        "name": "Glamorous Life",
         "artist": {
-          "name": "Charlie Puth / Coco Jones"
+          "name": "Lady Gaga"
         }
       },
       {
-        "name": "Obvious",
+        "name": "With You Around",
         "artist": {
-          "name": "Chris Brown"
+          "name": "BANKS"
         }
       },
       {
-        "name": "Bang Bang Bang",
+        "name": "drop dead",
         "artist": {
-          "name": "bbpanzu"
-        }
-      },
-      {
-        "name": "Already Know",
-        "artist": {
-          "name": "The Chainsmokers / Oaks"
-        }
-      },
-      {
-        "name": "FATHER (feat. Travis Scott)",
-        "artist": {
-          "name": "Kanye West / Ye / Travis Scott"
-        }
-      },
-      {
-        "name": "Home (feat. Hikaru Utada)",
-        "artist": {
-          "name": "Charlie Puth / 宇多田ヒカル"
+          "name": "Olivia Rodrigo"
         }
       },
       {
@@ -98,57 +50,15 @@
         }
       },
       {
-        "name": "Reply To This",
+        "name": "Shape of a Woman",
         "artist": {
-          "name": "Charlie Puth"
+          "name": "Lady Gaga"
         }
       },
       {
-        "name": "Letter from Rosie",
+        "name": "next2u",
         "artist": {
-          "name": "Rustic Melodies"
-        }
-      },
-      {
-        "name": "INTRO (HIT ME HARD AND SOFT TOUR)",
-        "artist": {
-          "name": "Billie Eilish"
-        }
-      },
-      {
-        "name": "PREACHER MAN",
-        "artist": {
-          "name": "Kanye West / Ye"
-        }
-      },
-      {
-        "name": "Monster",
-        "artist": {
-          "name": "Alan Walker / Emyrson Flora"
-        }
-      },
-      {
-        "name": "8:30PM",
-        "artist": {
-          "name": "ADTurnUp"
-        }
-      },
-      {
-        "name": "WHITE LINES (feat. Andre Troutman)",
-        "artist": {
-          "name": "Kanye West / Ye / Andre Troutman"
-        }
-      },
-      {
-        "name": "PINKY UP",
-        "artist": {
-          "name": "KATSEYE"
-        }
-      },
-      {
-        "name": "Wanna Be Startin' Somethin'",
-        "artist": {
-          "name": "Michael Jackson"
+          "name": "Demxntia / niko rain"
         }
       },
       {
@@ -158,33 +68,27 @@
         }
       },
       {
-        "name": "Still Shining (feat. 重音テト)",
+        "name": "X-COOL 2!",
         "artist": {
-          "name": "Mayonazy / 重音テト"
+          "name": "tienanh109 / HDN"
         }
       },
       {
-        "name": "Need Your Love",
+        "name": "RUNWAY",
         "artist": {
-          "name": "OneRepublic"
+          "name": "Lady Gaga / Doechii"
         }
       },
       {
-        "name": "Shoulda Never (feat. Usher)",
+        "name": "Obvious",
         "artist": {
-          "name": "Kehlani / Usher"
+          "name": "Chris Brown"
         }
       },
       {
-        "name": "KING",
+        "name": "Bring Your Love",
         "artist": {
-          "name": "Kanye West / Ye"
-        }
-      },
-      {
-        "name": "I Will Overcome.",
-        "artist": {
-          "name": "RAYE"
+          "name": "Madonna / Sabrina Carpenter"
         }
       },
       {
@@ -194,15 +98,57 @@
         }
       },
       {
-        "name": "X-COOL 2!",
+        "name": "instant",
         "artist": {
-          "name": "tienanh109 / HDN"
+          "name": "mixed matches"
         }
       },
       {
-        "name": "Goodbye Henry. (feat. Al Green)",
+        "name": "Dracula (JENNIE Remix)",
         "artist": {
-          "name": "RAYE / Al Green"
+          "name": "Tame Impala / JENNIE"
+        }
+      },
+      {
+        "name": "PINKY UP",
+        "artist": {
+          "name": "KATSEYE"
+        }
+      },
+      {
+        "name": "A Thousand Years (Cinematic Version)",
+        "artist": {
+          "name": "John Michael Howell / JVKE / ZVC"
+        }
+      },
+      {
+        "name": "Already Know",
+        "artist": {
+          "name": "The Chainsmokers / Oaks"
+        }
+      },
+      {
+        "name": "DON'T BELIEVE IT",
+        "artist": {
+          "name": "John Summit / Absolutely"
+        }
+      },
+      {
+        "name": "The Pilot </3 (DETOX JAPAN TOUR 2025)",
+        "artist": {
+          "name": "ONE OK ROCK"
+        }
+      },
+      {
+        "name": "NO BATIDÃO (W&W REMIX)",
+        "artist": {
+          "name": "ZXKAI / SLXUGHTER / W&W"
+        }
+      },
+      {
+        "name": "Lucid",
+        "artist": {
+          "name": "Halsey"
         }
       },
       {
@@ -212,15 +158,51 @@
         }
       },
       {
-        "name": "Where We Go",
+        "name": "Need Your Love",
         "artist": {
-          "name": "Marshmello / Thomas Rhett"
+          "name": "OneRepublic"
         }
       },
       {
-        "name": "I Choose You",
+        "name": "I Bring My Gun To The Function",
         "artist": {
-          "name": "keshi"
+          "name": "Brutalismus 3000 / Boys Noize"
+        }
+      },
+      {
+        "name": "8:30PM",
+        "artist": {
+          "name": "ADTurnUp"
+        }
+      },
+      {
+        "name": "Shoulda Never (feat. Usher)",
+        "artist": {
+          "name": "Kehlani / Usher"
+        }
+      },
+      {
+        "name": "Last Breath",
+        "artist": {
+          "name": "Stevie Hoang"
+        }
+      },
+      {
+        "name": "Wanna Be Startin' Somethin'",
+        "artist": {
+          "name": "Michael Jackson"
+        }
+      },
+      {
+        "name": "would u love me?",
+        "artist": {
+          "name": "s0rrow"
+        }
+      },
+      {
+        "name": "Fallin'",
+        "artist": {
+          "name": "Chris Brown / Leon Thomas"
         }
       },
       {
@@ -230,27 +212,9 @@
         }
       },
       {
-        "name": "WAGWAN",
+        "name": "Material Lover",
         "artist": {
-          "name": "Central Cee"
-        }
-      },
-      {
-        "name": "Falling Stars and Broken Promises",
-        "artist": {
-          "name": "S-COZY"
-        }
-      },
-      {
-        "name": "You Come Around",
-        "artist": {
-          "name": "Fly By Midnight"
-        }
-      },
-      {
-        "name": "Pocket (feat. Cardi B)",
-        "artist": {
-          "name": "Kehlani / Cardi B"
+          "name": "SIENNA SPIRO"
         }
       },
       {
@@ -260,9 +224,21 @@
         }
       },
       {
-        "name": "Mr. Know It All",
+        "name": "Hot & Sexy (Girls Trip)",
         "artist": {
-          "name": "Teddy Swims"
+          "name": "Zara Larsson / Tyla"
+        }
+      },
+      {
+        "name": "Die Living (Back Road Version)",
+        "artist": {
+          "name": "ILLENIUM / Dustin Lynch / David Guetta"
+        }
+      },
+      {
+        "name": "Smoke",
+        "artist": {
+          "name": "Skrillex / ISOxo / Cristale / TeeZandos"
         }
       },
       {
@@ -272,9 +248,9 @@
         }
       },
       {
-        "name": "Your Love Amazes Me",
+        "name": "Anotha Luva (feat. Lil Wayne)",
         "artist": {
-          "name": "Westlife"
+          "name": "Kehlani / Lil Wayne"
         }
       },
       {
@@ -290,147 +266,21 @@
         }
       },
       {
-        "name": "Happier Times Ahead.",
+        "name": "o tempo nunca volta... :( [Versão Masterizada]",
         "artist": {
-          "name": "RAYE"
+          "name": "Lil kalunia / Shiloh Dynasty"
         }
       },
       {
-        "name": "Madwoman",
+        "name": "We Were Only Young",
         "artist": {
-          "name": "Laufey"
+          "name": "Kodaline"
         }
       },
       {
-        "name": "would u love me?",
+        "name": "Heroine",
         "artist": {
-          "name": "s0rrow"
-        }
-      },
-      {
-        "name": "The WhatsApp Shakespeare.",
-        "artist": {
-          "name": "RAYE"
-        }
-      },
-      {
-        "name": "TAKE MY HEART",
-        "artist": {
-          "name": "Swae Lee / Post Malone"
-        }
-      },
-      {
-        "name": "Nothing Is Impossible (Orchestral Version)",
-        "artist": {
-          "name": "Mariah Carey"
-        }
-      },
-      {
-        "name": "NO BATIDÃO (W&W REMIX)",
-        "artist": {
-          "name": "ZXKAI / SLXUGHTER / W&W"
-        }
-      },
-      {
-        "name": "Ring",
-        "artist": {
-          "name": "Queen Naija"
-        }
-      },
-      {
-        "name": "tar",
-        "artist": {
-          "name": "mixed matches"
-        }
-      },
-      {
-        "name": "Echo",
-        "artist": {
-          "name": "The Chainsmokers / Oaks"
-        }
-      },
-      {
-        "name": "Life Boat.",
-        "artist": {
-          "name": "RAYE"
-        }
-      },
-      {
-        "name": "Яра (По книге «Невеста Ноября»)",
-        "artist": {
-          "name": "polnalyubvi"
-        }
-      },
-      {
-        "name": "Door",
-        "artist": {
-          "name": "Conan Gray"
-        }
-      },
-      {
-        "name": "DON'T BELIEVE IT",
-        "artist": {
-          "name": "John Summit / Absolutely"
-        }
-      },
-      {
-        "name": "With This Tear",
-        "artist": {
-          "name": "Prince"
-        }
-      },
-      {
-        "name": "To Know A Girl",
-        "artist": {
-          "name": "Lukas Graham"
-        }
-      },
-      {
-        "name": "Griddlë",
-        "artist": {
-          "name": "Yeat / Don Toliver"
-        }
-      },
-      {
-        "name": "Sunday Again",
-        "artist": {
-          "name": "6LACK / 2 Chainz"
-        }
-      },
-      {
-        "name": "The Best",
-        "artist": {
-          "name": "Conan Gray"
-        }
-      },
-      {
-        "name": "Secret Crush",
-        "artist": {
-          "name": "Poe Raven"
-        }
-      },
-      {
-        "name": "In Love Like You",
-        "artist": {
-          "name": "Chevy"
-        }
-      },
-      {
-        "name": "Winter Woman.",
-        "artist": {
-          "name": "RAYE"
-        }
-      },
-      {
-        "name": "I Love You Out Loud",
-        "artist": {
-          "name": "Larissa Lambert"
-        }
-      },
-      {
-        "name": "Awake Tonight",
-        "artist": {
-          "name": "Afrojack / Sia / David Guetta"
+          "name": "Maroon 5"
         }
       },
       {
@@ -440,21 +290,9 @@
         }
       },
       {
-        "name": "Watch my heart go...",
+        "name": "bandaids (live sessions)",
         "artist": {
-          "name": "R3HAB / Orem"
-        }
-      },
-      {
-        "name": "2GOOD4U",
-        "artist": {
-          "name": "Denise Julia"
-        }
-      },
-      {
-        "name": "Surrender (From Your Friends & Neighbors)",
-        "artist": {
-          "name": "Lindsey Stirling"
+          "name": "keshi"
         }
       },
       {
@@ -464,129 +302,9 @@
         }
       },
       {
-        "name": "Need For Speed",
+        "name": "MOVE YOUR BODY",
         "artist": {
-          "name": "Kim Petras"
-        }
-      },
-      {
-        "name": "Actor",
-        "artist": {
-          "name": "Conan Gray"
-        }
-      },
-      {
-        "name": "I Feel So Free",
-        "artist": {
-          "name": "Madonna"
-        }
-      },
-      {
-        "name": "purple sky",
-        "artist": {
-          "name": "ADTurnUp"
-        }
-      },
-      {
-        "name": "Cryogen",
-        "artist": {
-          "name": "Muse"
-        }
-      },
-      {
-        "name": "Stand In Your Power",
-        "artist": {
-          "name": "Alexia Evellyn"
-        }
-      },
-      {
-        "name": "I Used To Be Cringe",
-        "artist": {
-          "name": "Charlie Puth"
-        }
-      },
-      {
-        "name": "New Jersey (feat. Ravyn Lenae)",
-        "artist": {
-          "name": "Charlie Puth / Ravyn Lenae"
-        }
-      },
-      {
-        "name": "Somewhere Along The Way",
-        "artist": {
-          "name": "Eddie Dalton"
-        }
-      },
-      {
-        "name": "Die Living (Back Road Version)",
-        "artist": {
-          "name": "ILLENIUM / Dustin Lynch / David Guetta"
-        }
-      },
-      {
-        "name": "Catharina",
-        "artist": {
-          "name": "Martin Garrix"
-        }
-      },
-      {
-        "name": "Little More Time",
-        "artist": {
-          "name": "Niall Horan"
-        }
-      },
-      {
-        "name": "stuck",
-        "artist": {
-          "name": "Saint Harison"
-        }
-      },
-      {
-        "name": "BEBE BALANCA",
-        "artist": {
-          "name": "shogrim"
-        }
-      },
-      {
-        "name": "Love In Exile (feat. Michael McDonald & Kenny Loggins)",
-        "artist": {
-          "name": "Charlie Puth / Michael McDonald / Kenny Loggins"
-        }
-      },
-      {
-        "name": "Changes",
-        "artist": {
-          "name": "Charlie Puth"
-        }
-      },
-      {
-        "name": "Ela Ké Cavucadinha",
-        "artist": {
-          "name": "Gordinho Bolado / CACAU CHUU"
-        }
-      },
-      {
-        "name": "postcard",
-        "artist": {
-          "name": "mixed matches"
-        }
-      },
-      {
-        "name": "Won't Force You",
-        "artist": {
-          "name": "Jai'Len Josey"
-        }
-      },
-      {
-        "name": "Anotha Luva (feat. Lil Wayne)",
-        "artist": {
-          "name": "Kehlani / Lil Wayne"
-        }
-      },
-      {
-        "name": "Novia Robot",
-        "artist": {
-          "name": "ROSALÍA"
+          "name": "The Kid LAROI"
         }
       },
       {
@@ -596,9 +314,291 @@
         }
       },
       {
+        "name": "Mr. Know It All",
+        "artist": {
+          "name": "Teddy Swims"
+        }
+      },
+      {
+        "name": "Koglum (Kara Kahwa2)",
+        "artist": {
+          "name": "Şubat"
+        }
+      },
+      {
+        "name": "Your Love Amazes Me",
+        "artist": {
+          "name": "Westlife"
+        }
+      },
+      {
+        "name": "Ordinary Road",
+        "artist": {
+          "name": "Westlife"
+        }
+      },
+      {
+        "name": "Six Seven",
+        "artist": {
+          "name": "Laurinha Costa / Dj Cabello / Dj Tchouzen / SoundMusic Original"
+        }
+      },
+      {
+        "name": "Stuntman",
+        "artist": {
+          "name": "Connor Price / Nic D"
+        }
+      },
+      {
+        "name": "Doors",
+        "artist": {
+          "name": "Noah Kahan"
+        }
+      },
+      {
+        "name": "Where We Go",
+        "artist": {
+          "name": "Marshmello / Thomas Rhett"
+        }
+      },
+      {
+        "name": "tar",
+        "artist": {
+          "name": "mixed matches"
+        }
+      },
+      {
+        "name": "Whatever Goes",
+        "artist": {
+          "name": "Jeff Bernat"
+        }
+      },
+      {
+        "name": "I Choose You",
+        "artist": {
+          "name": "keshi"
+        }
+      },
+      {
+        "name": "TAKE MY HEART",
+        "artist": {
+          "name": "Swae Lee / Post Malone"
+        }
+      },
+      {
+        "name": "Problems",
+        "artist": {
+          "name": "Jordan Rakei / FKJ"
+        }
+      },
+      {
+        "name": "With This Tear",
+        "artist": {
+          "name": "Prince"
+        }
+      },
+      {
+        "name": "Night, Blooming Jasmine .",
+        "artist": {
+          "name": "fakemink"
+        }
+      },
+      {
+        "name": "Evergreen Avenue",
+        "artist": {
+          "name": "Izzy Escobar"
+        }
+      },
+      {
+        "name": "a letter to you",
+        "artist": {
+          "name": "Versutus"
+        }
+      },
+      {
+        "name": "I Feel So Free",
+        "artist": {
+          "name": "Madonna"
+        }
+      },
+      {
+        "name": "Яра (По книге «Невеста Ноября»)",
+        "artist": {
+          "name": "polnalyubvi"
+        }
+      },
+      {
         "name": "Beautiful",
         "artist": {
           "name": "Anyma / Joji"
+        }
+      },
+      {
+        "name": "Surrender (From Your Friends & Neighbors)",
+        "artist": {
+          "name": "Lindsey Stirling"
+        }
+      },
+      {
+        "name": "END (Remix)",
+        "artist": {
+          "name": "电子手刹"
+        }
+      },
+      {
+        "name": "Madwoman",
+        "artist": {
+          "name": "Laufey"
+        }
+      },
+      {
+        "name": "Stand In Your Power",
+        "artist": {
+          "name": "Alexia Evellyn"
+        }
+      },
+      {
+        "name": "I Can't Love You Anymore",
+        "artist": {
+          "name": "Ella Langley / Morgan Wallen"
+        }
+      },
+      {
+        "name": "Make It Out Alive (DETOX JAPAN TOUR 2025)",
+        "artist": {
+          "name": "ONE OK ROCK"
+        }
+      },
+      {
+        "name": "Devotion",
+        "artist": {
+          "name": "Lil Wookie / Future"
+        }
+      },
+      {
+        "name": "1989 (feat. Fly By Midnight)",
+        "artist": {
+          "name": "Nightly / Fly By Midnight"
+        }
+      },
+      {
+        "name": "Gorgone",
+        "artist": {
+          "name": "Carpetman"
+        }
+      },
+      {
+        "name": "GOMF",
+        "artist": {
+          "name": "Latto / GloRilla"
+        }
+      },
+      {
+        "name": "WORSHIP",
+        "artist": {
+          "name": "Asake / DJ Snake"
+        }
+      },
+      {
+        "name": "SALESMAN FUNK",
+        "artist": {
+          "name": "JXE / Adb.nts44 / YXII / Nomi XD"
+        }
+      },
+      {
+        "name": "Actor",
+        "artist": {
+          "name": "Conan Gray"
+        }
+      },
+      {
+        "name": "Echo",
+        "artist": {
+          "name": "The Chainsmokers / Oaks"
+        }
+      },
+      {
+        "name": "In Love Like You",
+        "artist": {
+          "name": "Chevy"
+        }
+      },
+      {
+        "name": "purple sky",
+        "artist": {
+          "name": "ADTurnUp"
+        }
+      },
+      {
+        "name": "Sauna",
+        "artist": {
+          "name": "Jessie Ware"
+        }
+      },
+      {
+        "name": "Wind Pretend",
+        "artist": {
+          "name": "NBSPLV"
+        }
+      },
+      {
+        "name": "DROP A PIN",
+        "artist": {
+          "name": "Iamfrankeb"
+        }
+      },
+      {
+        "name": "When We Land",
+        "artist": {
+          "name": "Hoodtrophy Bino / Luh Kel"
+        }
+      },
+      {
+        "name": "BACK 2 LOVE",
+        "artist": {
+          "name": "The Kid LAROI"
+        }
+      },
+      {
+        "name": "Music Inspired by the Motion Picture) - Avril Lavigne",
+        "artist": {
+          "name": "Ironic ('Mile End Kicks'"
+        }
+      },
+      {
+        "name": "Pocket (feat. Cardi B)",
+        "artist": {
+          "name": "Kehlani / Cardi B"
+        }
+      },
+      {
+        "name": "MUTT",
+        "artist": {
+          "name": "Nav / Quavo"
+        }
+      },
+      {
+        "name": "INTRO (HIT ME HARD AND SOFT TOUR)",
+        "artist": {
+          "name": "Billie Eilish"
+        }
+      },
+      {
+        "name": "Novia Robot",
+        "artist": {
+          "name": "ROSALÍA"
+        }
+      },
+      {
+        "name": "Young",
+        "artist": {
+          "name": "rei brown"
+        }
+      },
+      {
+        "name": "Old Ways",
+        "artist": {
+          "name": "Connor Price / Nic D"
         }
       }
     ]
