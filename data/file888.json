@@ -36,24 +36,6 @@
     "platform": "DESKTOP|XBOX"
   },
   {
-    "title": "DownTube",
-    "subtitle": "Download YouTube video for free.",
-    "navigatetitle": "Download Now",
-    "badgetitle": "AD",
-    "icon": "\uE7F4",
-    "link": "ms-windows-store://pdp/?ProductId=9n2lzxm0qdsk&amp;cid=podcastedbanner",
-    "thumbnail": "",
-    "primarycolorhex": "#D13646",
-    "secondarycolorhex": "#9A50C5",
-    "imageURL": " ",
-    "adsType": 2,
-    "isEnable": true,
-    "expireTime": 1750000000000,
-    "supportAppVersion": 1744,
-    "regionCode": "GLOBAL",
-    "platform": "DESKTOP"
-  },
-  {
     "title": "FREE MUSIC",
     "subtitle": "Click here to access free music app.",
     "navigatetitle": "Download Now",
