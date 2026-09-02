@@ -8,9 +8,9 @@
         }
       },
       {
-        "name": "Dai Dai",
+        "name": "Movin' To The Sun",
         "artist": {
-          "name": "Shakira / Burna Boy"
+          "name": "HUGEL / Imael Angel / Ultra Naté"
         }
       },
       {
@@ -20,21 +20,9 @@
         }
       },
       {
-        "name": "Movin' To The Sun",
-        "artist": {
-          "name": "HUGEL / Imael Angel / Ultra Naté"
-        }
-      },
-      {
         "name": "Boston",
         "artist": {
           "name": "STELLA LEFTY"
-        }
-      },
-      {
-        "name": "hate that i made you love me",
-        "artist": {
-          "name": "Ariana Grande"
         }
       },
       {
@@ -44,15 +32,15 @@
         }
       },
       {
-        "name": "the cure",
+        "name": "hate that i made you love me",
         "artist": {
-          "name": "Olivia Rodrigo"
+          "name": "Ariana Grande"
         }
       },
       {
-        "name": "On 2nite",
+        "name": "the cure",
         "artist": {
-          "name": "Silva Bumpa"
+          "name": "Olivia Rodrigo"
         }
       },
       {
@@ -62,27 +50,21 @@
         }
       },
       {
+        "name": "On 2nite",
+        "artist": {
+          "name": "Silva Bumpa"
+        }
+      },
+      {
         "name": "Loser",
         "artist": {
           "name": "Tame Impala"
         }
       },
       {
-        "name": "Animal",
+        "name": "9 to 5",
         "artist": {
-          "name": "KATSEYE"
-        }
-      },
-      {
-        "name": "petal",
-        "artist": {
-          "name": "Ariana Grande"
-        }
-      },
-      {
-        "name": "Earrings",
-        "artist": {
-          "name": "Malcolm Todd"
+          "name": "Dolly Parton"
         }
       },
       {
@@ -92,7 +74,19 @@
         }
       },
       {
-        "name": "Hootie Frutti",
+        "name": "Dai Dai",
+        "artist": {
+          "name": "Shakira / Burna Boy"
+        }
+      },
+      {
+        "name": "Earrings",
+        "artist": {
+          "name": "Malcolm Todd"
+        }
+      },
+      {
+        "name": "Animal",
         "artist": {
           "name": "KATSEYE"
         }
@@ -104,9 +98,21 @@
         }
       },
       {
-        "name": "oh yeah?",
+        "name": "Marianne",
         "artist": {
-          "name": "Steve Lacy"
+          "name": "Fontaines D.C."
+        }
+      },
+      {
+        "name": "petal",
+        "artist": {
+          "name": "Ariana Grande"
+        }
+      },
+      {
+        "name": "Sue me",
+        "artist": {
+          "name": "Audrey Hobert"
         }
       },
       {
@@ -122,9 +128,27 @@
         }
       },
       {
-        "name": "Sign of the Times",
+        "name": "Self Aware",
         "artist": {
-          "name": "Harry Styles"
+          "name": "Temper City"
+        }
+      },
+      {
+        "name": "Hootie Frutti",
+        "artist": {
+          "name": "KATSEYE"
+        }
+      },
+      {
+        "name": "oh yeah?",
+        "artist": {
+          "name": "Steve Lacy"
+        }
+      },
+      {
+        "name": "Unwritten",
+        "artist": {
+          "name": "Natasha Bedingfield"
         }
       },
       {
@@ -134,21 +158,39 @@
         }
       },
       {
-        "name": "Self Aware",
+        "name": "Sign of the Times",
         "artist": {
-          "name": "Temper City"
-        }
-      },
-      {
-        "name": "Talk To You (ft 54 Ultra)",
-        "artist": {
-          "name": "ANOTR / 54 Ultra"
+          "name": "Harry Styles"
         }
       },
       {
         "name": "Free Your Mind",
         "artist": {
           "name": "Prospa / Cloonee"
+        }
+      },
+      {
+        "name": "Orbiter",
+        "artist": {
+          "name": "Noah Kahan"
+        }
+      },
+      {
+        "name": "Blessings",
+        "artist": {
+          "name": "Calvin Harris / Clementine Douglas"
+        }
+      },
+      {
+        "name": "Die On This Hill",
+        "artist": {
+          "name": "SIENNA SPIRO"
+        }
+      },
+      {
+        "name": "Talk To You (ft 54 Ultra)",
+        "artist": {
+          "name": "ANOTR / 54 Ultra"
         }
       },
       {
@@ -161,12 +203,6 @@
         "name": "The One That Got Away",
         "artist": {
           "name": "Katy Perry"
-        }
-      },
-      {
-        "name": "Blessings",
-        "artist": {
-          "name": "Calvin Harris / Clementine Douglas"
         }
       },
       {
@@ -224,12 +260,6 @@
         }
       },
       {
-        "name": "Unwritten",
-        "artist": {
-          "name": "Natasha Bedingfield"
-        }
-      },
-      {
         "name": "So Easy (To Fall In Love)",
         "artist": {
           "name": "Olivia Dean"
@@ -239,12 +269,6 @@
         "name": "Mr. Brightside",
         "artist": {
           "name": "The Killers"
-        }
-      },
-      {
-        "name": "Orbiter",
-        "artist": {
-          "name": "Noah Kahan"
         }
       },
       {
