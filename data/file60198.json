@@ -8,15 +8,9 @@
         }
       },
       {
-        "name": "hate that i made you love me",
+        "name": "Boston",
         "artist": {
-          "name": "Ariana Grande"
-        }
-      },
-      {
-        "name": "Been By Now",
-        "artist": {
-          "name": "Morgan Wallen"
+          "name": "STELLA LEFTY"
         }
       },
       {
@@ -26,21 +20,15 @@
         }
       },
       {
-        "name": "Boston",
+        "name": "Been By Now",
         "artist": {
-          "name": "STELLA LEFTY"
+          "name": "Morgan Wallen"
         }
       },
       {
-        "name": "I Can't Love You Anymore",
+        "name": "hate that i made you love me",
         "artist": {
-          "name": "Ella Langley / Morgan Wallen"
-        }
-      },
-      {
-        "name": "Dracula (JENNIE Remix)",
-        "artist": {
-          "name": "Tame Impala / JENNIE"
+          "name": "Ariana Grande"
         }
       },
       {
@@ -50,15 +38,15 @@
         }
       },
       {
-        "name": "Be Her",
-        "artist": {
-          "name": "Ella Langley"
-        }
-      },
-      {
         "name": "Man I Need",
         "artist": {
           "name": "Olivia Dean"
+        }
+      },
+      {
+        "name": "Be Her",
+        "artist": {
+          "name": "Ella Langley"
         }
       },
       {
@@ -80,12 +68,6 @@
         }
       },
       {
-        "name": "Janice STFU",
-        "artist": {
-          "name": "Drake"
-        }
-      },
-      {
         "name": "stupid song",
         "artist": {
           "name": "Olivia Rodrigo"
@@ -94,7 +76,25 @@
       {
         "name": "Midnight Sun",
         "artist": {
-          "name": "Zara Larsson / Muni Long"
+          "name": "Zara Larsson"
+        }
+      },
+      {
+        "name": "Jolene",
+        "artist": {
+          "name": "Dolly Parton"
+        }
+      },
+      {
+        "name": "Janice STFU",
+        "artist": {
+          "name": "Drake"
+        }
+      },
+      {
+        "name": "9 to 5",
+        "artist": {
+          "name": "Dolly Parton"
         }
       },
       {
@@ -104,63 +104,15 @@
         }
       },
       {
-        "name": "Don't We",
-        "artist": {
-          "name": "Morgan Wallen"
-        }
-      },
-      {
-        "name": "Dead Fresh",
-        "artist": {
-          "name": "Lil Baby"
-        }
-      },
-      {
-        "name": "Kiss Me",
-        "artist": {
-          "name": "New Ways"
-        }
-      },
-      {
-        "name": "Stay",
-        "artist": {
-          "name": "New Day"
-        }
-      },
-      {
-        "name": "Oh Well",
-        "artist": {
-          "name": "Chris K New"
-        }
-      },
-      {
-        "name": "Like I Do",
-        "artist": {
-          "name": "Averno / Sushi Soucy / Janeen Garcia"
-        }
-      },
-      {
-        "name": "Ah Ha",
-        "artist": {
-          "name": "Under the Influence of Giants"
-        }
-      },
-      {
-        "name": "Spend Dat",
-        "artist": {
-          "name": "Yung Miami"
-        }
-      },
-      {
-        "name": "big feelings",
-        "artist": {
-          "name": "Ariana Grande"
-        }
-      },
-      {
         "name": "Earrings",
         "artist": {
           "name": "Malcolm Todd"
+        }
+      },
+      {
+        "name": "Loser",
+        "artist": {
+          "name": "Tame Impala"
         }
       },
       {
@@ -170,33 +122,27 @@
         }
       },
       {
-        "name": "Stateside",
+        "name": "Dead Fresh",
         "artist": {
-          "name": "PinkPantheress"
+          "name": "Lil Baby"
         }
       },
       {
-        "name": "Suddenly Feeling Big",
+        "name": "oh yeah?",
         "artist": {
-          "name": "New York Jazz Vibes"
+          "name": "Steve Lacy"
         }
       },
       {
-        "name": "Dai Dai (FIFA World Cup Official Song 2026)",
+        "name": "Islands In the Stream",
         "artist": {
-          "name": "Flashback Avenue"
+          "name": "Dolly Parton / Kenny Rogers"
         }
       },
       {
-        "name": "Freak",
+        "name": "I Will Always Love You",
         "artist": {
-          "name": "New Genesis"
-        }
-      },
-      {
-        "name": "Never Get Over Me",
-        "artist": {
-          "name": "The Woggles"
+          "name": "Dolly Parton"
         }
       },
       {
@@ -206,15 +152,33 @@
         }
       },
       {
+        "name": "BbY WOW",
+        "artist": {
+          "name": "KAROL G / Judeline / Rusowsky"
+        }
+      },
+      {
         "name": "Animal",
         "artist": {
           "name": "KATSEYE"
         }
       },
       {
-        "name": "bad thing (bunny hop)",
+        "name": "petal",
         "artist": {
           "name": "Ariana Grande"
+        }
+      },
+      {
+        "name": "Loving Life Again",
+        "artist": {
+          "name": "Ella Langley"
+        }
+      },
+      {
+        "name": "Spend Dat",
+        "artist": {
+          "name": "Yung Miami"
         }
       },
       {
@@ -224,21 +188,357 @@
         }
       },
       {
-        "name": "Warning Signs (Interlude)",
+        "name": "Some of Your Love",
         "artist": {
-          "name": "kameron kaye"
+          "name": "PARTYNEXTDOOR"
         }
       },
       {
-        "name": "nowhere, nobody",
+        "name": "What You Need",
         "artist": {
-          "name": "Ariana Grande"
+          "name": "Tems"
         }
       },
       {
-        "name": "Homewrecker",
+        "name": "Orbiter",
+        "artist": {
+          "name": "Noah Kahan"
+        }
+      },
+      {
+        "name": "Freakin’ Out",
+        "artist": {
+          "name": "Dexter and The Moonrocks"
+        }
+      },
+      {
+        "name": "Self Aware",
+        "artist": {
+          "name": "Temper City"
+        }
+      },
+      {
+        "name": "MORNING DEW (DONK)",
+        "artist": {
+          "name": "Beyoncé"
+        }
+      },
+      {
+        "name": "Mr. Know It All",
+        "artist": {
+          "name": "Teddy Swims"
+        }
+      },
+      {
+        "name": "Here You Come Again",
+        "artist": {
+          "name": "Dolly Parton"
+        }
+      },
+      {
+        "name": "Something To Lose",
+        "artist": {
+          "name": "STELLA LEFTY / Vincent Mason"
+        }
+      },
+      {
+        "name": "Woman",
+        "artist": {
+          "name": "Kane Brown"
+        }
+      },
+      {
+        "name": "Cowgirl",
+        "artist": {
+          "name": "Shaboozey"
+        }
+      },
+      {
+        "name": "Hootie Frutti",
+        "artist": {
+          "name": "KATSEYE"
+        }
+      },
+      {
+        "name": "Rethink Some Things",
+        "artist": {
+          "name": "Luke Combs"
+        }
+      },
+      {
+        "name": "Take Me Back (Leave Me There)",
+        "artist": {
+          "name": "Cody Johnson"
+        }
+      },
+      {
+        "name": "AH HA",
+        "artist": {
+          "name": "Cardi B"
+        }
+      },
+      {
+        "name": "bloodstream",
+        "artist": {
+          "name": "Alyssa Grace"
+        }
+      },
+      {
+        "name": "Phone, Keys, Wallet",
+        "artist": {
+          "name": "Lainey Wilson / John Mayer"
+        }
+      },
+      {
+        "name": "Chevy Silverado",
+        "artist": {
+          "name": "Bailey Zimmerman"
+        }
+      },
+      {
+        "name": "Hit the Wall",
+        "artist": {
+          "name": "Gracie Abrams"
+        }
+      },
+      {
+        "name": "Great Expectation",
+        "artist": {
+          "name": "SIENNA SPIRO"
+        }
+      },
+      {
+        "name": "Mexico Honey",
+        "artist": {
+          "name": "Kacey Musgraves"
+        }
+      },
+      {
+        "name": "My Body Isn't Ready",
         "artist": {
           "name": "sombr"
+        }
+      },
+      {
+        "name": "NOBLE (with The Kid LAROI)",
+        "artist": {
+          "name": "F3miii / The Kid LAROI"
+        }
+      },
+      {
+        "name": "Sue me",
+        "artist": {
+          "name": "Audrey Hobert"
+        }
+      },
+      {
+        "name": "Don’t Tell On Me",
+        "artist": {
+          "name": "Jason Aldean"
+        }
+      },
+      {
+        "name": "Ghetto Love Story",
+        "artist": {
+          "name": "BabyChiefDoit"
+        }
+      },
+      {
+        "name": "Doors",
+        "artist": {
+          "name": "Noah Kahan"
+        }
+      },
+      {
+        "name": "Carry On",
+        "artist": {
+          "name": "Kenny Chesney"
+        }
+      },
+      {
+        "name": "Willing and Able",
+        "artist": {
+          "name": "Noah Kahan"
+        }
+      },
+      {
+        "name": "Ain't In LA",
+        "artist": {
+          "name": "ADÉLA"
+        }
+      },
+      {
+        "name": "Another Drink",
+        "artist": {
+          "name": "Marshmello / Kelsea Ballerini"
+        }
+      },
+      {
+        "name": "Think As You Drunk",
+        "artist": {
+          "name": "Riley Green"
+        }
+      },
+      {
+        "name": "maggots for brains",
+        "artist": {
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "name": "McArthur",
+        "artist": {
+          "name": "HARDY / Eric Church / Morgan Wallen / Tim McGraw"
+        }
+      },
+      {
+        "name": "honeybee",
+        "artist": {
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "name": "the feeling",
+        "artist": {
+          "name": "Steve Lacy"
+        }
+      },
+      {
+        "name": "expectations",
+        "artist": {
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "name": "Ahí",
+        "artist": {
+          "name": "KAROL G / Drake"
+        }
+      },
+      {
+        "name": "Empty Words",
+        "artist": {
+          "name": "Corey Kent"
+        }
+      },
+      {
+        "name": "South Of Sanity",
+        "artist": {
+          "name": "Zach Top"
+        }
+      },
+      {
+        "name": "misery.",
+        "artist": {
+          "name": "pupsies"
+        }
+      },
+      {
+        "name": "House Tour",
+        "artist": {
+          "name": "Sabrina Carpenter"
+        }
+      },
+      {
+        "name": "Bottom Of Your Boots",
+        "artist": {
+          "name": "Ella Langley"
+        }
+      },
+      {
+        "name": "In My Room",
+        "artist": {
+          "name": "Julia Wolf"
+        }
+      },
+      {
+        "name": "Still",
+        "artist": {
+          "name": "KAROL G / Bruno Mars"
+        }
+      },
+      {
+        "name": "String By",
+        "artist": {
+          "name": "Mack Geiger"
+        }
+      },
+      {
+        "name": "End of August",
+        "artist": {
+          "name": "Noah Kahan"
+        }
+      },
+      {
+        "name": "Routine Rouge",
+        "artist": {
+          "name": "PARTYNEXTDOOR"
+        }
+      },
+      {
+        "name": "Matadora",
+        "artist": {
+          "name": "KAROL G"
+        }
+      },
+      {
+        "name": "No Need For Leavin'",
+        "artist": {
+          "name": "Kameron Marlowe"
+        }
+      },
+      {
+        "name": "Kid Myself",
+        "artist": {
+          "name": "John Morgan"
+        }
+      },
+      {
+        "name": "All My Exes",
+        "artist": {
+          "name": "Lauren Alaina / Chase Matthew"
+        }
+      },
+      {
+        "name": "Painted You Pretty",
+        "artist": {
+          "name": "Hudson Westbrook"
+        }
+      },
+      {
+        "name": "Hands Up",
+        "artist": {
+          "name": "Jelly Roll"
+        }
+      },
+      {
+        "name": "RUBBERZ",
+        "artist": {
+          "name": "Fenix Flexin / Purps On The Beat"
+        }
+      },
+      {
+        "name": "Bet On That",
+        "artist": {
+          "name": "Blake Whiten"
+        }
+      },
+      {
+        "name": "Ran To Atlanta",
+        "artist": {
+          "name": "Drake / Future / Molly Santana"
+        }
+      },
+      {
+        "name": "National Treasures",
+        "artist": {
+          "name": "Drake"
+        }
+      },
+      {
+        "name": "Sunburn",
+        "artist": {
+          "name": "Tucker Wetmore"
         }
       }
     ]
