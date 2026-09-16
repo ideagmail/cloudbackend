@@ -32,6 +32,12 @@
         }
       },
       {
+        "name": "Dracula (JENNIE Remix)",
+        "artist": {
+          "name": "Tame Impala / JENNIE"
+        }
+      },
+      {
         "name": "So Easy (To Fall In Love)",
         "artist": {
           "name": "Olivia Dean"
@@ -50,9 +56,33 @@
         }
       },
       {
+        "name": "BbY WOW",
+        "artist": {
+          "name": "KAROL G / Judeline / Rusowsky"
+        }
+      },
+      {
         "name": "Risk It All",
         "artist": {
           "name": "Bruno Mars"
+        }
+      },
+      {
+        "name": "stupid song",
+        "artist": {
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "name": "Midnight Sun",
+        "artist": {
+          "name": "Zara Larsson / Muni Long"
+        }
+      },
+      {
+        "name": "I Can't Love You Anymore",
+        "artist": {
+          "name": "Ella Langley / Morgan Wallen"
         }
       },
       {
@@ -68,21 +98,9 @@
         }
       },
       {
-        "name": "stupid song",
+        "name": "Be By You",
         "artist": {
-          "name": "Olivia Rodrigo"
-        }
-      },
-      {
-        "name": "Midnight Sun",
-        "artist": {
-          "name": "Zara Larsson"
-        }
-      },
-      {
-        "name": "Jolene",
-        "artist": {
-          "name": "Dolly Parton"
+          "name": "Luke Combs"
         }
       },
       {
@@ -92,27 +110,9 @@
         }
       },
       {
-        "name": "9 to 5",
-        "artist": {
-          "name": "Dolly Parton"
-        }
-      },
-      {
-        "name": "Be By You",
-        "artist": {
-          "name": "Luke Combs"
-        }
-      },
-      {
         "name": "Earrings",
         "artist": {
           "name": "Malcolm Todd"
-        }
-      },
-      {
-        "name": "Loser",
-        "artist": {
-          "name": "Tame Impala"
         }
       },
       {
@@ -128,45 +128,15 @@
         }
       },
       {
-        "name": "oh yeah?",
+        "name": "Loser",
         "artist": {
-          "name": "Steve Lacy"
+          "name": "Tame Impala"
         }
       },
       {
-        "name": "Islands In the Stream",
+        "name": "Jaded",
         "artist": {
-          "name": "Dolly Parton / Kenny Rogers"
-        }
-      },
-      {
-        "name": "I Will Always Love You",
-        "artist": {
-          "name": "Dolly Parton"
-        }
-      },
-      {
-        "name": "the cure",
-        "artist": {
-          "name": "Olivia Rodrigo"
-        }
-      },
-      {
-        "name": "BbY WOW",
-        "artist": {
-          "name": "KAROL G / Judeline / Rusowsky"
-        }
-      },
-      {
-        "name": "Animal",
-        "artist": {
-          "name": "KATSEYE"
-        }
-      },
-      {
-        "name": "petal",
-        "artist": {
-          "name": "Ariana Grande"
+          "name": "Koe Wetzel / Ella Langley"
         }
       },
       {
@@ -176,21 +146,51 @@
         }
       },
       {
+        "name": "the cure",
+        "artist": {
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "name": "oh yeah?",
+        "artist": {
+          "name": "Steve Lacy"
+        }
+      },
+      {
+        "name": "Animal",
+        "artist": {
+          "name": "KATSEYE"
+        }
+      },
+      {
         "name": "Spend Dat",
         "artist": {
           "name": "Yung Miami"
         }
       },
       {
-        "name": "Shabang",
+        "name": "Dai Dai (FIFA World Cup Official Song 2026)",
         "artist": {
-          "name": "Drake"
+          "name": "Flashback Avenue"
         }
       },
       {
-        "name": "Some of Your Love",
+        "name": "MORNING DEW (DONK)",
         "artist": {
-          "name": "PARTYNEXTDOOR"
+          "name": "Beyoncé"
+        }
+      },
+      {
+        "name": "9 to 5",
+        "artist": {
+          "name": "Dolly Parton"
+        }
+      },
+      {
+        "name": "Jolene",
+        "artist": {
+          "name": "Dolly Parton"
         }
       },
       {
@@ -200,15 +200,27 @@
         }
       },
       {
-        "name": "Orbiter",
+        "name": "Cinderella (feat. Ty Dolla $ign)",
         "artist": {
-          "name": "Noah Kahan"
+          "name": "Mac Miller / Ty Dolla $ign"
         }
       },
       {
-        "name": "Freakin’ Out",
+        "name": "petal",
         "artist": {
-          "name": "Dexter and The Moonrocks"
+          "name": "Ariana Grande"
+        }
+      },
+      {
+        "name": "Shabang",
+        "artist": {
+          "name": "Drake"
+        }
+      },
+      {
+        "name": "Orbiter",
+        "artist": {
+          "name": "Noah Kahan"
         }
       },
       {
@@ -224,321 +236,15 @@
         }
       },
       {
-        "name": "Mr. Know It All",
+        "name": "Freakin’ Out",
         "artist": {
-          "name": "Teddy Swims"
+          "name": "Dexter and The Moonrocks"
         }
       },
       {
-        "name": "Here You Come Again",
+        "name": "Piece of Your Love",
         "artist": {
-          "name": "Dolly Parton"
-        }
-      },
-      {
-        "name": "Something To Lose",
-        "artist": {
-          "name": "STELLA LEFTY / Vincent Mason"
-        }
-      },
-      {
-        "name": "Woman",
-        "artist": {
-          "name": "Kane Brown"
-        }
-      },
-      {
-        "name": "Cowgirl",
-        "artist": {
-          "name": "Shaboozey"
-        }
-      },
-      {
-        "name": "Hootie Frutti",
-        "artist": {
-          "name": "KATSEYE"
-        }
-      },
-      {
-        "name": "Rethink Some Things",
-        "artist": {
-          "name": "Luke Combs"
-        }
-      },
-      {
-        "name": "Take Me Back (Leave Me There)",
-        "artist": {
-          "name": "Cody Johnson"
-        }
-      },
-      {
-        "name": "AH HA",
-        "artist": {
-          "name": "Cardi B"
-        }
-      },
-      {
-        "name": "bloodstream",
-        "artist": {
-          "name": "Alyssa Grace"
-        }
-      },
-      {
-        "name": "Phone, Keys, Wallet",
-        "artist": {
-          "name": "Lainey Wilson / John Mayer"
-        }
-      },
-      {
-        "name": "Chevy Silverado",
-        "artist": {
-          "name": "Bailey Zimmerman"
-        }
-      },
-      {
-        "name": "Hit the Wall",
-        "artist": {
-          "name": "Gracie Abrams"
-        }
-      },
-      {
-        "name": "Great Expectation",
-        "artist": {
-          "name": "SIENNA SPIRO"
-        }
-      },
-      {
-        "name": "Mexico Honey",
-        "artist": {
-          "name": "Kacey Musgraves"
-        }
-      },
-      {
-        "name": "My Body Isn't Ready",
-        "artist": {
-          "name": "sombr"
-        }
-      },
-      {
-        "name": "NOBLE (with The Kid LAROI)",
-        "artist": {
-          "name": "F3miii / The Kid LAROI"
-        }
-      },
-      {
-        "name": "Sue me",
-        "artist": {
-          "name": "Audrey Hobert"
-        }
-      },
-      {
-        "name": "Don’t Tell On Me",
-        "artist": {
-          "name": "Jason Aldean"
-        }
-      },
-      {
-        "name": "Ghetto Love Story",
-        "artist": {
-          "name": "BabyChiefDoit"
-        }
-      },
-      {
-        "name": "Doors",
-        "artist": {
-          "name": "Noah Kahan"
-        }
-      },
-      {
-        "name": "Carry On",
-        "artist": {
-          "name": "Kenny Chesney"
-        }
-      },
-      {
-        "name": "Willing and Able",
-        "artist": {
-          "name": "Noah Kahan"
-        }
-      },
-      {
-        "name": "Ain't In LA",
-        "artist": {
-          "name": "ADÉLA"
-        }
-      },
-      {
-        "name": "Another Drink",
-        "artist": {
-          "name": "Marshmello / Kelsea Ballerini"
-        }
-      },
-      {
-        "name": "Think As You Drunk",
-        "artist": {
-          "name": "Riley Green"
-        }
-      },
-      {
-        "name": "maggots for brains",
-        "artist": {
-          "name": "Olivia Rodrigo"
-        }
-      },
-      {
-        "name": "McArthur",
-        "artist": {
-          "name": "HARDY / Eric Church / Morgan Wallen / Tim McGraw"
-        }
-      },
-      {
-        "name": "honeybee",
-        "artist": {
-          "name": "Olivia Rodrigo"
-        }
-      },
-      {
-        "name": "the feeling",
-        "artist": {
-          "name": "Steve Lacy"
-        }
-      },
-      {
-        "name": "expectations",
-        "artist": {
-          "name": "Olivia Rodrigo"
-        }
-      },
-      {
-        "name": "Ahí",
-        "artist": {
-          "name": "KAROL G / Drake"
-        }
-      },
-      {
-        "name": "Empty Words",
-        "artist": {
-          "name": "Corey Kent"
-        }
-      },
-      {
-        "name": "South Of Sanity",
-        "artist": {
-          "name": "Zach Top"
-        }
-      },
-      {
-        "name": "misery.",
-        "artist": {
-          "name": "pupsies"
-        }
-      },
-      {
-        "name": "House Tour",
-        "artist": {
-          "name": "Sabrina Carpenter"
-        }
-      },
-      {
-        "name": "Bottom Of Your Boots",
-        "artist": {
-          "name": "Ella Langley"
-        }
-      },
-      {
-        "name": "In My Room",
-        "artist": {
-          "name": "Julia Wolf"
-        }
-      },
-      {
-        "name": "Still",
-        "artist": {
-          "name": "KAROL G / Bruno Mars"
-        }
-      },
-      {
-        "name": "String By",
-        "artist": {
-          "name": "Mack Geiger"
-        }
-      },
-      {
-        "name": "End of August",
-        "artist": {
-          "name": "Noah Kahan"
-        }
-      },
-      {
-        "name": "Routine Rouge",
-        "artist": {
-          "name": "PARTYNEXTDOOR"
-        }
-      },
-      {
-        "name": "Matadora",
-        "artist": {
-          "name": "KAROL G"
-        }
-      },
-      {
-        "name": "No Need For Leavin'",
-        "artist": {
-          "name": "Kameron Marlowe"
-        }
-      },
-      {
-        "name": "Kid Myself",
-        "artist": {
-          "name": "John Morgan"
-        }
-      },
-      {
-        "name": "All My Exes",
-        "artist": {
-          "name": "Lauren Alaina / Chase Matthew"
-        }
-      },
-      {
-        "name": "Painted You Pretty",
-        "artist": {
-          "name": "Hudson Westbrook"
-        }
-      },
-      {
-        "name": "Hands Up",
-        "artist": {
-          "name": "Jelly Roll"
-        }
-      },
-      {
-        "name": "RUBBERZ",
-        "artist": {
-          "name": "Fenix Flexin / Purps On The Beat"
-        }
-      },
-      {
-        "name": "Bet On That",
-        "artist": {
-          "name": "Blake Whiten"
-        }
-      },
-      {
-        "name": "Ran To Atlanta",
-        "artist": {
-          "name": "Drake / Future / Molly Santana"
-        }
-      },
-      {
-        "name": "National Treasures",
-        "artist": {
-          "name": "Drake"
-        }
-      },
-      {
-        "name": "Sunburn",
-        "artist": {
-          "name": "Tucker Wetmore"
+          "name": "GRESLEY"
         }
       }
     ]
