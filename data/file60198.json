@@ -32,12 +32,6 @@
         }
       },
       {
-        "name": "Dracula (JENNIE Remix)",
-        "artist": {
-          "name": "Tame Impala / JENNIE"
-        }
-      },
-      {
         "name": "So Easy (To Fall In Love)",
         "artist": {
           "name": "Olivia Dean"
@@ -76,13 +70,7 @@
       {
         "name": "Midnight Sun",
         "artist": {
-          "name": "Zara Larsson / Muni Long"
-        }
-      },
-      {
-        "name": "I Can't Love You Anymore",
-        "artist": {
-          "name": "Ella Langley / Morgan Wallen"
+          "name": "Zara Larsson"
         }
       },
       {
@@ -134,12 +122,6 @@
         }
       },
       {
-        "name": "Jaded",
-        "artist": {
-          "name": "Koe Wetzel / Ella Langley"
-        }
-      },
-      {
         "name": "Loving Life Again",
         "artist": {
           "name": "Ella Langley"
@@ -170,27 +152,15 @@
         }
       },
       {
-        "name": "Dai Dai (FIFA World Cup Official Song 2026)",
+        "name": "Ain't In LA",
         "artist": {
-          "name": "Flashback Avenue"
+          "name": "ADÉLA"
         }
       },
       {
         "name": "MORNING DEW (DONK)",
         "artist": {
           "name": "Beyoncé"
-        }
-      },
-      {
-        "name": "9 to 5",
-        "artist": {
-          "name": "Dolly Parton"
-        }
-      },
-      {
-        "name": "Jolene",
-        "artist": {
-          "name": "Dolly Parton"
         }
       },
       {
@@ -200,15 +170,9 @@
         }
       },
       {
-        "name": "Cinderella (feat. Ty Dolla $ign)",
+        "name": "Take Me Back (Leave Me There)",
         "artist": {
-          "name": "Mac Miller / Ty Dolla $ign"
-        }
-      },
-      {
-        "name": "petal",
-        "artist": {
-          "name": "Ariana Grande"
+          "name": "Cody Johnson"
         }
       },
       {
@@ -218,9 +182,39 @@
         }
       },
       {
+        "name": "petal",
+        "artist": {
+          "name": "Ariana Grande"
+        }
+      },
+      {
+        "name": "Mr. Know It All",
+        "artist": {
+          "name": "Teddy Swims"
+        }
+      },
+      {
         "name": "Orbiter",
         "artist": {
           "name": "Noah Kahan"
+        }
+      },
+      {
+        "name": "Rethink Some Things",
+        "artist": {
+          "name": "Luke Combs"
+        }
+      },
+      {
+        "name": "AH HA",
+        "artist": {
+          "name": "Cardi B"
+        }
+      },
+      {
+        "name": "Cowgirl",
+        "artist": {
+          "name": "Shaboozey"
         }
       },
       {
@@ -230,9 +224,21 @@
         }
       },
       {
-        "name": "MORNING DEW (DONK)",
+        "name": "Jolene",
         "artist": {
-          "name": "Beyoncé"
+          "name": "Dolly Parton"
+        }
+      },
+      {
+        "name": "Nicole Kidman",
+        "artist": {
+          "name": "ADÉLA"
+        }
+      },
+      {
+        "name": "bloodstream",
+        "artist": {
+          "name": "Alyssa Grace"
         }
       },
       {
@@ -242,9 +248,297 @@
         }
       },
       {
-        "name": "Piece of Your Love",
+        "name": "Something To Lose",
         "artist": {
-          "name": "GRESLEY"
+          "name": "STELLA LEFTY / Vincent Mason"
+        }
+      },
+      {
+        "name": "Phone, Keys, Wallet",
+        "artist": {
+          "name": "Lainey Wilson / John Mayer"
+        }
+      },
+      {
+        "name": "Hit the Wall",
+        "artist": {
+          "name": "Gracie Abrams"
+        }
+      },
+      {
+        "name": "Great Expectation",
+        "artist": {
+          "name": "SIENNA SPIRO"
+        }
+      },
+      {
+        "name": "Carry On",
+        "artist": {
+          "name": "Kenny Chesney"
+        }
+      },
+      {
+        "name": "My Body Isn't Ready",
+        "artist": {
+          "name": "sombr"
+        }
+      },
+      {
+        "name": "Mexico Honey",
+        "artist": {
+          "name": "Kacey Musgraves"
+        }
+      },
+      {
+        "name": "Sue me",
+        "artist": {
+          "name": "Audrey Hobert"
+        }
+      },
+      {
+        "name": "Think As You Drunk",
+        "artist": {
+          "name": "Riley Green"
+        }
+      },
+      {
+        "name": "Chevy Silverado",
+        "artist": {
+          "name": "Bailey Zimmerman"
+        }
+      },
+      {
+        "name": "Another Drink",
+        "artist": {
+          "name": "Marshmello / Kelsea Ballerini"
+        }
+      },
+      {
+        "name": "NOBLE (with The Kid LAROI)",
+        "artist": {
+          "name": "F3miii / The Kid LAROI"
+        }
+      },
+      {
+        "name": "Ghetto Love Story",
+        "artist": {
+          "name": "BabyChiefDoit"
+        }
+      },
+      {
+        "name": "Willing and Able",
+        "artist": {
+          "name": "Noah Kahan"
+        }
+      },
+      {
+        "name": "Still",
+        "artist": {
+          "name": "KAROL G / Bruno Mars"
+        }
+      },
+      {
+        "name": "maggots for brains",
+        "artist": {
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "name": "Empty Words",
+        "artist": {
+          "name": "Corey Kent"
+        }
+      },
+      {
+        "name": "Hootie Frutti",
+        "artist": {
+          "name": "KATSEYE"
+        }
+      },
+      {
+        "name": "Doors",
+        "artist": {
+          "name": "Noah Kahan"
+        }
+      },
+      {
+        "name": "SaWaDiKa",
+        "artist": {
+          "name": "LISA"
+        }
+      },
+      {
+        "name": "McArthur",
+        "artist": {
+          "name": "HARDY / Eric Church / Morgan Wallen / Tim McGraw"
+        }
+      },
+      {
+        "name": "String By",
+        "artist": {
+          "name": "Mack Geiger"
+        }
+      },
+      {
+        "name": "expectations",
+        "artist": {
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "name": "the feeling",
+        "artist": {
+          "name": "Steve Lacy"
+        }
+      },
+      {
+        "name": "Kid Myself",
+        "artist": {
+          "name": "John Morgan"
+        }
+      },
+      {
+        "name": "honeybee",
+        "artist": {
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "name": "Ahí",
+        "artist": {
+          "name": "KAROL G / Drake"
+        }
+      },
+      {
+        "name": "South Of Sanity",
+        "artist": {
+          "name": "Zach Top"
+        }
+      },
+      {
+        "name": "Some of Your Love",
+        "artist": {
+          "name": "PARTYNEXTDOOR"
+        }
+      },
+      {
+        "name": "All My Exes",
+        "artist": {
+          "name": "Lauren Alaina / Chase Matthew"
+        }
+      },
+      {
+        "name": "Painted You Pretty",
+        "artist": {
+          "name": "Hudson Westbrook"
+        }
+      },
+      {
+        "name": "Country And She Knows It",
+        "artist": {
+          "name": "Luke Bryan"
+        }
+      },
+      {
+        "name": "Hands Up",
+        "artist": {
+          "name": "Jelly Roll"
+        }
+      },
+      {
+        "name": "In My Room",
+        "artist": {
+          "name": "Julia Wolf"
+        }
+      },
+      {
+        "name": "Bet On That",
+        "artist": {
+          "name": "Blake Whiten"
+        }
+      },
+      {
+        "name": "No Need For Leavin'",
+        "artist": {
+          "name": "Kameron Marlowe"
+        }
+      },
+      {
+        "name": "Get To Drinkin'",
+        "artist": {
+          "name": "Zach John King"
+        }
+      },
+      {
+        "name": "Amor",
+        "artist": {
+          "name": "Emmanuel Cortés"
+        }
+      },
+      {
+        "name": "Dope Girl",
+        "artist": {
+          "name": "Rod Wave"
+        }
+      },
+      {
+        "name": "End of August",
+        "artist": {
+          "name": "Noah Kahan"
+        }
+      },
+      {
+        "name": "House Tour",
+        "artist": {
+          "name": "Sabrina Carpenter"
+        }
+      },
+      {
+        "name": "Ran To Atlanta",
+        "artist": {
+          "name": "Drake / Future / Molly Santana"
+        }
+      },
+      {
+        "name": "Kingdom of Fear",
+        "artist": {
+          "name": "Cameron Whitcomb"
+        }
+      },
+      {
+        "name": "Stop The Wedding!",
+        "artist": {
+          "name": "Ashe"
+        }
+      },
+      {
+        "name": "less",
+        "artist": {
+          "name": "Olivia Rodrigo"
+        }
+      },
+      {
+        "name": "Piece Of Your Love",
+        "artist": {
+          "name": "Rod Wave"
+        }
+      },
+      {
+        "name": "Matadora",
+        "artist": {
+          "name": "KAROL G"
+        }
+      },
+      {
+        "name": "misery.",
+        "artist": {
+          "name": "pupsies"
+        }
+      },
+      {
+        "name": "Ayúdame",
+        "artist": {
+          "name": "LOS DOS DE TAMAULIPAS"
         }
       }
     ]
